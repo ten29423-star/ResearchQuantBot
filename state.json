@@ -3069,7 +3069,8 @@
    "https://databricks.com/blog/solving-defense-supply-chain-visibility-through-governed-data-sharing",
    "https://databricks.com/blog/announcing-workday-data-connect-federation-unity-catalog",
    "https://databricks.com/blog/introducing-funke-native-hl7v2-parsing-databricks",
-   "https://databricks.com/blog/lakebase-and-agentic-sdlc-branching-databases-coding-agents"
+   "https://databricks.com/blog/lakebase-and-agentic-sdlc-branching-databases-coding-agents",
+   "https://databricks.com/blog/practical-guide-real-time-analytics-2026"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3486,5 +3487,130 @@
   "Bitcoin BIPs": 0,
   "Delving Bitcoin": 0,
   "a16z crypto": 0
+ },
+ "last": {
+  "OpenAI": {
+   "title": "Higgsfield takes AI video from 1 minute to over 10",
+   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "exact": true
+  },
+  "Google DeepMind": {
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "exact": true
+  },
+  "Google Research": {
+   "title": "Does better work always mean better workers?",
+   "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+   "exact": true
+  },
+  "Microsoft Research": {
+   "title": "Simulating student learning for better AI tutoring",
+   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+   "exact": true
+  },
+  "NVIDIA Research": {
+   "title": "How Open Models Are Driving AI Research",
+   "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+   "exact": true
+  },
+  "Apple ML Research": {
+   "title": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
+   "url": "https://machinelearning.apple.com/research/mix-dont-tune",
+   "exact": true
+  },
+  "Amazon Science": {
+   "title": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
+   "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+   "exact": true
+  },
+  "IBM Research": {
+   "title": "Preparing chip designers for the nanostack era",
+   "url": "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era?utm_medium=rss&utm_source=rss",
+   "exact": true
+  },
+  "Hugging Face (blog)": {
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "exact": true
+  },
+  "Anthropic": {
+   "title": "A Postmortem Of Three Recent Issues",
+   "url": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
+   "exact": false
+  },
+  "Mistral": {
+   "title": "Introducing Mistral Large 4",
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "exact": true
+  },
+  "Allen AI": {
+   "title": "How Molmo 2’s open release helped an MIT researcher rethink fish tracking",
+   "url": "https://allenai.org/blog/molmo2fish",
+   "exact": true
+  },
+  "Thinking Machines": {
+   "title": "A Safe Path to Open Weights",
+   "url": "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/",
+   "exact": true
+  },
+  "Databricks": {
+   "title": "A practical guide to real-time analytics in 2026",
+   "url": "https://www.databricks.com/blog/practical-guide-real-time-analytics-2026",
+   "exact": true
+  },
+  "BAIR (Berkeley)": {
+   "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+   "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+   "exact": true
+  },
+  "Solana News": {
+   "title": "Payments on Solana: September 2026 in Five Stories",
+   "url": "https://solana.com/news/payments-on-solana-september-2026-in-five-stories",
+   "exact": true
+  },
+  "Firedancer (releases)": {
+   "title": "Firedancer Testnet Release v26.10.1",
+   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.1",
+   "exact": true
+  },
+  "Solana SIMD": {
+   "title": "amend SIMD-0464: clarify aliasing rules (#618)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/f1f6c8b05dc205552d3c290a854a438392701107",
+   "exact": true
+  },
+  "Helius": {
+   "title": "Agave 4.3 Update: All You Need to Know",
+   "url": "https://www.helius.dev/blog/agave-v4-3",
+   "exact": true
+  },
+  "Bitcoin Optech": {
+   "title": "Bitcoin Optech Newsletter #426",
+   "url": "https://bitcoinops.org/en/newsletters/2026/10/09/",
+   "exact": true
+  },
+  "Bitcoin BIPs": {
+   "title": "Address some wording nits in BIP 54 (#2313)",
+   "url": "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
+   "exact": true
+  },
+  "Delving Bitcoin": {
+   "title": "Open-source Bitcoin multisig coordinator: shared signing queue, hardware wallets, live signet demo",
+   "url": "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
+   "exact": true
+  },
+  "a16z crypto": {
+   "title": "The key to getting more institutions onchain: Rethinking KYC",
+   "url": "https://a16zcrypto.com/posts/article/rethinking-kyc",
+   "exact": true
+  }
+ },
+ "weekly": {
+  "since": 1791930324.4216352,
+  "runs": 1,
+  "sent": 1,
+  "by_source": {
+   "Databricks": 1
+  }
  }
 }
