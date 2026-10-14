@@ -1390,7 +1390,8 @@
    "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region",
    "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3",
    "https://deepmind.google/blog/introducing-google-antigravity",
-   "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model"
+   "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model",
+   "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -3116,7 +3117,8 @@
    "https://github.com/firedancer-io/firedancer/releases/tag/v0.1203.40302",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.09.3",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.08.5",
-   "https://github.com/firedancer-io/firedancer/releases/tag/v26.09.2"
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.09.2",
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.2"
   ],
   "Solana SIMD": [
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f1f6c8b05dc205552d3c290a854a438392701107",
@@ -3495,8 +3497,8 @@
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Developing Gemini 4 Argon responsibly and safely",
-   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
    "exact": true
   },
   "Google Research": {
@@ -3570,8 +3572,8 @@
    "exact": true
   },
   "Firedancer (releases)": {
-   "title": "Firedancer Testnet Release v26.10.1",
-   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.1",
+   "title": "Firedancer Mainnet Release v26.10.2",
+   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.2",
    "exact": true
   },
   "Solana SIMD": {
@@ -3607,10 +3609,12 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 7,
-  "sent": 1,
+  "runs": 8,
+  "sent": 3,
   "by_source": {
-   "Databricks": 1
+   "Databricks": 1,
+   "Google DeepMind": 1,
+   "Firedancer (releases)": 1
   }
  }
 }
