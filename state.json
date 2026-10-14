@@ -1290,7 +1290,8 @@
    "https://openai.com/index/weight-normalization",
    "https://openai.com/index/introducing-openai",
    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "https://openai.com/index/third-moment-research"
+   "https://openai.com/index/third-moment-research",
+   "https://openai.com/index/amp-beyond-coding"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1495,7 +1496,10 @@
    "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent",
    "https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk",
    "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design",
-   "https://research.google/blog/accelerating-the-magic-cycle-of-research-breakthroughs-and-real-world-applications"
+   "https://research.google/blog/accelerating-the-magic-cycle-of-research-breakthroughs-and-real-world-applications",
+   "https://research.google/blog/analyzing-technical-documents-with-deep-review",
+   "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
+   "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -1540,7 +1544,8 @@
    "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning",
    "https://machinelearning.apple.com/research/limits-confidence-diffusion",
    "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
-   "https://machinelearning.apple.com/research/tri-modal-masked-diffusion"
+   "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
+   "https://machinelearning.apple.com/research/code-switching-detection"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -2467,7 +2472,8 @@
    "https://huggingface.co/blog/pytorch_block_sparse",
    "https://huggingface.co/blog/reformer",
    "https://huggingface.co/blog/how-to-generate",
-   "https://huggingface.co/blog/how-to-train"
+   "https://huggingface.co/blog/how-to-train",
+   "https://huggingface.co/blog/allenai/hiro-acev2"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3053,7 +3059,8 @@
    "https://allenai.org/blog/pham-molmoact2-testimonial",
    "https://allenai.org/blog/flexmore",
    "https://allenai.org/blog/discoformer",
-   "https://allenai.org/blog/hybrid-token-prediction"
+   "https://allenai.org/blog/hybrid-token-prediction",
+   "https://allenai.org/blog/hiro-acev2"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3500,8 +3507,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "url": "https://openai.com/index/third-moment-research",
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding",
    "exact": true
   },
   "Google DeepMind": {
@@ -3510,8 +3517,8 @@
    "exact": true
   },
   "Google Research": {
-   "title": "Does better work always mean better workers?",
-   "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+   "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+   "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
    "exact": true
   },
   "Microsoft Research": {
@@ -3525,8 +3532,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "The Design Space of Tri-Modal Masked Diffusion Models",
-   "url": "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
+   "title": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models",
+   "url": "https://machinelearning.apple.com/research/code-switching-detection",
    "exact": true
   },
   "Amazon Science": {
@@ -3540,8 +3547,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
    "exact": true
   },
   "Anthropic": {
@@ -3555,8 +3562,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "How Molmo 2’s open release helped an MIT researcher rethink fish tracking",
-   "url": "https://allenai.org/blog/molmo2fish",
+   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+   "url": "https://allenai.org/blog/hiro-acev2",
    "exact": true
   },
   "Thinking Machines": {
@@ -3617,8 +3624,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 25,
-  "sent": 11,
+  "runs": 26,
+  "sent": 18,
   "by_source": {
    "Databricks": 3,
    "Google DeepMind": 1,
@@ -3626,8 +3633,11 @@
    "Delving Bitcoin": 1,
    "Bitcoin Optech": 1,
    "Anthropic": 1,
-   "OpenAI": 2,
-   "Apple ML Research": 1
+   "OpenAI": 3,
+   "Apple ML Research": 2,
+   "Google Research": 3,
+   "Hugging Face (blog)": 1,
+   "Allen AI": 1
   }
  }
 }
