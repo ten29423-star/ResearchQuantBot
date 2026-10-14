@@ -2931,7 +2931,8 @@
    "https://anthropic.com/research/what-work-can-robots-do",
    "https://anthropic.com/research/yes-claude-can-do-nine-loops",
    "https://anthropic.com/research/your-thoughts-on-ai",
-   "https://anthropic.com/research/zero-days"
+   "https://anthropic.com/research/zero-days",
+   "https://anthropic.com/news/singapore-office-opening"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3540,8 +3541,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "A Postmortem Of Three Recent Issues",
-   "url": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
+   "title": "Singapore Office Opening",
+   "url": "https://www.anthropic.com/news/singapore-office-opening",
    "exact": false
   },
   "Mistral": {
@@ -3612,14 +3613,15 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 16,
-  "sent": 6,
+  "runs": 17,
+  "sent": 7,
   "by_source": {
    "Databricks": 2,
    "Google DeepMind": 1,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 1,
-   "Bitcoin Optech": 1
+   "Bitcoin Optech": 1,
+   "Anthropic": 1
   }
  }
 }
