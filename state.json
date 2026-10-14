@@ -1292,7 +1292,8 @@
    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
    "https://openai.com/index/third-moment-research",
    "https://openai.com/index/amp-beyond-coding",
-   "https://openai.com/index/sentinelone"
+   "https://openai.com/index/sentinelone",
+   "https://openai.com/index/block-ai-powered-security"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3090,7 +3091,9 @@
    "https://databricks.com/blog/oltp-vs-olap-choosing-between-transactional-and-analytical-databases",
    "https://databricks.com/blog/what-htap-plain-english-guide-hybrid-transactionalanalytical-processing",
    "https://databricks.com/blog/everyones-adopting-ai-agents-almost-no-one-can-prove-roi-heres-why",
-   "https://databricks.com/blog/power-real-time-applications-and-agents-document-intelligence"
+   "https://databricks.com/blog/power-real-time-applications-and-agents-document-intelligence",
+   "https://databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime",
+   "https://databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3601,8 +3604,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "SentinelOne cuts malware analysis from weeks to hours",
-   "url": "https://openai.com/index/sentinelone",
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "url": "https://openai.com/index/block-ai-powered-security",
    "exact": true
   },
   "Google DeepMind": {
@@ -3666,8 +3669,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Power real-time applications and agents with Document Intelligence",
-   "url": "https://www.databricks.com/blog/power-real-time-applications-and-agents-document-intelligence",
+   "title": "Unlock powerful insights and forecasts with Predictive AI Functions",
+   "url": "https://www.databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3733,16 +3736,16 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 35,
-  "sent": 25,
+  "runs": 36,
+  "sent": 28,
   "by_source": {
-   "Databricks": 7,
+   "Databricks": 9,
    "Google DeepMind": 1,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 2,
    "Bitcoin Optech": 1,
    "Anthropic": 2,
-   "OpenAI": 4,
+   "OpenAI": 5,
    "Apple ML Research": 2,
    "Google Research": 3,
    "Hugging Face (blog)": 1,
