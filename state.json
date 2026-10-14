@@ -3427,7 +3427,8 @@
    "https://delvingbitcoin.org/t/pragmatic-definition-of-consensus-for-light-clients/2842",
    "https://delvingbitcoin.org/t/mempool-bitmixlist-org-the-community-mempool-space-node/2836",
    "https://delvingbitcoin.org/t/faster-txid-hash-tables-with-siphash-1-3-uj/2834",
-   "https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available/2958"
+   "https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available/2958",
+   "https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy/2959"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3460,6 +3461,87 @@
    "https://a16zcrypto.com/posts/videos/leslie-lamport-on-distributed-systems",
    "https://a16zcrypto.com/posts/article/south-korea-blockchain-race",
    "https://a16zcrypto.com/posts/article/prediction-market-record-week-data-charts"
+  ],
+  "SEC Press Releases": [
+   "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+   "https://sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+   "https://sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+   "https://sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
+   "https://sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week",
+   "https://sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+   "https://sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook",
+   "https://sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests",
+   "https://sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
+   "https://sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
+   "https://sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
+   "https://sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+   "https://sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
+   "https://sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
+   "https://sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
+   "https://sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+   "https://sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process",
+   "https://sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements",
+   "https://sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution",
+   "https://sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
+   "https://sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
+   "https://sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting",
+   "https://sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
+   "https://sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
+   "https://sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
+  ],
+  "SEC Trading Suspensions": [
+   "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
+   "https://sec.gov/files/litigation/suspensions/2026/34-104763.pdf",
+   "https://sec.gov/files/litigation/suspensions/2026/34-104613.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104317.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104180.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104176.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104169.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104168.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104167.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104166.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104165.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104164.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104163.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104113.pdf",
+   "https://sec.gov/files/litigation/suspensions/2025/34-104112.pdf",
+   "https://sec.gov/files/litigation/suspensions/2024/34-101272.pdf",
+   "https://sec.gov/files/litigation/suspensions/2024/34-100956.pdf",
+   "https://sec.gov/files/litigation/suspensions/2023/34-98921.pdf",
+   "https://sec.gov/files/litigation/suspensions/2023/34-98920.pdf",
+   "https://sec.gov/files/litigation/suspensions/2023/34-98519.pdf",
+   "https://sec.gov/files/litigation/suspensions/2023/34-97493.pdf",
+   "https://sec.gov/files/litigation/suspensions/2022/34-95397.pdf",
+   "https://sec.gov/files/litigation/suspensions/2022/34-95156.pdf",
+   "https://sec.gov/files/litigation/suspensions/2021/34-93665.pdf",
+   "https://sec.gov/files/litigation/suspensions/2021/34-93098.pdf"
+  ],
+  "SEC Speeches & Statements": [
+   "https://sec.gov/newsroom/speeches-statements/selway-remarks-market-structure-conference-101426",
+   "https://sec.gov/newsroom/speeches-statements/atkins-101326-statement-commissions-approval-proposed-rule-change-permit-listing-binary-options-overlying-key",
+   "https://sec.gov/newsroom/speeches-statements/atkins-statement-cross-trading-10-09-2026-statement-proposed-amendments-investment-company-cross-trading",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-100926-statement-proposed-amendments-cross-trading-rules",
+   "https://sec.gov/newsroom/speeches-statements/atkins-uyeda-statement-commissioner-peirce-100126",
+   "https://sec.gov/newsroom/speeches-statements/atkins-crypto-custody-100126-statement-proposal-address-custody-crypto-assets-under-investment-advisers-act-investment-company",
+   "https://sec.gov/newsroom/speeches-statements/peirce-statement-proposed-amendments-custody-rules-100126",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-statement-proposed-amendments-custody-rules-100126",
+   "https://sec.gov/newsroom/speeches-statements/im-corpfin-statement-trump-accounts-093026",
+   "https://sec.gov/newsroom/speeches-statements/tm-statement-affiliations-093026",
+   "https://sec.gov/newsroom/speeches-statements/peirce-the-other-ai-remarks-ocm-on-accredited-investor-notices-under-rule-501a10-of-regd-093026",
+   "https://sec.gov/newsroom/speeches-statements/peirce-performance-interval-statement-on-proposals-to-facilitate-retail-investor-access-to-private-investments-093026",
+   "https://sec.gov/newsroom/speeches-statements/atkins-statement-open-meeting-093026",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-statement-interval-fund-modernization-093026",
+   "https://sec.gov/newsroom/speeches-statements/hohl-daley-statement-fair-value-measurement-disclosure-considerations-private-assets-092806",
+   "https://sec.gov/newsroom/speeches-statements/peirce-looking-change-haystacks-remarks-sifma-s-digital-assets-conference-092326",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-2026-u-s-treasury-market-conference-092226",
+   "https://sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826",
+   "https://sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726",
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-24-hour-trading-roundtable-091726",
+   "https://sec.gov/newsroom/speeches-statements/peirce-remarks-sec-roundtable-091726",
+   "https://sec.gov/newsroom/speeches-statements/selway-roundtable-preparations-24-hour-trading-091726",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-sec-roundtable-091726",
+   "https://sec.gov/newsroom/speeches-statements/atkins-innovation-exemption-bridge-toward-durable-rulemaking-091726",
+   "https://sec.gov/newsroom/speeches-statements/peirce-slumber-number-innovation-exemption-statement-091726"
   ]
  },
  "feeds": {
@@ -3484,7 +3566,10 @@
   "Bitcoin Optech": "https://bitcoinops.org/feed.xml",
   "Bitcoin BIPs": "https://github.com/bitcoin/bips/commits/master.atom",
   "Delving Bitcoin": "https://delvingbitcoin.org/latest.rss",
-  "a16z crypto": "https://a16zcrypto.com/feed.xml"
+  "a16z crypto": "https://a16zcrypto.com/feed.xml",
+  "SEC Press Releases": "https://www.sec.gov/news/pressreleases.rss",
+  "SEC Trading Suspensions": "https://www.sec.gov/enforcement-litigation/trading-suspensions/rss",
+  "SEC Speeches & Statements": "https://www.sec.gov/news/speeches-statements.rss"
  },
  "fails": {
   "OpenAI": 0,
@@ -3509,7 +3594,10 @@
   "Bitcoin Optech": 0,
   "Bitcoin BIPs": 0,
   "Delving Bitcoin": 0,
-  "a16z crypto": 0
+  "a16z crypto": 0,
+  "SEC Press Releases": 0,
+  "SEC Trading Suspensions": 0,
+  "SEC Speeches & Statements": 0
  },
  "last": {
   "OpenAI": {
@@ -3618,25 +3706,40 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Bitcoin Core 32.0rc4 is now available",
-   "url": "https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available/2958",
+   "title": "From peer-to-peer cash to elite settlement layer: is the 21M cap building a new aristocracy?",
+   "url": "https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy/2959",
    "exact": true
   },
   "a16z crypto": {
    "title": "The key to getting more institutions onchain: Rethinking KYC",
    "url": "https://a16zcrypto.com/posts/article/rethinking-kyc",
    "exact": true
+  },
+  "SEC Press Releases": {
+   "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+   "exact": true
+  },
+  "SEC Trading Suspensions": {
+   "title": "Happy City Holdings Limited",
+   "url": "https://www.sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
+   "exact": true
+  },
+  "SEC Speeches & Statements": {
+   "title": "How Soon is Now? Remarks at the Security Traders Association’s 93rd Annual Market Structure Conference",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/selway-remarks-market-structure-conference-101426",
+   "exact": true
   }
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 30,
-  "sent": 24,
+  "runs": 31,
+  "sent": 25,
   "by_source": {
    "Databricks": 7,
    "Google DeepMind": 1,
    "Firedancer (releases)": 1,
-   "Delving Bitcoin": 1,
+   "Delving Bitcoin": 2,
    "Bitcoin Optech": 1,
    "Anthropic": 2,
    "OpenAI": 4,
