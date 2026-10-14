@@ -1289,7 +1289,8 @@
    "https://openai.com/index/team-plus-plus",
    "https://openai.com/index/weight-normalization",
    "https://openai.com/index/introducing-openai",
-   "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+   "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "https://openai.com/index/third-moment-research"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1538,7 +1539,8 @@
    "https://machinelearning.apple.com/research/ontological-boundary-negotiation",
    "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning",
    "https://machinelearning.apple.com/research/limits-confidence-diffusion",
-   "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering"
+   "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
+   "https://machinelearning.apple.com/research/tri-modal-masked-diffusion"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -3498,8 +3500,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "The EU’s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research",
    "exact": true
   },
   "Google DeepMind": {
@@ -3523,8 +3525,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
-   "url": "https://machinelearning.apple.com/research/mix-dont-tune",
+   "title": "The Design Space of Tri-Modal Masked Diffusion Models",
+   "url": "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
    "exact": true
   },
   "Amazon Science": {
@@ -3615,8 +3617,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 24,
-  "sent": 9,
+  "runs": 25,
+  "sent": 11,
   "by_source": {
    "Databricks": 3,
    "Google DeepMind": 1,
@@ -3624,7 +3626,8 @@
    "Delving Bitcoin": 1,
    "Bitcoin Optech": 1,
    "Anthropic": 1,
-   "OpenAI": 1
+   "OpenAI": 2,
+   "Apple ML Research": 1
   }
  }
 }
