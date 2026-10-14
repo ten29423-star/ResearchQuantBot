@@ -31,6 +31,7 @@ CHAT_ID = os.environ.get("CHAT_ID")
 
 STATE_FILE = Path(__file__).parent / "state.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; research-alerts-bot)"}
+SEC_HEADERS = {"User-Agent": "ResearchQuantBot nickeh30dev@outlook.com"}
 TIMEOUT = 20
 FAIL_ALERT_AFTER = 24     # сколько запусков подряд источник молчит, прежде чем бот напишет
 DIGEST_THRESHOLD = 8      # если новых больше — шлём одним сообщением-дайджестом
@@ -75,13 +76,21 @@ SOURCES = [
     {"name": "Delving Bitcoin", "page": "https://delvingbitcoin.org", "feeds": ["https://delvingbitcoin.org/latest.rss"]},
     # --- Крипто-аналитика ---
     {"name": "a16z crypto", "page": "https://a16zcrypto.com"},
+      # --- SEC ---
+    {"name": "SEC Press Releases", "page": "https://www.sec.gov/newsroom/press-releases",
+     "feeds": ["https://www.sec.gov/news/pressreleases.rss"]},
+    {"name": "SEC Trading Suspensions", "page": "https://www.sec.gov/enforcement-litigation/trading-suspensions",
+     "feeds": ["https://www.sec.gov/enforcement-litigation/trading-suspensions/rss"]},
+    {"name": "SEC Speeches & Statements", "page": "https://www.sec.gov/newsroom/speeches-statements",
+     "feeds": ["https://www.sec.gov/news/speeches-statements.rss"]},
 ]
 
 
 # ---------- сеть и разбор ----------
 
 def get(url):
-    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    headers = SEC_HEADERS if urlsplit(url).netloc.endswith("sec.gov") else HEADERS
+    r = requests.get(url, headers=headers, timeout=TIMEOUT)
     r.raise_for_status()
     return r
 
