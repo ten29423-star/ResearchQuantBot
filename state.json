@@ -3353,7 +3353,8 @@
    "https://bitcoinops.org/en/podcast/2026/09/15",
    "https://bitcoinops.org/en/newsletters/2026/09/11",
    "https://bitcoinops.org/en/podcast/2026/09/08",
-   "https://bitcoinops.org/en/newsletters/2026/10/09"
+   "https://bitcoinops.org/en/newsletters/2026/10/09",
+   "https://bitcoinops.org/en/podcast/2026/10/13"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3589,8 +3590,8 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #426",
-   "url": "https://bitcoinops.org/en/newsletters/2026/10/09/",
+   "title": "Bitcoin Optech Newsletter #426 Recap Podcast",
+   "url": "https://bitcoinops.org/en/podcast/2026/10/13/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -3611,13 +3612,14 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 15,
-  "sent": 5,
+  "runs": 16,
+  "sent": 6,
   "by_source": {
    "Databricks": 2,
    "Google DeepMind": 1,
    "Firedancer (releases)": 1,
-   "Delving Bitcoin": 1
+   "Delving Bitcoin": 1,
+   "Bitcoin Optech": 1
   }
  }
 }
