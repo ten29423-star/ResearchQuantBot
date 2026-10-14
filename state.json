@@ -2942,7 +2942,8 @@
    "https://anthropic.com/research/yes-claude-can-do-nine-loops",
    "https://anthropic.com/research/your-thoughts-on-ai",
    "https://anthropic.com/research/zero-days",
-   "https://anthropic.com/news/singapore-office-opening"
+   "https://anthropic.com/news/singapore-office-opening",
+   "https://anthropic.com/news/2026-us-midterms"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3088,7 +3089,8 @@
    "https://databricks.com/blog/sizing-lakebase-search-lessons-real-app-and-4-million-passages",
    "https://databricks.com/blog/oltp-vs-olap-choosing-between-transactional-and-analytical-databases",
    "https://databricks.com/blog/what-htap-plain-english-guide-hybrid-transactionalanalytical-processing",
-   "https://databricks.com/blog/everyones-adopting-ai-agents-almost-no-one-can-prove-roi-heres-why"
+   "https://databricks.com/blog/everyones-adopting-ai-agents-almost-no-one-can-prove-roi-heres-why",
+   "https://databricks.com/blog/power-real-time-applications-and-agents-document-intelligence"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3556,8 +3558,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Singapore Office Opening",
-   "url": "https://www.anthropic.com/news/singapore-office-opening",
+   "title": "2026 Us Midterms",
+   "url": "https://www.anthropic.com/news/2026-us-midterms",
    "exact": false
   },
   "Mistral": {
@@ -3576,8 +3578,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Everyone's adopting AI agents. Almost no one can prove the ROI. Here's why",
-   "url": "https://www.databricks.com/blog/everyones-adopting-ai-agents-almost-no-one-can-prove-roi-heres-why",
+   "title": "Power real-time applications and agents with Document Intelligence",
+   "url": "https://www.databricks.com/blog/power-real-time-applications-and-agents-document-intelligence",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3628,15 +3630,15 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 29,
-  "sent": 22,
+  "runs": 30,
+  "sent": 24,
   "by_source": {
-   "Databricks": 6,
+   "Databricks": 7,
    "Google DeepMind": 1,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 1,
    "Bitcoin Optech": 1,
-   "Anthropic": 1,
+   "Anthropic": 2,
    "OpenAI": 4,
    "Apple ML Research": 2,
    "Google Research": 3,
