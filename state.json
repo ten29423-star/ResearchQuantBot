@@ -3071,7 +3071,8 @@
    "https://databricks.com/blog/announcing-workday-data-connect-federation-unity-catalog",
    "https://databricks.com/blog/introducing-funke-native-hl7v2-parsing-databricks",
    "https://databricks.com/blog/lakebase-and-agentic-sdlc-branching-databases-coding-agents",
-   "https://databricks.com/blog/practical-guide-real-time-analytics-2026"
+   "https://databricks.com/blog/practical-guide-real-time-analytics-2026",
+   "https://databricks.com/blog/introducing-private-network-gateway"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3406,7 +3407,8 @@
    "https://delvingbitcoin.org/t/disclosure-crashing-cln-with-a-flood-of-pings/2846",
    "https://delvingbitcoin.org/t/pragmatic-definition-of-consensus-for-light-clients/2842",
    "https://delvingbitcoin.org/t/mempool-bitmixlist-org-the-community-mempool-space-node/2836",
-   "https://delvingbitcoin.org/t/faster-txid-hash-tables-with-siphash-1-3-uj/2834"
+   "https://delvingbitcoin.org/t/faster-txid-hash-tables-with-siphash-1-3-uj/2834",
+   "https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available/2958"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3557,8 +3559,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "A practical guide to real-time analytics in 2026",
-   "url": "https://www.databricks.com/blog/practical-guide-real-time-analytics-2026",
+   "title": "Introducing Private Network Gateway",
+   "url": "https://www.databricks.com/blog/introducing-private-network-gateway",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3597,8 +3599,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Open-source Bitcoin multisig coordinator: shared signing queue, hardware wallets, live signet demo",
-   "url": "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
+   "title": "Bitcoin Core 32.0rc4 is now available",
+   "url": "https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available/2958",
    "exact": true
   },
   "a16z crypto": {
@@ -3609,12 +3611,13 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 13,
-  "sent": 3,
+  "runs": 14,
+  "sent": 5,
   "by_source": {
-   "Databricks": 1,
+   "Databricks": 2,
    "Google DeepMind": 1,
-   "Firedancer (releases)": 1
+   "Firedancer (releases)": 1,
+   "Delving Bitcoin": 1
   }
  }
 }
