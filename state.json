@@ -1397,7 +1397,8 @@
    "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3",
    "https://deepmind.google/blog/introducing-google-antigravity",
    "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model",
-   "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
+   "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+   "https://deepmind.google/blog/accelerating-antimicrobial-discovery"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -1549,7 +1550,8 @@
    "https://machinelearning.apple.com/research/limits-confidence-diffusion",
    "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
    "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
-   "https://machinelearning.apple.com/research/code-switching-detection"
+   "https://machinelearning.apple.com/research/code-switching-detection",
+   "https://machinelearning.apple.com/research/mlx-distributed-inference"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -3619,8 +3621,8 @@
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
    "exact": true
   },
   "Google Research": {
@@ -3639,8 +3641,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models",
-   "url": "https://machinelearning.apple.com/research/code-switching-detection",
+   "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
    "exact": true
   },
   "Amazon Science": {
@@ -3746,17 +3748,17 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 58,
-  "sent": 38,
+  "runs": 59,
+  "sent": 40,
   "by_source": {
    "Databricks": 10,
-   "Google DeepMind": 1,
+   "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 1,
    "Anthropic": 2,
    "OpenAI": 6,
-   "Apple ML Research": 2,
+   "Apple ML Research": 3,
    "Google Research": 3,
    "Hugging Face (blog)": 3,
    "Allen AI": 1,
