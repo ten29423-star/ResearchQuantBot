@@ -1294,7 +1294,8 @@
    "https://openai.com/index/amp-beyond-coding",
    "https://openai.com/index/sentinelone",
    "https://openai.com/index/block-ai-powered-security",
-   "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+   "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "https://openai.com/index/introducing-the-rosalind-academic-plan"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3106,7 +3107,10 @@
    "https://databricks.com/blog/power-real-time-applications-and-agents-document-intelligence",
    "https://databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime",
    "https://databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions",
-   "https://databricks.com/blog/how-factset-cut-model-training-and-deployment-days-hours-databricks-ai-runtime"
+   "https://databricks.com/blog/how-factset-cut-model-training-and-deployment-days-hours-databricks-ai-runtime",
+   "https://databricks.com/blog/geospatial-queries-are-38x-faster-lakehousert",
+   "https://databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks",
+   "https://databricks.com/blog/how-our-ai-research-team-uses-ai-runtime"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3621,8 +3625,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Teaching students to think and learn through questions",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
    "exact": true
   },
   "Google DeepMind": {
@@ -3686,8 +3690,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How FactSet cut model training and deployment from days to hours with Databricks AI Runtime",
-   "url": "https://www.databricks.com/blog/how-factset-cut-model-training-and-deployment-days-hours-databricks-ai-runtime",
+   "title": "How our AI Research team uses AI Runtime",
+   "url": "https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3753,16 +3757,16 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 66,
-  "sent": 45,
+  "runs": 67,
+  "sent": 49,
   "by_source": {
-   "Databricks": 10,
+   "Databricks": 13,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 1,
    "Anthropic": 3,
-   "OpenAI": 6,
+   "OpenAI": 7,
    "Apple ML Research": 5,
    "Google Research": 3,
    "Hugging Face (blog)": 5,
