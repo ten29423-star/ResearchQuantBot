@@ -1293,7 +1293,8 @@
    "https://openai.com/index/third-moment-research",
    "https://openai.com/index/amp-beyond-coding",
    "https://openai.com/index/sentinelone",
-   "https://openai.com/index/block-ai-powered-security"
+   "https://openai.com/index/block-ai-powered-security",
+   "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3608,8 +3609,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "url": "https://openai.com/index/block-ai-powered-security",
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
    "exact": true
   },
   "Google DeepMind": {
@@ -3740,8 +3741,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 55,
-  "sent": 32,
+  "runs": 56,
+  "sent": 33,
   "by_source": {
    "Databricks": 9,
    "Google DeepMind": 1,
@@ -3749,7 +3750,7 @@
    "Delving Bitcoin": 2,
    "Bitcoin Optech": 1,
    "Anthropic": 2,
-   "OpenAI": 5,
+   "OpenAI": 6,
    "Apple ML Research": 2,
    "Google Research": 3,
    "Hugging Face (blog)": 2,
