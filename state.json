@@ -3128,7 +3128,8 @@
    "https://solana.com/news/project-harmonia-brings-institutional-tokenized-funds-to-solana",
    "https://solana.com/news/solana-summer-school-2026",
    "https://solana.com/news/solana-building-trust-in-public",
-   "https://solana.com/news/breakpoint-2026-london-speakers-2"
+   "https://solana.com/news/breakpoint-2026-london-speakers-2",
+   "https://solana.com/news/geo-aware-leader-schedule"
   ],
   "Firedancer (releases)": [
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.1",
@@ -3680,8 +3681,8 @@
    "exact": true
   },
   "Solana News": {
-   "title": "More Breakpoint 2026 Speakers Confirmed for London",
-   "url": "https://solana.com/news/breakpoint-2026-london-speakers-2",
+   "title": "Geo-Aware Leader Schedule",
+   "url": "https://solana.com/news/geo-aware-leader-schedule",
    "exact": true
   },
   "Firedancer (releases)": {
@@ -3737,8 +3738,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 46,
-  "sent": 29,
+  "runs": 47,
+  "sent": 30,
   "by_source": {
    "Databricks": 9,
    "Google DeepMind": 1,
@@ -3751,7 +3752,7 @@
    "Google Research": 3,
    "Hugging Face (blog)": 1,
    "Allen AI": 1,
-   "Solana News": 1
+   "Solana News": 2
   }
  }
 }
