@@ -1514,7 +1514,8 @@
    "https://microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
    "https://microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
    "https://microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models",
-   "https://microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft"
+   "https://microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
+   "https://microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -2477,7 +2478,8 @@
    "https://huggingface.co/blog/how-to-generate",
    "https://huggingface.co/blog/how-to-train",
    "https://huggingface.co/blog/allenai/hiro-acev2",
-   "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
+   "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+   "https://huggingface.co/blog/flux-3"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3437,7 +3439,8 @@
    "https://delvingbitcoin.org/t/mempool-bitmixlist-org-the-community-mempool-space-node/2836",
    "https://delvingbitcoin.org/t/faster-txid-hash-tables-with-siphash-1-3-uj/2834",
    "https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available/2958",
-   "https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy/2959"
+   "https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy/2959",
+   "https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3626,8 +3629,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Simulating student learning for better AI tutoring",
-   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+   "title": "Proof-based general-purpose computing with Magnetar",
+   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -3651,8 +3654,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Apertus 1.5 Release Notes",
-   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+   "title": "Welcome FLUX.3 Image Klein in Diffusers",
+   "url": "https://huggingface.co/blog/flux-3",
    "exact": true
   },
   "Anthropic": {
@@ -3716,8 +3719,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "From peer-to-peer cash to elite settlement layer: is the 21M cap building a new aristocracy?",
-   "url": "https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy/2959",
+   "title": "Silent Payments for Multiparty Wallets",
+   "url": "https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960",
    "exact": true
   },
   "a16z crypto": {
@@ -3743,23 +3746,24 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 57,
-  "sent": 35,
+  "runs": 58,
+  "sent": 38,
   "by_source": {
    "Databricks": 10,
    "Google DeepMind": 1,
    "Firedancer (releases)": 1,
-   "Delving Bitcoin": 2,
+   "Delving Bitcoin": 3,
    "Bitcoin Optech": 1,
    "Anthropic": 2,
    "OpenAI": 6,
    "Apple ML Research": 2,
    "Google Research": 3,
-   "Hugging Face (blog)": 2,
+   "Hugging Face (blog)": 3,
    "Allen AI": 1,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
-   "Mistral": 1
+   "Mistral": 1,
+   "Microsoft Research": 1
   }
  }
 }
