@@ -2475,7 +2475,8 @@
    "https://huggingface.co/blog/reformer",
    "https://huggingface.co/blog/how-to-generate",
    "https://huggingface.co/blog/how-to-train",
-   "https://huggingface.co/blog/allenai/hiro-acev2"
+   "https://huggingface.co/blog/allenai/hiro-acev2",
+   "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3519,7 +3520,8 @@
    "https://sec.gov/files/litigation/suspensions/2022/34-95397.pdf",
    "https://sec.gov/files/litigation/suspensions/2022/34-95156.pdf",
    "https://sec.gov/files/litigation/suspensions/2021/34-93665.pdf",
-   "https://sec.gov/files/litigation/suspensions/2021/34-93098.pdf"
+   "https://sec.gov/files/litigation/suspensions/2021/34-93098.pdf",
+   "https://sec.gov/files/litigation/suspensions/2026/34-106668.pdf"
   ],
   "SEC Speeches & Statements": [
    "https://sec.gov/newsroom/speeches-statements/selway-remarks-market-structure-conference-101426",
@@ -3646,8 +3648,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+   "title": "Apertus 1.5 Release Notes",
+   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
    "exact": true
   },
   "Anthropic": {
@@ -3726,8 +3728,8 @@
    "exact": true
   },
   "SEC Trading Suspensions": {
-   "title": "Happy City Holdings Limited",
-   "url": "https://www.sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
+   "title": "TJGC Group Limited",
+   "url": "https://www.sec.gov/files/litigation/suspensions/2026/34-106668.pdf",
    "exact": true
   },
   "SEC Speeches & Statements": {
@@ -3738,8 +3740,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 54,
-  "sent": 30,
+  "runs": 55,
+  "sent": 32,
   "by_source": {
    "Databricks": 9,
    "Google DeepMind": 1,
@@ -3750,9 +3752,10 @@
    "OpenAI": 5,
    "Apple ML Research": 2,
    "Google Research": 3,
-   "Hugging Face (blog)": 1,
+   "Hugging Face (blog)": 2,
    "Allen AI": 1,
-   "Solana News": 2
+   "Solana News": 2,
+   "SEC Trading Suspensions": 1
   }
  }
 }
