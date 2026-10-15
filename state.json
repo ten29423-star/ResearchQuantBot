@@ -2484,7 +2484,8 @@
    "https://huggingface.co/blog/allenai/hiro-acev2",
    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
    "https://huggingface.co/blog/flux-3",
-   "https://huggingface.co/blog/meta-muse-spark-open"
+   "https://huggingface.co/blog/meta-muse-spark-open",
+   "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3660,8 +3661,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-   "url": "https://huggingface.co/blog/meta-muse-spark-open",
+   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
    "exact": true
   },
   "Anthropic": {
@@ -3752,8 +3753,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 64,
-  "sent": 44,
+  "runs": 65,
+  "sent": 45,
   "by_source": {
    "Databricks": 10,
    "Google DeepMind": 2,
@@ -3764,7 +3765,7 @@
    "OpenAI": 6,
    "Apple ML Research": 5,
    "Google Research": 3,
-   "Hugging Face (blog)": 4,
+   "Hugging Face (blog)": 5,
    "Allen AI": 1,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
