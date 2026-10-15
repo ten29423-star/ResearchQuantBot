@@ -2481,7 +2481,8 @@
    "https://huggingface.co/blog/how-to-train",
    "https://huggingface.co/blog/allenai/hiro-acev2",
    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-   "https://huggingface.co/blog/flux-3"
+   "https://huggingface.co/blog/flux-3",
+   "https://huggingface.co/blog/meta-muse-spark-open"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -2950,7 +2951,8 @@
    "https://anthropic.com/research/your-thoughts-on-ai",
    "https://anthropic.com/research/zero-days",
    "https://anthropic.com/news/singapore-office-opening",
-   "https://anthropic.com/news/2026-us-midterms"
+   "https://anthropic.com/news/2026-us-midterms",
+   "https://anthropic.com/news/an-update-on-independent-evaluators"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3656,13 +3658,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Welcome FLUX.3 Image Klein in Diffusers",
-   "url": "https://huggingface.co/blog/flux-3",
+   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+   "url": "https://huggingface.co/blog/meta-muse-spark-open",
    "exact": true
   },
   "Anthropic": {
-   "title": "2026 Us Midterms",
-   "url": "https://www.anthropic.com/news/2026-us-midterms",
+   "title": "An Update On Independent Evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
    "exact": false
   },
   "Mistral": {
@@ -3748,19 +3750,19 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 59,
-  "sent": 40,
+  "runs": 60,
+  "sent": 42,
   "by_source": {
    "Databricks": 10,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 1,
-   "Anthropic": 2,
+   "Anthropic": 3,
    "OpenAI": 6,
    "Apple ML Research": 3,
    "Google Research": 3,
-   "Hugging Face (blog)": 3,
+   "Hugging Face (blog)": 4,
    "Allen AI": 1,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
