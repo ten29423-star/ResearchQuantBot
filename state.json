@@ -3037,7 +3037,8 @@
    "https://mistral.ai/news/mixtral-of-experts",
    "https://mistral.ai/news/la-plateforme",
    "https://mistral.ai/news/announcing-mistral-7b",
-   "https://mistral.ai/news/about-mistral-ai"
+   "https://mistral.ai/news/about-mistral-ai",
+   "https://mistral.ai/news/timestral"
   ],
   "Allen AI": [
    "https://allenai.org/blog/molmo2fish",
@@ -3095,7 +3096,8 @@
    "https://databricks.com/blog/everyones-adopting-ai-agents-almost-no-one-can-prove-roi-heres-why",
    "https://databricks.com/blog/power-real-time-applications-and-agents-document-intelligence",
    "https://databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime",
-   "https://databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions"
+   "https://databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions",
+   "https://databricks.com/blog/how-factset-cut-model-training-and-deployment-days-hours-databricks-ai-runtime"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3659,8 +3661,8 @@
    "exact": false
   },
   "Mistral": {
-   "title": "Introducing Mistral Large 4",
-   "url": "https://mistral.ai/news/mistral-large-4/",
+   "title": "Introducing Timestral",
+   "url": "https://mistral.ai/news/timestral/",
    "exact": true
   },
   "Allen AI": {
@@ -3674,8 +3676,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Unlock powerful insights and forecasts with Predictive AI Functions",
-   "url": "https://www.databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions",
+   "title": "How FactSet cut model training and deployment from days to hours with Databricks AI Runtime",
+   "url": "https://www.databricks.com/blog/how-factset-cut-model-training-and-deployment-days-hours-databricks-ai-runtime",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3741,10 +3743,10 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 56,
-  "sent": 33,
+  "runs": 57,
+  "sent": 35,
   "by_source": {
-   "Databricks": 9,
+   "Databricks": 10,
    "Google DeepMind": 1,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 2,
@@ -3756,7 +3758,8 @@
    "Hugging Face (blog)": 2,
    "Allen AI": 1,
    "Solana News": 2,
-   "SEC Trading Suspensions": 1
+   "SEC Trading Suspensions": 1,
+   "Mistral": 1
   }
  }
 }
