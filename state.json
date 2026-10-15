@@ -3483,7 +3483,8 @@
    "https://a16zcrypto.com/posts/article/startup-comms-being-heard",
    "https://a16zcrypto.com/posts/videos/leslie-lamport-on-distributed-systems",
    "https://a16zcrypto.com/posts/article/south-korea-blockchain-race",
-   "https://a16zcrypto.com/posts/article/prediction-market-record-week-data-charts"
+   "https://a16zcrypto.com/posts/article/prediction-market-record-week-data-charts",
+   "https://a16zcrypto.com/posts/article/crypto-in-washington"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -3735,8 +3736,8 @@
    "exact": true
   },
   "a16z crypto": {
-   "title": "The key to getting more institutions onchain: Rethinking KYC",
-   "url": "https://a16zcrypto.com/posts/article/rethinking-kyc",
+   "title": "How Far Crypto Has Come in Washington",
+   "url": "https://a16zcrypto.com/posts/article/crypto-in-washington",
    "exact": true
   },
   "SEC Press Releases": {
@@ -3757,8 +3758,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 68,
-  "sent": 49,
+  "runs": 69,
+  "sent": 50,
   "by_source": {
    "Databricks": 13,
    "Google DeepMind": 2,
@@ -3774,7 +3775,8 @@
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
    "Mistral": 1,
-   "Microsoft Research": 1
+   "Microsoft Research": 1,
+   "a16z crypto": 1
   }
  }
 }
