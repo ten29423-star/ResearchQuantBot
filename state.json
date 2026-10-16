@@ -1296,7 +1296,8 @@
    "https://openai.com/index/block-ai-powered-security",
    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
    "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "https://openai.com/index/sullivan-cromwell"
+   "https://openai.com/index/sullivan-cromwell",
+   "https://openai.com/index/stack-overflow-chatgpt-plugin"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -2962,7 +2963,10 @@
    "https://anthropic.com/news/2026-us-midterms",
    "https://anthropic.com/news/an-update-on-independent-evaluators",
    "https://anthropic.com/research/ecdsa-curve-origins",
-   "https://anthropic.com/research/designing-efficient-quantum-circuits"
+   "https://anthropic.com/research/designing-efficient-quantum-circuits",
+   "https://anthropic.com/research/expectations-for-the-future",
+   "https://anthropic.com/research/employment-at-anthropic",
+   "https://anthropic.com/research/ai-expectations-gap"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3639,8 +3643,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "url": "https://openai.com/index/sullivan-cromwell",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "exact": true
   },
   "Google DeepMind": {
@@ -3684,8 +3688,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Designing Efficient Quantum Circuits",
-   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+   "title": "Ai Expectations Gap",
+   "url": "https://www.anthropic.com/research/ai-expectations-gap",
    "exact": false
   },
   "Mistral": {
@@ -3771,16 +3775,16 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 87,
-  "sent": 63,
+  "runs": 88,
+  "sent": 67,
   "by_source": {
    "Databricks": 15,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 2,
-   "Anthropic": 5,
-   "OpenAI": 8,
+   "Anthropic": 8,
+   "OpenAI": 9,
    "Apple ML Research": 5,
    "Google Research": 4,
    "Hugging Face (blog)": 7,
