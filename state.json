@@ -2488,7 +2488,8 @@
    "https://huggingface.co/blog/flux-3",
    "https://huggingface.co/blog/meta-muse-spark-open",
    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-   "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+   "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "https://huggingface.co/blog/reflection-beam"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3670,8 +3671,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "url": "https://huggingface.co/blog/reflection-beam",
    "exact": true
   },
   "Anthropic": {
@@ -3762,8 +3763,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 85,
-  "sent": 54,
+  "runs": 86,
+  "sent": 55,
   "by_source": {
    "Databricks": 13,
    "Google DeepMind": 2,
@@ -3774,7 +3775,7 @@
    "OpenAI": 8,
    "Apple ML Research": 5,
    "Google Research": 3,
-   "Hugging Face (blog)": 6,
+   "Hugging Face (blog)": 7,
    "Allen AI": 1,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
