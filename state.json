@@ -1505,7 +1505,8 @@
    "https://research.google/blog/accelerating-the-magic-cycle-of-research-breakthroughs-and-real-world-applications",
    "https://research.google/blog/analyzing-technical-documents-with-deep-review",
    "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
-   "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges"
+   "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
+   "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -2959,7 +2960,9 @@
    "https://anthropic.com/research/zero-days",
    "https://anthropic.com/news/singapore-office-opening",
    "https://anthropic.com/news/2026-us-midterms",
-   "https://anthropic.com/news/an-update-on-independent-evaluators"
+   "https://anthropic.com/news/an-update-on-independent-evaluators",
+   "https://anthropic.com/research/ecdsa-curve-origins",
+   "https://anthropic.com/research/designing-efficient-quantum-circuits"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3113,7 +3116,9 @@
    "https://databricks.com/blog/how-factset-cut-model-training-and-deployment-days-hours-databricks-ai-runtime",
    "https://databricks.com/blog/geospatial-queries-are-38x-faster-lakehousert",
    "https://databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks",
-   "https://databricks.com/blog/how-our-ai-research-team-uses-ai-runtime"
+   "https://databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
+   "https://databricks.com/blog/stripe-data-pipeline-now-syncs-real-time-stripe-data-lakebase-postgres",
+   "https://databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3489,7 +3494,8 @@
    "https://a16zcrypto.com/posts/article/south-korea-blockchain-race",
    "https://a16zcrypto.com/posts/article/prediction-market-record-week-data-charts",
    "https://a16zcrypto.com/posts/article/crypto-in-washington",
-   "https://a16zcrypto.com/posts/podcast/can-ai-break-cryptography"
+   "https://a16zcrypto.com/posts/podcast/can-ai-break-cryptography",
+   "https://a16zcrypto.com/posts/article/fast-post-quantum-signature-aggregation-with-lattice-snarks"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -3571,7 +3577,9 @@
    "https://sec.gov/newsroom/speeches-statements/selway-roundtable-preparations-24-hour-trading-091726",
    "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-sec-roundtable-091726",
    "https://sec.gov/newsroom/speeches-statements/atkins-innovation-exemption-bridge-toward-durable-rulemaking-091726",
-   "https://sec.gov/newsroom/speeches-statements/peirce-slumber-number-innovation-exemption-statement-091726"
+   "https://sec.gov/newsroom/speeches-statements/peirce-slumber-number-innovation-exemption-statement-091726",
+   "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-statewide-joint-powers-authorities-energy-prepay-bonds-101526",
+   "https://sec.gov/newsroom/speeches-statements/daly-remarks-stanford-roundtable-101626"
   ]
  },
  "feeds": {
@@ -3641,8 +3649,8 @@
    "exact": true
   },
   "Google Research": {
-   "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-   "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+   "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+   "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
    "exact": true
   },
   "Microsoft Research": {
@@ -3676,8 +3684,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "An Update On Independent Evaluators",
-   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "title": "Designing Efficient Quantum Circuits",
+   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "exact": false
   },
   "Mistral": {
@@ -3696,8 +3704,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How our AI Research team uses AI Runtime",
-   "url": "https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
+   "title": "Closing the Binary Blind Spot: Domain-Knowledge Injection for LLM Malware Triage in npm Packages",
+   "url": "https://www.databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3741,8 +3749,8 @@
    "exact": true
   },
   "a16z crypto": {
-   "title": "Can AI Actually Break Cryptography? Experts Weigh In On the FUD",
-   "url": "https://a16zcrypto.com/posts/podcast/can-ai-break-cryptography",
+   "title": "Fast post-quantum signature aggregation with lattice SNARKs",
+   "url": "https://a16zcrypto.com/posts/article/fast-post-quantum-signature-aggregation-with-lattice-snarks",
    "exact": true
   },
   "SEC Press Releases": {
@@ -3756,32 +3764,33 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "How Soon is Now? Remarks at the Security Traders Association’s 93rd Annual Market Structure Conference",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/selway-remarks-market-structure-conference-101426",
+   "title": "Remarks at the Stanford University Private Capital Roundtable",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/daly-remarks-stanford-roundtable-101626",
    "exact": true
   }
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 86,
-  "sent": 55,
+  "runs": 87,
+  "sent": 63,
   "by_source": {
-   "Databricks": 13,
+   "Databricks": 15,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 2,
-   "Anthropic": 3,
+   "Anthropic": 5,
    "OpenAI": 8,
    "Apple ML Research": 5,
-   "Google Research": 3,
+   "Google Research": 4,
    "Hugging Face (blog)": 7,
    "Allen AI": 1,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
    "Mistral": 1,
    "Microsoft Research": 1,
-   "a16z crypto": 2
+   "a16z crypto": 3,
+   "SEC Speeches & Statements": 2
   }
  }
 }
