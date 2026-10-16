@@ -2487,7 +2487,8 @@
    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
    "https://huggingface.co/blog/flux-3",
    "https://huggingface.co/blog/meta-muse-spark-open",
-   "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+   "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3668,8 +3669,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
    "exact": true
   },
   "Anthropic": {
@@ -3760,8 +3761,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 72,
-  "sent": 52,
+  "runs": 73,
+  "sent": 53,
   "by_source": {
    "Databricks": 13,
    "Google DeepMind": 2,
@@ -3772,7 +3773,7 @@
    "OpenAI": 8,
    "Apple ML Research": 5,
    "Google Research": 3,
-   "Hugging Face (blog)": 5,
+   "Hugging Face (blog)": 6,
    "Allen AI": 1,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
