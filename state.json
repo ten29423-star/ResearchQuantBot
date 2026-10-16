@@ -1295,7 +1295,8 @@
    "https://openai.com/index/sentinelone",
    "https://openai.com/index/block-ai-powered-security",
    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "https://openai.com/index/introducing-the-rosalind-academic-plan"
+   "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "https://openai.com/index/sullivan-cromwell"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3627,8 +3628,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "url": "https://openai.com/index/sullivan-cromwell",
    "exact": true
   },
   "Google DeepMind": {
@@ -3759,8 +3760,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 71,
-  "sent": 51,
+  "runs": 72,
+  "sent": 52,
   "by_source": {
    "Databricks": 13,
    "Google DeepMind": 2,
@@ -3768,7 +3769,7 @@
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 1,
    "Anthropic": 3,
-   "OpenAI": 7,
+   "OpenAI": 8,
    "Apple ML Research": 5,
    "Google Research": 3,
    "Hugging Face (blog)": 5,
