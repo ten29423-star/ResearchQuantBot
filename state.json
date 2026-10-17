@@ -1297,7 +1297,8 @@
    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
    "https://openai.com/index/introducing-the-rosalind-academic-plan",
    "https://openai.com/index/sullivan-cromwell",
-   "https://openai.com/index/stack-overflow-chatgpt-plugin"
+   "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "https://openai.com/index/itau-generative-ai"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3122,7 +3123,8 @@
    "https://databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks",
    "https://databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
    "https://databricks.com/blog/stripe-data-pipeline-now-syncs-real-time-stripe-data-lakebase-postgres",
-   "https://databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages"
+   "https://databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages",
+   "https://databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3643,8 +3645,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
    "exact": true
   },
   "Google DeepMind": {
@@ -3708,8 +3710,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Closing the Binary Blind Spot: Domain-Knowledge Injection for LLM Malware Triage in npm Packages",
-   "url": "https://www.databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages",
+   "title": "Transactions are Generally Available, advancing warehousing on the Lakehouse",
+   "url": "https://www.databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3775,16 +3777,16 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 88,
-  "sent": 67,
+  "runs": 89,
+  "sent": 69,
   "by_source": {
-   "Databricks": 15,
+   "Databricks": 16,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 2,
    "Anthropic": 8,
-   "OpenAI": 9,
+   "OpenAI": 10,
    "Apple ML Research": 5,
    "Google Research": 4,
    "Hugging Face (blog)": 7,
