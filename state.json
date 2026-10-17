@@ -1298,7 +1298,8 @@
    "https://openai.com/index/introducing-the-rosalind-academic-plan",
    "https://openai.com/index/sullivan-cromwell",
    "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "https://openai.com/index/itau-generative-ai"
+   "https://openai.com/index/itau-generative-ai",
+   "https://openai.com/index/benefit-street-partners"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3645,8 +3646,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How Itaú is building generative AI for its entire customer base",
-   "url": "https://openai.com/index/itau-generative-ai",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "url": "https://openai.com/index/benefit-street-partners",
    "exact": true
   },
   "Google DeepMind": {
@@ -3777,8 +3778,8 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 90,
-  "sent": 69,
+  "runs": 91,
+  "sent": 70,
   "by_source": {
    "Databricks": 16,
    "Google DeepMind": 2,
@@ -3786,7 +3787,7 @@
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 2,
    "Anthropic": 8,
-   "OpenAI": 10,
+   "OpenAI": 11,
    "Apple ML Research": 5,
    "Google Research": 4,
    "Hugging Face (blog)": 7,
