@@ -3621,7 +3621,7 @@
   "OpenAI": 0,
   "Google DeepMind": 0,
   "Google Research": 0,
-  "Microsoft Research": 0,
+  "Microsoft Research": 1,
   "NVIDIA Research": 0,
   "Apple ML Research": 0,
   "Amazon Science": 0,
@@ -3779,7 +3779,7 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 101,
+  "runs": 102,
   "sent": 71,
   "by_source": {
    "Databricks": 16,
