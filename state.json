@@ -3468,7 +3468,8 @@
    "https://delvingbitcoin.org/t/faster-txid-hash-tables-with-siphash-1-3-uj/2834",
    "https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available/2958",
    "https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy/2959",
-   "https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960"
+   "https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960",
+   "https://delvingbitcoin.org/t/variable-payout-amounts-for-babe-as-applied-to-lichen/2963"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3621,7 +3622,7 @@
   "OpenAI": 0,
   "Google DeepMind": 0,
   "Google Research": 0,
-  "Microsoft Research": 1,
+  "Microsoft Research": 0,
   "NVIDIA Research": 0,
   "Apple ML Research": 0,
   "Amazon Science": 0,
@@ -3752,8 +3753,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Silent Payments for Multiparty Wallets",
-   "url": "https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960",
+   "title": "Variable payout amounts for BABE (as applied to Lichen)",
+   "url": "https://delvingbitcoin.org/t/variable-payout-amounts-for-babe-as-applied-to-lichen/2963",
    "exact": true
   },
   "a16z crypto": {
@@ -3779,13 +3780,13 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 102,
-  "sent": 71,
+  "runs": 103,
+  "sent": 72,
   "by_source": {
    "Databricks": 16,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
-   "Delving Bitcoin": 3,
+   "Delving Bitcoin": 4,
    "Bitcoin Optech": 2,
    "Anthropic": 9,
    "OpenAI": 11,
