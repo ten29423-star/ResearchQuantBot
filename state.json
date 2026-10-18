@@ -2968,7 +2968,8 @@
    "https://anthropic.com/research/designing-efficient-quantum-circuits",
    "https://anthropic.com/research/expectations-for-the-future",
    "https://anthropic.com/research/employment-at-anthropic",
-   "https://anthropic.com/research/ai-expectations-gap"
+   "https://anthropic.com/research/ai-expectations-gap",
+   "https://anthropic.com/news/public-benefit-fund"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3691,8 +3692,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Ai Expectations Gap",
-   "url": "https://www.anthropic.com/research/ai-expectations-gap",
+   "title": "Public Benefit Fund",
+   "url": "https://www.anthropic.com/news/public-benefit-fund",
    "exact": false
   },
   "Mistral": {
@@ -3778,15 +3779,15 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 100,
-  "sent": 70,
+  "runs": 101,
+  "sent": 71,
   "by_source": {
    "Databricks": 16,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Bitcoin Optech": 2,
-   "Anthropic": 8,
+   "Anthropic": 9,
    "OpenAI": 11,
    "Apple ML Research": 5,
    "Google Research": 4,
