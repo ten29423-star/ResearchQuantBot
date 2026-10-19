@@ -2494,7 +2494,8 @@
    "https://huggingface.co/blog/meta-muse-spark-open",
    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-   "https://huggingface.co/blog/reflection-beam"
+   "https://huggingface.co/blog/reflection-beam",
+   "https://huggingface.co/blog/hf-torchneuron"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3128,7 +3129,9 @@
    "https://databricks.com/blog/stripe-data-pipeline-now-syncs-real-time-stripe-data-lakebase-postgres",
    "https://databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages",
    "https://databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse",
-   "https://databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub"
+   "https://databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub",
+   "https://databricks.com/blog/ai-database-solutions",
+   "https://databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3399,7 +3402,8 @@
    "https://helius.dev/blog/solana-slots-blocks-and-epochs",
    "https://helius.dev/blog/how-solana-rpcs-work",
    "https://helius.dev/blog/join-the-helius-hacker-program-and-shape-the-future-of-solana",
-   "https://helius.dev/blog/solana-nft-compression"
+   "https://helius.dev/blog/solana-nft-compression",
+   "https://helius.dev/blog/rocksdb-read-path"
   ],
   "Bitcoin Optech": [
    "https://bitcoinops.org/en/podcast/2026/10/06",
@@ -3435,7 +3439,9 @@
    "https://github.com/bitcoin/bips/commit/11a3be74588576bbf20953afed3a2265da3873cd",
    "https://github.com/bitcoin/bips/commit/5fc05e2b17ce8272360b8b6774ac12c907c3e231",
    "https://github.com/bitcoin/bips/commit/a99b3d36a7eb612911cac08ecda66a07285170ff",
-   "https://github.com/bitcoin/bips/commit/d1d2042c857f337c147785c1d02cfd9f9d3c84fb"
+   "https://github.com/bitcoin/bips/commit/d1d2042c857f337c147785c1d02cfd9f9d3c84fb",
+   "https://github.com/bitcoin/bips/commit/ef5b6ba9d05b4d81f40fd1553c3379a08f83a060",
+   "https://github.com/bitcoin/bips/commit/130b8e0fa7f30fa45532f080b87b8db27a79e46e"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3534,7 +3540,8 @@
    "https://sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting",
    "https://sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
    "https://sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
-   "https://sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
+   "https://sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents",
+   "https://sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -3691,8 +3698,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-   "url": "https://huggingface.co/blog/reflection-beam",
+   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+   "url": "https://huggingface.co/blog/hf-torchneuron",
    "exact": true
   },
   "Anthropic": {
@@ -3716,8 +3723,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Databricks Is Doubling Down On New York City As A Premier AI Talent Hub",
-   "url": "https://www.databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub",
+   "title": "What makes a catalog open? Unity Catalog Advances the Open Lakehouse",
+   "url": "https://www.databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3741,8 +3748,8 @@
    "exact": true
   },
   "Helius": {
-   "title": "Agave 4.3 Update: All You Need to Know",
-   "url": "https://www.helius.dev/blog/agave-v4-3",
+   "title": "The Price of Cheap Writes: How does RocksDB read?",
+   "url": "https://www.helius.dev/blog/rocksdb-read-path",
    "exact": true
   },
   "Bitcoin Optech": {
@@ -3751,8 +3758,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Address some wording nits in BIP 54 (#2313)",
-   "url": "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
+   "title": "Merge pull request #2332 from jonatack/2026-10-bip3-update-discussion…",
+   "url": "https://github.com/bitcoin/bips/commit/130b8e0fa7f30fa45532f080b87b8db27a79e46e",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -3766,8 +3773,8 @@
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+   "title": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -3783,10 +3790,10 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 106,
-  "sent": 75,
+  "runs": 107,
+  "sent": 82,
   "by_source": {
-   "Databricks": 17,
+   "Databricks": 19,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 5,
@@ -3795,7 +3802,7 @@
    "OpenAI": 11,
    "Apple ML Research": 5,
    "Google Research": 4,
-   "Hugging Face (blog)": 7,
+   "Hugging Face (blog)": 8,
    "Allen AI": 1,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
@@ -3803,7 +3810,10 @@
    "Microsoft Research": 1,
    "a16z crypto": 3,
    "SEC Speeches & Statements": 2,
-   "IBM Research": 1
+   "IBM Research": 1,
+   "Helius": 1,
+   "Bitcoin BIPs": 2,
+   "SEC Press Releases": 1
   }
  }
 }
