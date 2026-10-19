@@ -1608,7 +1608,8 @@
    "https://research.ibm.com/blog/information-theory-meaning",
    "https://research.ibm.com/blog/introducing-granite-4-2",
    "https://research.ibm.com/blog/qiskit-fermions",
-   "https://research.ibm.com/blog/modular-cryogenics"
+   "https://research.ibm.com/blog/modular-cryogenics",
+   "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -3126,7 +3127,8 @@
    "https://databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
    "https://databricks.com/blog/stripe-data-pipeline-now-syncs-real-time-stripe-data-lakebase-postgres",
    "https://databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages",
-   "https://databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse"
+   "https://databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse",
+   "https://databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3469,7 +3471,8 @@
    "https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available/2958",
    "https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy/2959",
    "https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960",
-   "https://delvingbitcoin.org/t/variable-payout-amounts-for-babe-as-applied-to-lichen/2963"
+   "https://delvingbitcoin.org/t/variable-payout-amounts-for-babe-as-applied-to-lichen/2963",
+   "https://delvingbitcoin.org/t/btc-verified-october-update-connecting-map-to-territory/2964"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3683,8 +3686,8 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "Preparing chip designers for the nanostack era",
-   "url": "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era?utm_medium=rss&utm_source=rss",
+   "title": "New course teaches how AI models run on modern accelerators",
+   "url": "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
@@ -3713,8 +3716,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Transactions are Generally Available, advancing warehousing on the Lakehouse",
-   "url": "https://www.databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse",
+   "title": "Databricks Is Doubling Down On New York City As A Premier AI Talent Hub",
+   "url": "https://www.databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3753,8 +3756,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Variable payout amounts for BABE (as applied to Lichen)",
-   "url": "https://delvingbitcoin.org/t/variable-payout-amounts-for-babe-as-applied-to-lichen/2963",
+   "title": "Btc-verified October Update: Connecting Map to Territory",
+   "url": "https://delvingbitcoin.org/t/btc-verified-october-update-connecting-map-to-territory/2964",
    "exact": true
   },
   "a16z crypto": {
@@ -3780,13 +3783,13 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 105,
-  "sent": 72,
+  "runs": 106,
+  "sent": 75,
   "by_source": {
-   "Databricks": 16,
+   "Databricks": 17,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
-   "Delving Bitcoin": 4,
+   "Delving Bitcoin": 5,
    "Bitcoin Optech": 2,
    "Anthropic": 9,
    "OpenAI": 11,
@@ -3799,7 +3802,8 @@
    "Mistral": 1,
    "Microsoft Research": 1,
    "a16z crypto": 3,
-   "SEC Speeches & Statements": 2
+   "SEC Speeches & Statements": 2,
+   "IBM Research": 1
   }
  }
 }
