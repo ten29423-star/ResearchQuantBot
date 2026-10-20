@@ -1299,7 +1299,8 @@
    "https://openai.com/index/sullivan-cromwell",
    "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "https://openai.com/index/itau-generative-ai",
-   "https://openai.com/index/benefit-street-partners"
+   "https://openai.com/index/benefit-street-partners",
+   "https://openai.com/index/low-resource-programming-languages"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3131,7 +3132,9 @@
    "https://databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse",
    "https://databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub",
    "https://databricks.com/blog/ai-database-solutions",
-   "https://databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse"
+   "https://databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
+   "https://databricks.com/blog/how-get-most-out-running-dbt-databricks",
+   "https://databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3658,8 +3661,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Benefit Street Partners answers questions faster with Codex",
-   "url": "https://openai.com/index/benefit-street-partners",
+   "title": "Advancing coding in low‑resource programming languages",
+   "url": "https://openai.com/index/low-resource-programming-languages",
    "exact": true
   },
   "Google DeepMind": {
@@ -3723,8 +3726,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "What makes a catalog open? Unity Catalog Advances the Open Lakehouse",
-   "url": "https://www.databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
+   "title": "How HP Is Building an AI-Ready CDP with Databricks CustomerLake",
+   "url": "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3790,16 +3793,16 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 107,
-  "sent": 82,
+  "runs": 108,
+  "sent": 85,
   "by_source": {
-   "Databricks": 19,
+   "Databricks": 21,
    "Google DeepMind": 2,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 5,
    "Bitcoin Optech": 2,
    "Anthropic": 9,
-   "OpenAI": 11,
+   "OpenAI": 12,
    "Apple ML Research": 5,
    "Google Research": 4,
    "Hugging Face (blog)": 8,
