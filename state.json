@@ -3183,7 +3183,8 @@
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.09.3",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.08.5",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.09.2",
-   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.2"
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.2",
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.3"
   ],
   "Solana SIMD": [
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f1f6c8b05dc205552d3c290a854a438392701107",
@@ -3205,7 +3206,9 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/2e6243a5010255ed5b1592f42ebfc890a2c21d05",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/0c3548e91bc6553774607181446dd09b00e4a649",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/17fe70eb59725cb1e386391f3343d6100ceadca7",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/5b1a323c0c73755ec97a8be3f9992f1502f8cf3f"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/5b1a323c0c73755ec97a8be3f9992f1502f8cf3f",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/f24b888c352c115f08438ebdb57f5bba46136745",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/749dc8635821383c5c259d616e337687707f3ef9"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3741,13 +3744,13 @@
    "exact": true
   },
   "Firedancer (releases)": {
-   "title": "Firedancer Mainnet Release v26.10.2",
-   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.2",
+   "title": "Firedancer Mainnet Release v26.10.3",
+   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.3",
    "exact": true
   },
   "Solana SIMD": {
-   "title": "amend SIMD-0464: clarify aliasing rules (#618)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/f1f6c8b05dc205552d3c290a854a438392701107",
+   "title": "SIMD-0686: Single Program Runtime Environment (#688)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/749dc8635821383c5c259d616e337687707f3ef9",
    "exact": true
   },
   "Helius": {
@@ -3793,12 +3796,12 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 108,
-  "sent": 85,
+  "runs": 109,
+  "sent": 88,
   "by_source": {
    "Databricks": 21,
    "Google DeepMind": 2,
-   "Firedancer (releases)": 1,
+   "Firedancer (releases)": 2,
    "Delving Bitcoin": 5,
    "Bitcoin Optech": 2,
    "Anthropic": 9,
@@ -3816,7 +3819,8 @@
    "IBM Research": 1,
    "Helius": 1,
    "Bitcoin BIPs": 2,
-   "SEC Press Releases": 1
+   "SEC Press Releases": 1,
+   "Solana SIMD": 2
   }
  }
 }
