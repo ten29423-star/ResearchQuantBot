@@ -3031,7 +3031,8 @@
    "https://anthropic.com/news/deprecation-commitments",
    "https://anthropic.com/news/anthropic-institute-agenda",
    "https://anthropic.com/news/announcements",
-   "https://anthropic.com/news/2028-ai-leadership"
+   "https://anthropic.com/news/2028-ai-leadership",
+   "https://anthropic.com/research/attack-surface-reduction"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3551,7 +3552,9 @@
    "https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy/2959",
    "https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960",
    "https://delvingbitcoin.org/t/variable-payout-amounts-for-babe-as-applied-to-lichen/2963",
-   "https://delvingbitcoin.org/t/btc-verified-october-update-connecting-map-to-territory/2964"
+   "https://delvingbitcoin.org/t/btc-verified-october-update-connecting-map-to-territory/2964",
+   "https://delvingbitcoin.org/t/evaluating-deterministic-bft-finality-within-a-confidential-utxo-state-machine/2965",
+   "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3778,8 +3781,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "2028 Ai Leadership",
-   "url": "https://www.anthropic.com/news/2028-ai-leadership",
+   "title": "Attack Surface Reduction",
+   "url": "https://www.anthropic.com/research/attack-surface-reduction",
    "exact": false
   },
   "Mistral": {
@@ -3838,8 +3841,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Btc-verified October Update: Connecting Map to Territory",
-   "url": "https://delvingbitcoin.org/t/btc-verified-october-update-connecting-map-to-territory/2964",
+   "title": "Cost-Bounded Transaction Filtering Language",
+   "url": "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
    "exact": true
   },
   "a16z crypto": {
@@ -3864,33 +3867,9 @@
   }
  },
  "weekly": {
-  "since": 1791930324.4216352,
-  "runs": 112,
-  "sent": 157,
-  "by_source": {
-   "Databricks": 25,
-   "Google DeepMind": 2,
-   "Firedancer (releases)": 2,
-   "Delving Bitcoin": 5,
-   "Bitcoin Optech": 3,
-   "Anthropic": 57,
-   "OpenAI": 14,
-   "Apple ML Research": 5,
-   "Google Research": 4,
-   "Hugging Face (blog)": 14,
-   "Allen AI": 2,
-   "Solana News": 2,
-   "SEC Trading Suspensions": 1,
-   "Mistral": 2,
-   "Microsoft Research": 2,
-   "a16z crypto": 3,
-   "SEC Speeches & Statements": 2,
-   "IBM Research": 2,
-   "Helius": 1,
-   "Bitcoin BIPs": 2,
-   "SEC Press Releases": 3,
-   "Solana SIMD": 3,
-   "Amazon Science": 1
-  }
+  "since": 1792537053.2705998,
+  "runs": 0,
+  "sent": 0,
+  "by_source": {}
  }
 }
