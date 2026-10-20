@@ -1300,7 +1300,9 @@
    "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "https://openai.com/index/itau-generative-ai",
    "https://openai.com/index/benefit-street-partners",
-   "https://openai.com/index/low-resource-programming-languages"
+   "https://openai.com/index/low-resource-programming-languages",
+   "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "https://openai.com/index/ted-taylor-restaurant"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1523,7 +1525,8 @@
    "https://microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
    "https://microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models",
    "https://microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
-   "https://microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar"
+   "https://microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
+   "https://microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -1587,7 +1590,8 @@
    "https://amazon.science/blog/real-world-grounding-in-agentic-ai",
    "https://amazon.science/blog/bridging-intent-and-execution-in-agentic-systems",
    "https://amazon.science/blog/ground-truth-is-a-process-not-a-dataset",
-   "https://amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks"
+   "https://amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
+   "https://amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review"
   ],
   "IBM Research": [
    "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era",
@@ -2501,7 +2505,9 @@
    "https://huggingface.co/blog/mps-pytorch-2-15",
    "https://huggingface.co/blog/anylanguagemodel-1-0",
    "https://huggingface.co/blog/hf-torchtpu",
-   "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+   "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "https://huggingface.co/blog/allenai/fairstress",
+   "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -2978,7 +2984,54 @@
    "https://anthropic.com/research/employment-at-anthropic",
    "https://anthropic.com/research/ai-expectations-gap",
    "https://anthropic.com/news/public-benefit-fund",
-   "https://anthropic.com/research/claude-scorpion-toxin-binder-design"
+   "https://anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "https://anthropic.com/research/writing-tools-for-agents",
+   "https://anthropic.com/research/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
+   "https://anthropic.com/research/redesigning-source-control",
+   "https://anthropic.com/research/political-even-handedness",
+   "https://anthropic.com/research/multi-agent-research-system",
+   "https://anthropic.com/research/managed-agents",
+   "https://anthropic.com/research/long-running-claude",
+   "https://anthropic.com/research/infrastructure-noise",
+   "https://anthropic.com/research/how-we-contain-claude",
+   "https://anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship",
+   "https://anthropic.com/research/harness-design-long-running-apps",
+   "https://anthropic.com/research/golden-gate-claude",
+   "https://anthropic.com/research/eval-awareness-browsecomp",
+   "https://anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
+   "https://anthropic.com/research/effective-harnesses-for-long-running-agents",
+   "https://anthropic.com/research/effective-context-engineering-for-ai-agents",
+   "https://anthropic.com/research/desktop-extensions",
+   "https://anthropic.com/research/demystifying-evals-for-ai-agents",
+   "https://anthropic.com/research/contextual-retrieval",
+   "https://anthropic.com/research/code-execution-with-mcp",
+   "https://anthropic.com/research/claude-think-tool",
+   "https://anthropic.com/research/claude-discovers-novel-enzyme-system",
+   "https://anthropic.com/research/claude-code-sandboxing",
+   "https://anthropic.com/research/claude-code-best-practices",
+   "https://anthropic.com/research/claude-code-auto-mode",
+   "https://anthropic.com/research/building-c-compiler",
+   "https://anthropic.com/research/april-23-postmortem",
+   "https://anthropic.com/research/anthropic-public-record",
+   "https://anthropic.com/research/anthropic-education-report-how-university-students-use-claude",
+   "https://anthropic.com/research/AI-resistant-technical-evaluations",
+   "https://anthropic.com/research/advanced-tool-use",
+   "https://anthropic.com/research/accelerating-scientific-research",
+   "https://anthropic.com/research/a-postmortem-of-three-recent-issues",
+   "https://anthropic.com/news/security",
+   "https://anthropic.com/news/safeguards",
+   "https://anthropic.com/news/product",
+   "https://anthropic.com/news/policy",
+   "https://anthropic.com/news/partnerships",
+   "https://anthropic.com/news/models",
+   "https://anthropic.com/news/glasswing-initial-update",
+   "https://anthropic.com/news/features",
+   "https://anthropic.com/news/distillation-defenses",
+   "https://anthropic.com/news/deprecation-updates-opus-3",
+   "https://anthropic.com/news/deprecation-commitments",
+   "https://anthropic.com/news/anthropic-institute-agenda",
+   "https://anthropic.com/news/announcements",
+   "https://anthropic.com/news/2028-ai-leadership"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3070,7 +3123,8 @@
    "https://mistral.ai/news/la-plateforme",
    "https://mistral.ai/news/announcing-mistral-7b",
    "https://mistral.ai/news/about-mistral-ai",
-   "https://mistral.ai/news/timestral"
+   "https://mistral.ai/news/timestral",
+   "https://mistral.ai/news/voxtral-3"
   ],
   "Allen AI": [
    "https://allenai.org/blog/molmo2fish",
@@ -3098,7 +3152,8 @@
    "https://allenai.org/blog/flexmore",
    "https://allenai.org/blog/discoformer",
    "https://allenai.org/blog/hybrid-token-prediction",
-   "https://allenai.org/blog/hiro-acev2"
+   "https://allenai.org/blog/hiro-acev2",
+   "https://allenai.org/blog/fairstress"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3141,7 +3196,10 @@
    "https://databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
    "https://databricks.com/blog/how-get-most-out-running-dbt-databricks",
    "https://databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
-   "https://databricks.com/blog/customerlake-beta"
+   "https://databricks.com/blog/customerlake-beta",
+   "https://databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data",
+   "https://databricks.com/blog/introducing-agent-memory-databricks",
+   "https://databricks.com/blog/memcurrent-designing-persistent-memory-production-agents"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3215,7 +3273,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/17fe70eb59725cb1e386391f3343d6100ceadca7",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/5b1a323c0c73755ec97a8be3f9992f1502f8cf3f",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f24b888c352c115f08438ebdb57f5bba46136745",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/749dc8635821383c5c259d616e337687707f3ef9"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/749dc8635821383c5c259d616e337687707f3ef9",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/33c75cffdeb38468989313c6381c179a541808f1"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3430,7 +3489,8 @@
    "https://bitcoinops.org/en/podcast/2026/09/08",
    "https://bitcoinops.org/en/newsletters/2026/10/09",
    "https://bitcoinops.org/en/podcast/2026/10/13",
-   "https://bitcoinops.org/en/newsletters/2026/10/16"
+   "https://bitcoinops.org/en/newsletters/2026/10/16",
+   "https://bitcoinops.org/en/podcast/2026/10/20"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3673,8 +3733,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Advancing coding in low‑resource programming languages",
-   "url": "https://openai.com/index/low-resource-programming-languages",
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
    "exact": true
   },
   "Google DeepMind": {
@@ -3688,8 +3748,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Proof-based general-purpose computing with Magnetar",
-   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+   "title": "Called to serve: Tech, research, and positive impact",
+   "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -3703,8 +3763,8 @@
    "exact": true
   },
   "Amazon Science": {
-   "title": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
-   "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+   "title": "Strengthening AI safety evaluation through independent third-party review",
+   "url": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
    "exact": true
   },
   "IBM Research": {
@@ -3713,23 +3773,23 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+   "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
    "exact": true
   },
   "Anthropic": {
-   "title": "Claude Scorpion Toxin Binder Design",
-   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "title": "2028 Ai Leadership",
+   "url": "https://www.anthropic.com/news/2028-ai-leadership",
    "exact": false
   },
   "Mistral": {
-   "title": "Introducing Timestral",
-   "url": "https://mistral.ai/news/timestral/",
+   "title": "Voxtral 3",
+   "url": "https://mistral.ai/news/voxtral-3/",
    "exact": true
   },
   "Allen AI": {
-   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-   "url": "https://allenai.org/blog/hiro-acev2",
+   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+   "url": "https://allenai.org/blog/fairstress",
    "exact": true
   },
   "Thinking Machines": {
@@ -3738,8 +3798,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "CustomerLake enters Beta: Leading enterprises going live with the Agentic CDP",
-   "url": "https://www.databricks.com/blog/customerlake-beta",
+   "title": "MemCurrent: Designing Persistent Memory for Production Agents",
+   "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3758,8 +3818,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0686: Single Program Runtime Environment (#688)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/749dc8635821383c5c259d616e337687707f3ef9",
+   "title": "simd-0504: remove identical signature requirement (#593)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/33c75cffdeb38468989313c6381c179a541808f1",
    "exact": true
   },
   "Helius": {
@@ -3768,8 +3828,8 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #427",
-   "url": "https://bitcoinops.org/en/newsletters/2026/10/16/",
+   "title": "Bitcoin Optech Newsletter #427 Recap Podcast",
+   "url": "https://bitcoinops.org/en/podcast/2026/10/20/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -3805,31 +3865,32 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 111,
-  "sent": 97,
+  "runs": 112,
+  "sent": 157,
   "by_source": {
-   "Databricks": 22,
+   "Databricks": 25,
    "Google DeepMind": 2,
    "Firedancer (releases)": 2,
    "Delving Bitcoin": 5,
-   "Bitcoin Optech": 2,
-   "Anthropic": 10,
-   "OpenAI": 12,
+   "Bitcoin Optech": 3,
+   "Anthropic": 57,
+   "OpenAI": 14,
    "Apple ML Research": 5,
    "Google Research": 4,
-   "Hugging Face (blog)": 12,
-   "Allen AI": 1,
+   "Hugging Face (blog)": 14,
+   "Allen AI": 2,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
-   "Mistral": 1,
-   "Microsoft Research": 1,
+   "Mistral": 2,
+   "Microsoft Research": 2,
    "a16z crypto": 3,
    "SEC Speeches & Statements": 2,
    "IBM Research": 2,
    "Helius": 1,
    "Bitcoin BIPs": 2,
    "SEC Press Releases": 3,
-   "Solana SIMD": 2
+   "Solana SIMD": 3,
+   "Amazon Science": 1
   }
  }
 }
