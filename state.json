@@ -1610,7 +1610,8 @@
    "https://research.ibm.com/blog/introducing-granite-4-2",
    "https://research.ibm.com/blog/qiskit-fermions",
    "https://research.ibm.com/blog/modular-cryogenics",
-   "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization"
+   "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization",
+   "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2496,7 +2497,11 @@
    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
    "https://huggingface.co/blog/reflection-beam",
-   "https://huggingface.co/blog/hf-torchneuron"
+   "https://huggingface.co/blog/hf-torchneuron",
+   "https://huggingface.co/blog/mps-pytorch-2-15",
+   "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "https://huggingface.co/blog/hf-torchtpu",
+   "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -2972,7 +2977,8 @@
    "https://anthropic.com/research/expectations-for-the-future",
    "https://anthropic.com/research/employment-at-anthropic",
    "https://anthropic.com/research/ai-expectations-gap",
-   "https://anthropic.com/news/public-benefit-fund"
+   "https://anthropic.com/news/public-benefit-fund",
+   "https://anthropic.com/research/claude-scorpion-toxin-binder-design"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3134,7 +3140,8 @@
    "https://databricks.com/blog/ai-database-solutions",
    "https://databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
    "https://databricks.com/blog/how-get-most-out-running-dbt-databricks",
-   "https://databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake"
+   "https://databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
+   "https://databricks.com/blog/customerlake-beta"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3547,7 +3554,9 @@
    "https://sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
    "https://sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
    "https://sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents",
-   "https://sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence"
+   "https://sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+   "https://sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
+   "https://sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -3699,18 +3708,18 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "New course teaches how AI models run on modern accelerators",
-   "url": "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization?utm_medium=rss&utm_source=rss",
+   "title": "llm-d 1.0 hardens open-source AI inference for production",
+   "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-   "url": "https://huggingface.co/blog/hf-torchneuron",
+   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
    "exact": true
   },
   "Anthropic": {
-   "title": "Public Benefit Fund",
-   "url": "https://www.anthropic.com/news/public-benefit-fund",
+   "title": "Claude Scorpion Toxin Binder Design",
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
    "exact": false
   },
   "Mistral": {
@@ -3729,8 +3738,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How HP Is Building an AI-Ready CDP with Databricks CustomerLake",
-   "url": "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
+   "title": "CustomerLake enters Beta: Leading enterprises going live with the Agentic CDP",
+   "url": "https://www.databricks.com/blog/customerlake-beta",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3779,8 +3788,8 @@
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+   "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -3796,19 +3805,19 @@
  },
  "weekly": {
   "since": 1791930324.4216352,
-  "runs": 110,
-  "sent": 88,
+  "runs": 111,
+  "sent": 97,
   "by_source": {
-   "Databricks": 21,
+   "Databricks": 22,
    "Google DeepMind": 2,
    "Firedancer (releases)": 2,
    "Delving Bitcoin": 5,
    "Bitcoin Optech": 2,
-   "Anthropic": 9,
+   "Anthropic": 10,
    "OpenAI": 12,
    "Apple ML Research": 5,
    "Google Research": 4,
-   "Hugging Face (blog)": 8,
+   "Hugging Face (blog)": 12,
    "Allen AI": 1,
    "Solana News": 2,
    "SEC Trading Suspensions": 1,
@@ -3816,10 +3825,10 @@
    "Microsoft Research": 1,
    "a16z crypto": 3,
    "SEC Speeches & Statements": 2,
-   "IBM Research": 1,
+   "IBM Research": 2,
    "Helius": 1,
    "Bitcoin BIPs": 2,
-   "SEC Press Releases": 1,
+   "SEC Press Releases": 3,
    "Solana SIMD": 2
   }
  }
