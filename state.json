@@ -1302,7 +1302,8 @@
    "https://openai.com/index/benefit-street-partners",
    "https://openai.com/index/low-resource-programming-languages",
    "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "https://openai.com/index/ted-taylor-restaurant"
+   "https://openai.com/index/ted-taylor-restaurant",
+   "https://openai.com/index/terminal-x"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3275,7 +3276,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/5b1a323c0c73755ec97a8be3f9992f1502f8cf3f",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f24b888c352c115f08438ebdb57f5bba46136745",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/749dc8635821383c5c259d616e337687707f3ef9",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/33c75cffdeb38468989313c6381c179a541808f1"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/33c75cffdeb38468989313c6381c179a541808f1",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/f13f5d657ccae32cb19cae84ccb6c781cd125ad7"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3736,8 +3738,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "url": "https://openai.com/index/terminal-x",
    "exact": true
   },
   "Google DeepMind": {
@@ -3821,8 +3823,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "simd-0504: remove identical signature requirement (#593)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/33c75cffdeb38468989313c6381c179a541808f1",
+   "title": "[SIMD-0565] Specify compute unit costs for the SIMD-0565 secp256r1 sy…",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/f13f5d657ccae32cb19cae84ccb6c781cd125ad7",
    "exact": true
   },
   "Helius": {
@@ -3868,8 +3870,11 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 0,
-  "sent": 0,
-  "by_source": {}
+  "runs": 1,
+  "sent": 2,
+  "by_source": {
+   "OpenAI": 1,
+   "Solana SIMD": 1
+  }
  }
 }
