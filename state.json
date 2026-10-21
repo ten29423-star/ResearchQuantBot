@@ -3277,7 +3277,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f24b888c352c115f08438ebdb57f5bba46136745",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/749dc8635821383c5c259d616e337687707f3ef9",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/33c75cffdeb38468989313c6381c179a541808f1",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/f13f5d657ccae32cb19cae84ccb6c781cd125ad7"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/f13f5d657ccae32cb19cae84ccb6c781cd125ad7",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/27ff5a704391d121869dd3bc8cfa8127483329d0"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3823,8 +3824,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "[SIMD-0565] Specify compute unit costs for the SIMD-0565 secp256r1 sy…",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/f13f5d657ccae32cb19cae84ccb6c781cd125ad7",
+   "title": "SIMD-0648: Unbound LoaderV3 Instruction Data (#648)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/27ff5a704391d121869dd3bc8cfa8127483329d0",
    "exact": true
   },
   "Helius": {
@@ -3870,11 +3871,11 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 1,
-  "sent": 2,
+  "runs": 2,
+  "sent": 3,
   "by_source": {
    "OpenAI": 1,
-   "Solana SIMD": 1
+   "Solana SIMD": 2
   }
  }
 }
