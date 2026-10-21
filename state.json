@@ -1308,7 +1308,9 @@
    "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
    "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "https://openai.com/index/openai-models-google-cloud"
+   "https://openai.com/index/openai-models-google-cloud",
+   "https://openai.com/index/empowering-cyber-defenders",
+   "https://openai.com/index/att-legal"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -2520,7 +2522,9 @@
    "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
    "https://huggingface.co/blog/nvidia/kumo-forecast",
    "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-   "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+   "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+   "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+   "https://huggingface.co/blog/nvidia/kumo-relational"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3757,8 +3761,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "OpenAI models are coming to Google Cloud",
-   "url": "https://openai.com/index/openai-models-google-cloud",
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "url": "https://openai.com/index/att-legal",
    "exact": true
   },
   "Google DeepMind": {
@@ -3797,8 +3801,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+   "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+   "url": "https://huggingface.co/blog/nvidia/kumo-relational",
    "exact": true
   },
   "Anthropic": {
@@ -3889,13 +3893,13 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 5,
-  "sent": 21,
+  "runs": 6,
+  "sent": 25,
   "by_source": {
-   "OpenAI": 6,
+   "OpenAI": 8,
    "Solana SIMD": 2,
    "IBM Research": 1,
-   "Hugging Face (blog)": 4,
+   "Hugging Face (blog)": 6,
    "Mistral": 1,
    "Databricks": 3,
    "Google Research": 1,
