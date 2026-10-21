@@ -1616,7 +1616,8 @@
    "https://research.ibm.com/blog/qiskit-fermions",
    "https://research.ibm.com/blog/modular-cryogenics",
    "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization",
-   "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving"
+   "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
+   "https://research.ibm.com/blog/fast-interpretability-plugin-vllm"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2508,7 +2509,8 @@
    "https://huggingface.co/blog/hf-torchtpu",
    "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
    "https://huggingface.co/blog/allenai/fairstress",
-   "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+   "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+   "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3126,7 +3128,8 @@
    "https://mistral.ai/news/announcing-mistral-7b",
    "https://mistral.ai/news/about-mistral-ai",
    "https://mistral.ai/news/timestral",
-   "https://mistral.ai/news/voxtral-3"
+   "https://mistral.ai/news/voxtral-3",
+   "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
   ],
   "Allen AI": [
    "https://allenai.org/blog/molmo2fish",
@@ -3201,7 +3204,10 @@
    "https://databricks.com/blog/customerlake-beta",
    "https://databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data",
    "https://databricks.com/blog/introducing-agent-memory-databricks",
-   "https://databricks.com/blog/memcurrent-designing-persistent-memory-production-agents"
+   "https://databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+   "https://databricks.com/blog/deploy-rfd4-proteina-model-databricks",
+   "https://databricks.com/blog/ai-runtime-generally-available",
+   "https://databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3774,13 +3780,13 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "llm-d 1.0 hardens open-source AI inference for production",
-   "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
+   "title": "A new plugin can enable fast runtime monitoring and control",
+   "url": "https://research.ibm.com/blog/fast-interpretability-plugin-vllm?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-   "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+   "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+   "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
    "exact": true
   },
   "Anthropic": {
@@ -3789,8 +3795,8 @@
    "exact": false
   },
   "Mistral": {
-   "title": "Voxtral 3",
-   "url": "https://mistral.ai/news/voxtral-3/",
+   "title": "Mistral Advances AI for Engineering with NVIDIA",
+   "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
    "exact": true
   },
   "Allen AI": {
@@ -3804,8 +3810,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "MemCurrent: Designing Persistent Memory for Production Agents",
-   "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+   "title": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data",
+   "url": "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3871,11 +3877,15 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 2,
-  "sent": 3,
+  "runs": 3,
+  "sent": 9,
   "by_source": {
    "OpenAI": 1,
-   "Solana SIMD": 2
+   "Solana SIMD": 2,
+   "IBM Research": 1,
+   "Hugging Face (blog)": 1,
+   "Mistral": 1,
+   "Databricks": 3
   }
  }
 }
