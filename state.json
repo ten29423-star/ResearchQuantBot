@@ -1303,7 +1303,12 @@
    "https://openai.com/index/low-resource-programming-languages",
    "https://openai.com/index/openai-to-acquire-orchestra-bio",
    "https://openai.com/index/ted-taylor-restaurant",
-   "https://openai.com/index/terminal-x"
+   "https://openai.com/index/terminal-x",
+   "https://openai.com/index/building-chatgpt-ad-stack",
+   "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "https://openai.com/index/openai-models-google-cloud"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1513,7 +1518,8 @@
    "https://research.google/blog/analyzing-technical-documents-with-deep-review",
    "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
-   "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs"
+   "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+   "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -1527,7 +1533,8 @@
    "https://microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models",
    "https://microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
    "https://microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
-   "https://microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white"
+   "https://microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
+   "https://microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -2510,7 +2517,10 @@
    "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
    "https://huggingface.co/blog/allenai/fairstress",
    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-   "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories"
+   "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+   "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+   "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3035,7 +3045,8 @@
    "https://anthropic.com/news/anthropic-institute-agenda",
    "https://anthropic.com/news/announcements",
    "https://anthropic.com/news/2028-ai-leadership",
-   "https://anthropic.com/research/attack-surface-reduction"
+   "https://anthropic.com/research/attack-surface-reduction",
+   "https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3257,7 +3268,8 @@
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.08.5",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.09.2",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.2",
-   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.3"
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.3",
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.4"
   ],
   "Solana SIMD": [
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f1f6c8b05dc205552d3c290a854a438392701107",
@@ -3745,8 +3757,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "url": "https://openai.com/index/terminal-x",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
    "exact": true
   },
   "Google DeepMind": {
@@ -3755,13 +3767,13 @@
    "exact": true
   },
   "Google Research": {
-   "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-   "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+   "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+   "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Called to serve: Tech, research, and positive impact",
-   "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+   "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -3785,13 +3797,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-   "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
    "exact": true
   },
   "Anthropic": {
-   "title": "Attack Surface Reduction",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction",
+   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
    "exact": false
   },
   "Mistral": {
@@ -3825,8 +3837,8 @@
    "exact": true
   },
   "Firedancer (releases)": {
-   "title": "Firedancer Mainnet Release v26.10.3",
-   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.3",
+   "title": "Firedancer Mainnet Release v26.10.4",
+   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.4",
    "exact": true
   },
   "Solana SIMD": {
@@ -3877,15 +3889,19 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 3,
-  "sent": 9,
+  "runs": 4,
+  "sent": 21,
   "by_source": {
-   "OpenAI": 1,
+   "OpenAI": 6,
    "Solana SIMD": 2,
    "IBM Research": 1,
-   "Hugging Face (blog)": 1,
+   "Hugging Face (blog)": 4,
    "Mistral": 1,
-   "Databricks": 3
+   "Databricks": 3,
+   "Google Research": 1,
+   "Microsoft Research": 1,
+   "Anthropic": 1,
+   "Firedancer (releases)": 1
   }
  }
 }
