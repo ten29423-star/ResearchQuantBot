@@ -1310,7 +1310,8 @@
    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
    "https://openai.com/index/openai-models-google-cloud",
    "https://openai.com/index/empowering-cyber-defenders",
-   "https://openai.com/index/att-legal"
+   "https://openai.com/index/att-legal",
+   "https://openai.com/index/broad-access-through-consistent-standards"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3761,8 +3762,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How AT&T is rethinking in-house legal work with OpenAI",
-   "url": "https://openai.com/index/att-legal",
+   "title": "Broad access through consistent standards",
+   "url": "https://openai.com/index/broad-access-through-consistent-standards",
    "exact": true
   },
   "Google DeepMind": {
@@ -3893,10 +3894,10 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 6,
-  "sent": 25,
+  "runs": 7,
+  "sent": 26,
   "by_source": {
-   "OpenAI": 8,
+   "OpenAI": 9,
    "Solana SIMD": 2,
    "IBM Research": 1,
    "Hugging Face (blog)": 6,
