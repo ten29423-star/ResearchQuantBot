@@ -2526,7 +2526,8 @@
    "https://huggingface.co/blog/ibm-granite/granite-speech-5",
    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-   "https://huggingface.co/blog/nvidia/kumo-relational"
+   "https://huggingface.co/blog/nvidia/kumo-relational",
+   "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3807,8 +3808,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-   "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
    "exact": true
   },
   "Anthropic": {
@@ -3899,13 +3900,13 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 8,
-  "sent": 31,
+  "runs": 9,
+  "sent": 32,
   "by_source": {
    "OpenAI": 10,
    "Solana SIMD": 2,
    "IBM Research": 1,
-   "Hugging Face (blog)": 6,
+   "Hugging Face (blog)": 7,
    "Mistral": 1,
    "Databricks": 3,
    "Google Research": 1,
