@@ -1313,7 +1313,9 @@
    "https://openai.com/index/att-legal",
    "https://openai.com/index/broad-access-through-consistent-standards",
    "https://openai.com/index/cloudflare-cyber",
-   "https://openai.com/index/forward-deployed-engineering-means"
+   "https://openai.com/index/forward-deployed-engineering-means",
+   "https://openai.com/index/uber-chatgpt-work-rollout",
+   "https://openai.com/index/decisions-api"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1540,7 +1542,8 @@
    "https://microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
    "https://microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
    "https://microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
-   "https://microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture"
+   "https://microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+   "https://microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -1630,7 +1633,8 @@
    "https://research.ibm.com/blog/modular-cryogenics",
    "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization",
    "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
-   "https://research.ibm.com/blog/fast-interpretability-plugin-vllm"
+   "https://research.ibm.com/blog/fast-interpretability-plugin-vllm",
+   "https://research.ibm.com/blog/qiskit-2-6-release-summary"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2529,7 +2533,8 @@
    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
    "https://huggingface.co/blog/nvidia/kumo-relational",
-   "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+   "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "https://huggingface.co/blog/allenai/olmoearth-v1-3"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3055,7 +3060,8 @@
    "https://anthropic.com/news/announcements",
    "https://anthropic.com/news/2028-ai-leadership",
    "https://anthropic.com/research/attack-surface-reduction",
-   "https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+   "https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3229,7 +3235,10 @@
    "https://databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
    "https://databricks.com/blog/deploy-rfd4-proteina-model-databricks",
    "https://databricks.com/blog/ai-runtime-generally-available",
-   "https://databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models"
+   "https://databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
+   "https://databricks.com/blog/ai-bill-coming",
+   "https://databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform",
+   "https://databricks.com/blog/ai-cost-management"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3625,7 +3634,37 @@
    "https://a16zcrypto.com/posts/article/prediction-market-record-week-data-charts",
    "https://a16zcrypto.com/posts/article/crypto-in-washington",
    "https://a16zcrypto.com/posts/podcast/can-ai-break-cryptography",
-   "https://a16zcrypto.com/posts/article/fast-post-quantum-signature-aggregation-with-lattice-snarks"
+   "https://a16zcrypto.com/posts/article/fast-post-quantum-signature-aggregation-with-lattice-snarks",
+   "https://a16zfrontier.com/posts/article/books-were-reading-summer-2026",
+   "https://a16zfrontier.com/posts/videos/first-principles-with-alvin-roth",
+   "https://a16zfrontier.com/posts/article/tradfi-doesnt-want-defi-it-wants-blockchain",
+   "https://a16zfrontier.com/posts/article/the-time-for-clarity-is-here",
+   "https://a16zfrontier.com/posts/article/charts-tokenized-stocks",
+   "https://a16zfrontier.com/posts/article/clarity-act-time-to-pass",
+   "https://a16zfrontier.com/posts/article/duna-how-organizations-evolve",
+   "https://a16zfrontier.com/posts/article/marc-andreessen-chris-dixon-why-clarity-act",
+   "https://a16zfrontier.com/posts/article/clarity-qa-marc-andreessen-chris-dixon",
+   "https://a16zfrontier.com/posts/article/zero-knowledge-proofs-shafi-goldwasser",
+   "https://a16zfrontier.com/posts/article/9-key-moments-from-marc-andreessen-and-chris-dixon-on-the-clarity-act",
+   "https://a16zfrontier.com/posts/article/charts-payment-card-stablecoin-spend",
+   "https://a16zfrontier.com/posts/article/snarks-noam-nisan",
+   "https://a16zfrontier.com/posts/article/ai-writing-hallmarks-for-founders",
+   "https://a16zfrontier.com/posts/article/beyond-slop-taste-ai-social-science",
+   "https://a16zfrontier.com/posts/article/how-argentina-uses-crypto-5-charts",
+   "https://a16zfrontier.com/posts/article/investing-in-felix",
+   "https://a16zfrontier.com/posts/article/blockchains-are-fast-enough-are-they-ready-for-financial-markets",
+   "https://a16zfrontier.com/posts/article/investing-in-openreserve",
+   "https://a16zfrontier.com/posts/article/lattice-snarks-jolt-post-quantum-faster",
+   "https://a16zfrontier.com/posts/article/financial-integrity-framework-permissionless-networks",
+   "https://a16zfrontier.com/posts/article/us-senate-prevent-next-ftx",
+   "https://a16zfrontier.com/posts/article/sec-clarify-exchange-rules-blockchains",
+   "https://a16zfrontier.com/posts/article/rwa-perps-charts",
+   "https://a16zfrontier.com/posts/article/blockchains-create-net-new-markets",
+   "https://a16zfrontier.com/posts/podcast/can-ai-break-cryptography",
+   "https://a16zfrontier.com/posts/article/rethinking-kyc",
+   "https://a16zfrontier.com/posts/article/crypto-in-washington",
+   "https://a16zfrontier.com/posts/article/fast-post-quantum-signature-aggregation-with-lattice-snarks",
+   "https://a16zfrontier.com/posts/article/a16z-frontier"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -3712,7 +3751,8 @@
    "https://sec.gov/newsroom/speeches-statements/atkins-innovation-exemption-bridge-toward-durable-rulemaking-091726",
    "https://sec.gov/newsroom/speeches-statements/peirce-slumber-number-innovation-exemption-statement-091726",
    "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-statewide-joint-powers-authorities-energy-prepay-bonds-101526",
-   "https://sec.gov/newsroom/speeches-statements/daly-remarks-stanford-roundtable-101626"
+   "https://sec.gov/newsroom/speeches-statements/daly-remarks-stanford-roundtable-101626",
+   "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-naheffa-fall-conference-100626"
   ]
  },
  "feeds": {
@@ -3772,8 +3812,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "What FDE means at OpenAI",
-   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
    "exact": true
   },
   "Google DeepMind": {
@@ -3787,8 +3827,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+   "title": "Flint-interactive: A language for creating interactive data visualizations",
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -3807,18 +3847,18 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "A new plugin can enable fast runtime monitoring and control",
-   "url": "https://research.ibm.com/blog/fast-interpretability-plugin-vllm?utm_medium=rss&utm_source=rss",
+   "title": "Qiskit SDK v2.6 release summary",
+   "url": "https://research.ibm.com/blog/qiskit-2-6-release-summary?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Ensemble forecasting with IBM Granite time-series models",
-   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
    "exact": true
   },
   "Anthropic": {
-   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "title": "Donating Agent Skills To The Agentic Ai Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
    "exact": false
   },
   "Mistral": {
@@ -3837,8 +3877,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data",
-   "url": "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
+   "title": "The new economics of AI cost management",
+   "url": "https://www.databricks.com/blog/ai-cost-management",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3882,8 +3922,8 @@
    "exact": true
   },
   "a16z crypto": {
-   "title": "Fast post-quantum signature aggregation with lattice SNARKs",
-   "url": "https://a16zcrypto.com/posts/article/fast-post-quantum-signature-aggregation-with-lattice-snarks",
+   "title": "a16z Frontier",
+   "url": "https://a16zfrontier.com/posts/article/a16z-frontier",
    "exact": true
   },
   "SEC Press Releases": {
@@ -3897,30 +3937,32 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Remarks at the Stanford University Private Capital Roundtable",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/daly-remarks-stanford-roundtable-101626",
+   "title": "When an “IRMA” Is Not Quite an IRMA: Revisiting the Requirements of the Independent Registered Municipal Advisor Exemption",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/sanchez-remarks-naheffa-fall-conference-100626",
    "exact": true
   }
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 10,
-  "sent": 36,
+  "runs": 11,
+  "sent": 76,
   "by_source": {
-   "OpenAI": 11,
+   "OpenAI": 13,
    "Solana SIMD": 2,
-   "IBM Research": 1,
-   "Hugging Face (blog)": 7,
+   "IBM Research": 2,
+   "Hugging Face (blog)": 8,
    "Mistral": 1,
-   "Databricks": 3,
+   "Databricks": 6,
    "Google Research": 1,
-   "Microsoft Research": 1,
-   "Anthropic": 1,
+   "Microsoft Research": 2,
+   "Anthropic": 2,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 3,
    "Delving Bitcoin": 1,
    "Google DeepMind": 1,
-   "Allen AI": 2
+   "Allen AI": 2,
+   "a16z crypto": 30,
+   "SEC Speeches & Statements": 1
   }
  }
 }
