@@ -1608,7 +1608,8 @@
    "https://amazon.science/blog/bridging-intent-and-execution-in-agentic-systems",
    "https://amazon.science/blog/ground-truth-is-a-process-not-a-dataset",
    "https://amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
-   "https://amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review"
+   "https://amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
+   "https://amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips"
   ],
   "IBM Research": [
    "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era",
@@ -3842,8 +3843,8 @@
    "exact": true
   },
   "Amazon Science": {
-   "title": "Strengthening AI safety evaluation through independent third-party review",
-   "url": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
+   "title": "The science behind TorchNeuron, Amazon&#8217;s new PyTorch backend for AWS Trainium chips",
+   "url": "https://www.amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
    "exact": true
   },
   "IBM Research": {
@@ -3944,8 +3945,8 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 11,
-  "sent": 76,
+  "runs": 12,
+  "sent": 77,
   "by_source": {
    "OpenAI": 13,
    "Solana SIMD": 2,
@@ -3962,7 +3963,8 @@
    "Google DeepMind": 1,
    "Allen AI": 2,
    "a16z crypto": 30,
-   "SEC Speeches & Statements": 1
+   "SEC Speeches & Statements": 1,
+   "Amazon Science": 1
   }
  }
 }
