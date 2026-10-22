@@ -1312,7 +1312,8 @@
    "https://openai.com/index/empowering-cyber-defenders",
    "https://openai.com/index/att-legal",
    "https://openai.com/index/broad-access-through-consistent-standards",
-   "https://openai.com/index/cloudflare-cyber"
+   "https://openai.com/index/cloudflare-cyber",
+   "https://openai.com/index/forward-deployed-engineering-means"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1416,7 +1417,8 @@
    "https://deepmind.google/blog/introducing-google-antigravity",
    "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model",
    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-   "https://deepmind.google/blog/accelerating-antimicrobial-discovery"
+   "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+   "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -3176,7 +3178,9 @@
    "https://allenai.org/blog/discoformer",
    "https://allenai.org/blog/hybrid-token-prediction",
    "https://allenai.org/blog/hiro-acev2",
-   "https://allenai.org/blog/fairstress"
+   "https://allenai.org/blog/fairstress",
+   "https://allenai.org/blog/planteur",
+   "https://allenai.org/blog/olmoearth-v1-3"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3768,13 +3772,13 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "url": "https://openai.com/index/cloudflare-cyber",
+   "title": "What FDE means at OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
    "exact": true
   },
   "Google Research": {
@@ -3823,8 +3827,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-   "url": "https://allenai.org/blog/fairstress",
+   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+   "url": "https://allenai.org/blog/olmoearth-v1-3",
    "exact": true
   },
   "Thinking Machines": {
@@ -3900,10 +3904,10 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 9,
-  "sent": 32,
+  "runs": 10,
+  "sent": 36,
   "by_source": {
-   "OpenAI": 10,
+   "OpenAI": 11,
    "Solana SIMD": 2,
    "IBM Research": 1,
    "Hugging Face (blog)": 7,
@@ -3914,7 +3918,9 @@
    "Anthropic": 1,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 3,
-   "Delving Bitcoin": 1
+   "Delving Bitcoin": 1,
+   "Google DeepMind": 1,
+   "Allen AI": 2
   }
  }
 }
