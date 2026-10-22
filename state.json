@@ -2535,7 +2535,8 @@
    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
    "https://huggingface.co/blog/nvidia/kumo-relational",
    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-   "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+   "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+   "https://huggingface.co/blog/microsoft/thinkingbox-training"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3062,7 +3063,9 @@
    "https://anthropic.com/news/2028-ai-leadership",
    "https://anthropic.com/research/attack-surface-reduction",
    "https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+   "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "https://anthropic.com/research/formal-verification",
+   "https://anthropic.com/news/open-call-guest-investigators-life-sciences"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3853,13 +3856,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
    "exact": true
   },
   "Anthropic": {
-   "title": "Donating Agent Skills To The Agentic Ai Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "title": "Open Call Guest Investigators Life Sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
    "exact": false
   },
   "Mistral": {
@@ -3945,18 +3948,18 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 12,
-  "sent": 77,
+  "runs": 13,
+  "sent": 80,
   "by_source": {
    "OpenAI": 13,
    "Solana SIMD": 2,
    "IBM Research": 2,
-   "Hugging Face (blog)": 8,
+   "Hugging Face (blog)": 9,
    "Mistral": 1,
    "Databricks": 6,
    "Google Research": 1,
    "Microsoft Research": 2,
-   "Anthropic": 2,
+   "Anthropic": 4,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 3,
    "Delving Bitcoin": 1,
