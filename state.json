@@ -1311,7 +1311,8 @@
    "https://openai.com/index/openai-models-google-cloud",
    "https://openai.com/index/empowering-cyber-defenders",
    "https://openai.com/index/att-legal",
-   "https://openai.com/index/broad-access-through-consistent-standards"
+   "https://openai.com/index/broad-access-through-consistent-standards",
+   "https://openai.com/index/cloudflare-cyber"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3541,7 +3542,10 @@
    "https://github.com/bitcoin/bips/commit/a99b3d36a7eb612911cac08ecda66a07285170ff",
    "https://github.com/bitcoin/bips/commit/d1d2042c857f337c147785c1d02cfd9f9d3c84fb",
    "https://github.com/bitcoin/bips/commit/ef5b6ba9d05b4d81f40fd1553c3379a08f83a060",
-   "https://github.com/bitcoin/bips/commit/130b8e0fa7f30fa45532f080b87b8db27a79e46e"
+   "https://github.com/bitcoin/bips/commit/130b8e0fa7f30fa45532f080b87b8db27a79e46e",
+   "https://github.com/bitcoin/bips/commit/e80c8549a15ec97d000d05dfc42ec15d3205cebf",
+   "https://github.com/bitcoin/bips/commit/af1e6e27c772310c642cfff80c4f04b58b63a439",
+   "https://github.com/bitcoin/bips/commit/c0c5aea41e6a334d34db4ca87ae53bbfd7f268d1"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3580,7 +3584,8 @@
    "https://delvingbitcoin.org/t/variable-payout-amounts-for-babe-as-applied-to-lichen/2963",
    "https://delvingbitcoin.org/t/btc-verified-october-update-connecting-map-to-territory/2964",
    "https://delvingbitcoin.org/t/evaluating-deterministic-bft-finality-within-a-confidential-utxo-state-machine/2965",
-   "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966"
+   "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
+   "https://delvingbitcoin.org/t/several-projects-to-make-merchant-adoption-easier-and-cheaper/2967"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3762,8 +3767,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Broad access through consistent standards",
-   "url": "https://openai.com/index/broad-access-through-consistent-standards",
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber",
    "exact": true
   },
   "Google DeepMind": {
@@ -3862,13 +3867,13 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2332 from jonatack/2026-10-bip3-update-discussion…",
-   "url": "https://github.com/bitcoin/bips/commit/130b8e0fa7f30fa45532f080b87b8db27a79e46e",
+   "title": "Merge pull request #2334 from ViniciusCestarii/bip-0374-wording-nits",
+   "url": "https://github.com/bitcoin/bips/commit/c0c5aea41e6a334d34db4ca87ae53bbfd7f268d1",
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Cost-Bounded Transaction Filtering Language",
-   "url": "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
+   "title": "Several projects to make merchant adoption easier and cheaper",
+   "url": "https://delvingbitcoin.org/t/several-projects-to-make-merchant-adoption-easier-and-cheaper/2967",
    "exact": true
   },
   "a16z crypto": {
@@ -3894,10 +3899,10 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 7,
-  "sent": 26,
+  "runs": 8,
+  "sent": 31,
   "by_source": {
-   "OpenAI": 9,
+   "OpenAI": 10,
    "Solana SIMD": 2,
    "IBM Research": 1,
    "Hugging Face (blog)": 6,
@@ -3906,7 +3911,9 @@
    "Google Research": 1,
    "Microsoft Research": 1,
    "Anthropic": 1,
-   "Firedancer (releases)": 1
+   "Firedancer (releases)": 1,
+   "Bitcoin BIPs": 3,
+   "Delving Bitcoin": 1
   }
  }
 }
