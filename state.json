@@ -3320,7 +3320,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/749dc8635821383c5c259d616e337687707f3ef9",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/33c75cffdeb38468989313c6381c179a541808f1",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f13f5d657ccae32cb19cae84ccb6c781cd125ad7",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/27ff5a704391d121869dd3bc8cfa8127483329d0"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/27ff5a704391d121869dd3bc8cfa8127483329d0",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/51dbb649da0233481cc40f5640f33fe74d6dbffe"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3901,8 +3902,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0648: Unbound LoaderV3 Instruction Data (#648)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/27ff5a704391d121869dd3bc8cfa8127483329d0",
+   "title": "[SIMD-0529] Finalize compute unit costs for the SIMD-0529 big_mod_exp…",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/51dbb649da0233481cc40f5640f33fe74d6dbffe",
    "exact": true
   },
   "Helius": {
@@ -3948,11 +3949,11 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 13,
-  "sent": 80,
+  "runs": 14,
+  "sent": 81,
   "by_source": {
    "OpenAI": 13,
-   "Solana SIMD": 2,
+   "Solana SIMD": 3,
    "IBM Research": 2,
    "Hugging Face (blog)": 9,
    "Mistral": 1,
