@@ -1315,7 +1315,8 @@
    "https://openai.com/index/cloudflare-cyber",
    "https://openai.com/index/forward-deployed-engineering-means",
    "https://openai.com/index/uber-chatgpt-work-rollout",
-   "https://openai.com/index/decisions-api"
+   "https://openai.com/index/decisions-api",
+   "https://openai.com/index/openai-nask-ai-safety-security-partnership"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3817,8 +3818,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Build more responsive apps with the Decisions API",
-   "url": "https://openai.com/index/decisions-api",
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
    "exact": true
   },
   "Google DeepMind": {
@@ -3949,10 +3950,10 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 14,
-  "sent": 81,
+  "runs": 15,
+  "sent": 82,
   "by_source": {
-   "OpenAI": 13,
+   "OpenAI": 14,
    "Solana SIMD": 3,
    "IBM Research": 2,
    "Hugging Face (blog)": 9,
