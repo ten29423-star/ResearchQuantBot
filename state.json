@@ -3322,7 +3322,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/33c75cffdeb38468989313c6381c179a541808f1",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f13f5d657ccae32cb19cae84ccb6c781cd125ad7",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/27ff5a704391d121869dd3bc8cfa8127483329d0",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/51dbb649da0233481cc40f5640f33fe74d6dbffe"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/51dbb649da0233481cc40f5640f33fe74d6dbffe",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/a084840a512454a7ee5e2ef8dd736c790102bea0"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3538,7 +3539,8 @@
    "https://bitcoinops.org/en/newsletters/2026/10/09",
    "https://bitcoinops.org/en/podcast/2026/10/13",
    "https://bitcoinops.org/en/newsletters/2026/10/16",
-   "https://bitcoinops.org/en/podcast/2026/10/20"
+   "https://bitcoinops.org/en/podcast/2026/10/20",
+   "https://bitcoinops.org/en/newsletters/2026/10/23"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3605,7 +3607,9 @@
    "https://delvingbitcoin.org/t/btc-verified-october-update-connecting-map-to-territory/2964",
    "https://delvingbitcoin.org/t/evaluating-deterministic-bft-finality-within-a-confidential-utxo-state-machine/2965",
    "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
-   "https://delvingbitcoin.org/t/several-projects-to-make-merchant-adoption-easier-and-cheaper/2967"
+   "https://delvingbitcoin.org/t/several-projects-to-make-merchant-adoption-easier-and-cheaper/2967",
+   "https://delvingbitcoin.org/t/best-critiques-of-bip300-drivechains/2969",
+   "https://delvingbitcoin.org/t/a-novel-post-quantum-approach-proof-of-decay-cryptographic-half-life-for-unmigrated-dormant-utxos/2970"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3903,8 +3907,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "[SIMD-0529] Finalize compute unit costs for the SIMD-0529 big_mod_exp…",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/51dbb649da0233481cc40f5640f33fe74d6dbffe",
+   "title": "SIMD-0683: Pass ABIv1 input metadata via registers r3–r5 (#683)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/a084840a512454a7ee5e2ef8dd736c790102bea0",
    "exact": true
   },
   "Helius": {
@@ -3913,8 +3917,8 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #427 Recap Podcast",
-   "url": "https://bitcoinops.org/en/podcast/2026/10/20/",
+   "title": "Bitcoin Optech Newsletter #428",
+   "url": "https://bitcoinops.org/en/newsletters/2026/10/23/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -3923,8 +3927,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Several projects to make merchant adoption easier and cheaper",
-   "url": "https://delvingbitcoin.org/t/several-projects-to-make-merchant-adoption-easier-and-cheaper/2967",
+   "title": "A Novel Post-Quantum Approach: \"Proof-Of-Decay\" (Cryptographic Half-Life) for Unmigrated Dormant UTXOs",
+   "url": "https://delvingbitcoin.org/t/a-novel-post-quantum-approach-proof-of-decay-cryptographic-half-life-for-unmigrated-dormant-utxos/2970",
    "exact": true
   },
   "a16z crypto": {
@@ -3950,11 +3954,11 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 15,
-  "sent": 82,
+  "runs": 16,
+  "sent": 86,
   "by_source": {
    "OpenAI": 14,
-   "Solana SIMD": 3,
+   "Solana SIMD": 4,
    "IBM Research": 2,
    "Hugging Face (blog)": 9,
    "Mistral": 1,
@@ -3964,12 +3968,13 @@
    "Anthropic": 4,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 3,
-   "Delving Bitcoin": 1,
+   "Delving Bitcoin": 3,
    "Google DeepMind": 1,
    "Allen AI": 2,
    "a16z crypto": 30,
    "SEC Speeches & Statements": 1,
-   "Amazon Science": 1
+   "Amazon Science": 1,
+   "Bitcoin Optech": 1
   }
  }
 }
