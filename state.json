@@ -1317,7 +1317,8 @@
    "https://openai.com/index/uber-chatgpt-work-rollout",
    "https://openai.com/index/decisions-api",
    "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-   "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+   "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "https://openai.com/index/securing-our-frontier-model-training-environment"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1529,7 +1530,8 @@
    "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-   "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound"
+   "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+   "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -1638,7 +1640,8 @@
    "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization",
    "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
    "https://research.ibm.com/blog/fast-interpretability-plugin-vllm",
-   "https://research.ibm.com/blog/qiskit-2-6-release-summary"
+   "https://research.ibm.com/blog/qiskit-2-6-release-summary",
+   "https://research.ibm.com/blog/ibm-nedo-challenge-2026"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -3250,7 +3253,9 @@
    "https://databricks.com/blog/ai-bill-coming",
    "https://databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform",
    "https://databricks.com/blog/ai-cost-management",
-   "https://databricks.com/blog/databricks-vs-oracle-2026"
+   "https://databricks.com/blog/databricks-vs-oracle-2026",
+   "https://databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
+   "https://databricks.com/blog/built-agents-case-spark-declarative-pipelines"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3831,8 +3836,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "title": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
    "exact": true
   },
   "Google DeepMind": {
@@ -3841,8 +3846,8 @@
    "exact": true
   },
   "Google Research": {
-   "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-   "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+   "title": "Bringing foundational models to the front lines of TB screening",
+   "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
    "exact": true
   },
   "Microsoft Research": {
@@ -3866,8 +3871,8 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "Qiskit SDK v2.6 release summary",
-   "url": "https://research.ibm.com/blog/qiskit-2-6-release-summary?utm_medium=rss&utm_source=rss",
+   "title": "IBM supports award-winning projects in NEDO Challenge",
+   "url": "https://research.ibm.com/blog/ibm-nedo-challenge-2026?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
@@ -3896,8 +3901,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Databricks vs. Oracle in 2026",
-   "url": "https://www.databricks.com/blog/databricks-vs-oracle-2026",
+   "title": "Built for Agents: The Case for Spark Declarative Pipelines",
+   "url": "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3963,16 +3968,16 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 17,
-  "sent": 95,
+  "runs": 18,
+  "sent": 100,
   "by_source": {
-   "OpenAI": 15,
+   "OpenAI": 16,
    "Solana SIMD": 4,
-   "IBM Research": 2,
+   "IBM Research": 3,
    "Hugging Face (blog)": 11,
    "Mistral": 1,
-   "Databricks": 7,
-   "Google Research": 1,
+   "Databricks": 9,
+   "Google Research": 2,
    "Microsoft Research": 2,
    "Anthropic": 5,
    "Firedancer (releases)": 1,
