@@ -3580,7 +3580,11 @@
    "https://github.com/bitcoin/bips/commit/130b8e0fa7f30fa45532f080b87b8db27a79e46e",
    "https://github.com/bitcoin/bips/commit/e80c8549a15ec97d000d05dfc42ec15d3205cebf",
    "https://github.com/bitcoin/bips/commit/af1e6e27c772310c642cfff80c4f04b58b63a439",
-   "https://github.com/bitcoin/bips/commit/c0c5aea41e6a334d34db4ca87ae53bbfd7f268d1"
+   "https://github.com/bitcoin/bips/commit/c0c5aea41e6a334d34db4ca87ae53bbfd7f268d1",
+   "https://github.com/bitcoin/bips/commit/9b1a7ef537ba2c96ba0e1885d436857f5ea49ffc",
+   "https://github.com/bitcoin/bips/commit/99ece780c80af963cfd22eb23a46d3756f1d3a59",
+   "https://github.com/bitcoin/bips/commit/1fec65e55b17e36874c40f9dec08cc9ca9859c60",
+   "https://github.com/bitcoin/bips/commit/93f161194fbaed12c44f5e2a0c1d4f2b1b317cb0"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3936,8 +3940,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2334 from ViniciusCestarii/bip-0374-wording-nits",
-   "url": "https://github.com/bitcoin/bips/commit/c0c5aea41e6a334d34db4ca87ae53bbfd7f268d1",
+   "title": "Merge pull request #2338 from fengxueweilai/my_feature",
+   "url": "https://github.com/bitcoin/bips/commit/93f161194fbaed12c44f5e2a0c1d4f2b1b317cb0",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -3968,8 +3972,8 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 18,
-  "sent": 100,
+  "runs": 19,
+  "sent": 104,
   "by_source": {
    "OpenAI": 16,
    "Solana SIMD": 4,
@@ -3981,7 +3985,7 @@
    "Microsoft Research": 2,
    "Anthropic": 5,
    "Firedancer (releases)": 1,
-   "Bitcoin BIPs": 3,
+   "Bitcoin BIPs": 7,
    "Delving Bitcoin": 3,
    "Google DeepMind": 1,
    "Allen AI": 3,
