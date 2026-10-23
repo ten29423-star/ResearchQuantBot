@@ -1316,7 +1316,8 @@
    "https://openai.com/index/forward-deployed-engineering-means",
    "https://openai.com/index/uber-chatgpt-work-rollout",
    "https://openai.com/index/decisions-api",
-   "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+   "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "https://openai.com/index/scaling-storage-one-billion-users-part-two"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1610,7 +1611,8 @@
    "https://amazon.science/blog/ground-truth-is-a-process-not-a-dataset",
    "https://amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
    "https://amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
-   "https://amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips"
+   "https://amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
+   "https://amazon.science/blog/better-speech-synthesis-for-audiobooks"
   ],
   "IBM Research": [
    "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era",
@@ -2537,7 +2539,9 @@
    "https://huggingface.co/blog/nvidia/kumo-relational",
    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
    "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-   "https://huggingface.co/blog/microsoft/thinkingbox-training"
+   "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "https://huggingface.co/blog/torch-neuronx-model-support",
+   "https://huggingface.co/blog/allenai/litpivot"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3066,7 +3070,8 @@
    "https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
    "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
    "https://anthropic.com/research/formal-verification",
-   "https://anthropic.com/news/open-call-guest-investigators-life-sciences"
+   "https://anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "https://anthropic.com/research/alignment-assessment-ukaisi"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3191,7 +3196,8 @@
    "https://allenai.org/blog/hiro-acev2",
    "https://allenai.org/blog/fairstress",
    "https://allenai.org/blog/planteur",
-   "https://allenai.org/blog/olmoearth-v1-3"
+   "https://allenai.org/blog/olmoearth-v1-3",
+   "https://allenai.org/blog/litpivot"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3243,7 +3249,8 @@
    "https://databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
    "https://databricks.com/blog/ai-bill-coming",
    "https://databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform",
-   "https://databricks.com/blog/ai-cost-management"
+   "https://databricks.com/blog/ai-cost-management",
+   "https://databricks.com/blog/databricks-vs-oracle-2026"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3279,7 +3286,8 @@
    "https://solana.com/news/solana-summer-school-2026",
    "https://solana.com/news/solana-building-trust-in-public",
    "https://solana.com/news/breakpoint-2026-london-speakers-2",
-   "https://solana.com/news/geo-aware-leader-schedule"
+   "https://solana.com/news/geo-aware-leader-schedule",
+   "https://solana.com/news/solana-changelog-october-16-2026"
   ],
   "Firedancer (releases)": [
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.1",
@@ -3704,7 +3712,8 @@
    "https://sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents",
    "https://sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
    "https://sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
-   "https://sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service"
+   "https://sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+   "https://sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -3822,8 +3831,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
    "exact": true
   },
   "Google DeepMind": {
@@ -3852,8 +3861,8 @@
    "exact": true
   },
   "Amazon Science": {
-   "title": "The science behind TorchNeuron, Amazon&#8217;s new PyTorch backend for AWS Trainium chips",
-   "url": "https://www.amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
+   "title": "Better speech synthesis for audiobooks",
+   "url": "https://www.amazon.science/blog/better-speech-synthesis-for-audiobooks",
    "exact": true
   },
   "IBM Research": {
@@ -3862,13 +3871,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+   "url": "https://huggingface.co/blog/allenai/litpivot",
    "exact": true
   },
   "Anthropic": {
-   "title": "Open Call Guest Investigators Life Sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "title": "Alignment Assessment Ukaisi",
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
    "exact": false
   },
   "Mistral": {
@@ -3877,8 +3886,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-   "url": "https://allenai.org/blog/olmoearth-v1-3",
+   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+   "url": "https://allenai.org/blog/litpivot",
    "exact": true
   },
   "Thinking Machines": {
@@ -3887,8 +3896,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "The new economics of AI cost management",
-   "url": "https://www.databricks.com/blog/ai-cost-management",
+   "title": "Databricks vs. Oracle in 2026",
+   "url": "https://www.databricks.com/blog/databricks-vs-oracle-2026",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3897,8 +3906,8 @@
    "exact": true
   },
   "Solana News": {
-   "title": "Geo-Aware Leader Schedule",
-   "url": "https://solana.com/news/geo-aware-leader-schedule",
+   "title": "Solana Changelog: October 16, 2026",
+   "url": "https://solana.com/news/solana-changelog-october-16-2026",
    "exact": true
   },
   "Firedancer (releases)": {
@@ -3937,8 +3946,8 @@
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+   "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -3954,27 +3963,29 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 16,
-  "sent": 86,
+  "runs": 17,
+  "sent": 95,
   "by_source": {
-   "OpenAI": 14,
+   "OpenAI": 15,
    "Solana SIMD": 4,
    "IBM Research": 2,
-   "Hugging Face (blog)": 9,
+   "Hugging Face (blog)": 11,
    "Mistral": 1,
-   "Databricks": 6,
+   "Databricks": 7,
    "Google Research": 1,
    "Microsoft Research": 2,
-   "Anthropic": 4,
+   "Anthropic": 5,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 3,
    "Delving Bitcoin": 3,
    "Google DeepMind": 1,
-   "Allen AI": 2,
+   "Allen AI": 3,
    "a16z crypto": 30,
    "SEC Speeches & Statements": 1,
-   "Amazon Science": 1,
-   "Bitcoin Optech": 1
+   "Amazon Science": 2,
+   "Bitcoin Optech": 1,
+   "Solana News": 1,
+   "SEC Press Releases": 1
   }
  }
 }
