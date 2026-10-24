@@ -3584,7 +3584,8 @@
    "https://github.com/bitcoin/bips/commit/9b1a7ef537ba2c96ba0e1885d436857f5ea49ffc",
    "https://github.com/bitcoin/bips/commit/99ece780c80af963cfd22eb23a46d3756f1d3a59",
    "https://github.com/bitcoin/bips/commit/1fec65e55b17e36874c40f9dec08cc9ca9859c60",
-   "https://github.com/bitcoin/bips/commit/93f161194fbaed12c44f5e2a0c1d4f2b1b317cb0"
+   "https://github.com/bitcoin/bips/commit/93f161194fbaed12c44f5e2a0c1d4f2b1b317cb0",
+   "https://github.com/bitcoin/bips/commit/100ba872c808946155b1eeb8c4568058f2eea0a7"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3627,7 +3628,8 @@
    "https://delvingbitcoin.org/t/several-projects-to-make-merchant-adoption-easier-and-cheaper/2967",
    "https://delvingbitcoin.org/t/best-critiques-of-bip300-drivechains/2969",
    "https://delvingbitcoin.org/t/a-novel-post-quantum-approach-proof-of-decay-cryptographic-half-life-for-unmigrated-dormant-utxos/2970",
-   "https://delvingbitcoin.org/t/cln-self-referential-channel-announcement-dos-disclosure/2974"
+   "https://delvingbitcoin.org/t/cln-self-referential-channel-announcement-dos-disclosure/2974",
+   "https://delvingbitcoin.org/t/can-coinbase-scriptsig-patterns-reveal-a-shared-mining-template-generator/2975"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3941,13 +3943,13 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2338 from fengxueweilai/my_feature",
-   "url": "https://github.com/bitcoin/bips/commit/93f161194fbaed12c44f5e2a0c1d4f2b1b317cb0",
+   "title": "Add BIP139: Wallet Metadata Backup Format (#2130)",
+   "url": "https://github.com/bitcoin/bips/commit/100ba872c808946155b1eeb8c4568058f2eea0a7",
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "CLN: Self-Referential Channel Announcement DoS disclosure",
-   "url": "https://delvingbitcoin.org/t/cln-self-referential-channel-announcement-dos-disclosure/2974",
+   "title": "Can coinbase scriptSig patterns reveal a shared mining template generator?",
+   "url": "https://delvingbitcoin.org/t/can-coinbase-scriptsig-patterns-reveal-a-shared-mining-template-generator/2975",
    "exact": true
   },
   "a16z crypto": {
@@ -3973,8 +3975,8 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 22,
-  "sent": 105,
+  "runs": 23,
+  "sent": 107,
   "by_source": {
    "OpenAI": 16,
    "Solana SIMD": 4,
@@ -3986,8 +3988,8 @@
    "Microsoft Research": 2,
    "Anthropic": 5,
    "Firedancer (releases)": 1,
-   "Bitcoin BIPs": 7,
-   "Delving Bitcoin": 4,
+   "Bitcoin BIPs": 8,
+   "Delving Bitcoin": 5,
    "Google DeepMind": 1,
    "Allen AI": 3,
    "a16z crypto": 30,
