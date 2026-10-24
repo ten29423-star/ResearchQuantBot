@@ -3626,7 +3626,8 @@
    "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
    "https://delvingbitcoin.org/t/several-projects-to-make-merchant-adoption-easier-and-cheaper/2967",
    "https://delvingbitcoin.org/t/best-critiques-of-bip300-drivechains/2969",
-   "https://delvingbitcoin.org/t/a-novel-post-quantum-approach-proof-of-decay-cryptographic-half-life-for-unmigrated-dormant-utxos/2970"
+   "https://delvingbitcoin.org/t/a-novel-post-quantum-approach-proof-of-decay-cryptographic-half-life-for-unmigrated-dormant-utxos/2970",
+   "https://delvingbitcoin.org/t/cln-self-referential-channel-announcement-dos-disclosure/2974"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3945,8 +3946,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "A Novel Post-Quantum Approach: \"Proof-Of-Decay\" (Cryptographic Half-Life) for Unmigrated Dormant UTXOs",
-   "url": "https://delvingbitcoin.org/t/a-novel-post-quantum-approach-proof-of-decay-cryptographic-half-life-for-unmigrated-dormant-utxos/2970",
+   "title": "CLN: Self-Referential Channel Announcement DoS disclosure",
+   "url": "https://delvingbitcoin.org/t/cln-self-referential-channel-announcement-dos-disclosure/2974",
    "exact": true
   },
   "a16z crypto": {
@@ -3972,8 +3973,8 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 20,
-  "sent": 104,
+  "runs": 21,
+  "sent": 105,
   "by_source": {
    "OpenAI": 16,
    "Solana SIMD": 4,
@@ -3986,7 +3987,7 @@
    "Anthropic": 5,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 7,
-   "Delving Bitcoin": 3,
+   "Delving Bitcoin": 4,
    "Google DeepMind": 1,
    "Allen AI": 3,
    "a16z crypto": 30,
