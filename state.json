@@ -3336,7 +3336,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f13f5d657ccae32cb19cae84ccb6c781cd125ad7",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/27ff5a704391d121869dd3bc8cfa8127483329d0",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/51dbb649da0233481cc40f5640f33fe74d6dbffe",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/a084840a512454a7ee5e2ef8dd736c790102bea0"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/a084840a512454a7ee5e2ef8dd736c790102bea0",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/c9ec366af14dd32a74259f5d9f5772249188bd25"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3928,8 +3929,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0683: Pass ABIv1 input metadata via registers r3–r5 (#683)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/a084840a512454a7ee5e2ef8dd736c790102bea0",
+   "title": "SIMD-0670: ABIv1 invoke signed v2 syscall (#670)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/c9ec366af14dd32a74259f5d9f5772249188bd25",
    "exact": true
   },
   "Helius": {
@@ -3975,11 +3976,11 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 25,
-  "sent": 107,
+  "runs": 26,
+  "sent": 108,
   "by_source": {
    "OpenAI": 16,
-   "Solana SIMD": 4,
+   "Solana SIMD": 5,
    "IBM Research": 3,
    "Hugging Face (blog)": 11,
    "Mistral": 1,
