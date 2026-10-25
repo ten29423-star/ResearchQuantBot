@@ -3976,7 +3976,7 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 26,
+  "runs": 27,
   "sent": 108,
   "by_source": {
    "OpenAI": 16,
