@@ -1318,7 +1318,9 @@
    "https://openai.com/index/decisions-api",
    "https://openai.com/index/openai-nask-ai-safety-security-partnership",
    "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "https://openai.com/index/securing-our-frontier-model-training-environment"
+   "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "https://openai.com/index/fanatics-streamline-fan-experience",
+   "https://openai.com/index/chatgpt-expanding-world-of-work"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3075,7 +3077,8 @@
    "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
    "https://anthropic.com/research/formal-verification",
    "https://anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "https://anthropic.com/research/alignment-assessment-ukaisi"
+   "https://anthropic.com/research/alignment-assessment-ukaisi",
+   "https://anthropic.com/news/s1-sec"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3256,7 +3259,8 @@
    "https://databricks.com/blog/ai-cost-management",
    "https://databricks.com/blog/databricks-vs-oracle-2026",
    "https://databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
-   "https://databricks.com/blog/built-agents-case-spark-declarative-pipelines"
+   "https://databricks.com/blog/built-agents-case-spark-declarative-pipelines",
+   "https://databricks.com/blog/media-industry-becoming-prediction-economy"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3634,7 +3638,8 @@
    "https://delvingbitcoin.org/t/a-novel-post-quantum-approach-proof-of-decay-cryptographic-half-life-for-unmigrated-dormant-utxos/2970",
    "https://delvingbitcoin.org/t/cln-self-referential-channel-announcement-dos-disclosure/2974",
    "https://delvingbitcoin.org/t/can-coinbase-scriptsig-patterns-reveal-a-shared-mining-template-generator/2975",
-   "https://delvingbitcoin.org/t/update-and-open-questions-on-finaliscore-deterministic-bft-finality-confidential-utxos-from-genesis/2980"
+   "https://delvingbitcoin.org/t/update-and-open-questions-on-finaliscore-deterministic-bft-finality-confidential-utxos-from-genesis/2980",
+   "https://delvingbitcoin.org/t/cost-backed-sybil-resistance-for-self-issued-identifiers/2984"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3848,8 +3853,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Securing our frontier model training environment",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "title": "ChatGPT’s expanding world of work",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
    "exact": true
   },
   "Google DeepMind": {
@@ -3893,8 +3898,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Alignment Assessment Ukaisi",
-   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+   "title": "S1 Sec",
+   "url": "https://www.anthropic.com/news/s1-sec",
    "exact": false
   },
   "Mistral": {
@@ -3913,8 +3918,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Built for Agents: The Case for Spark Declarative Pipelines",
-   "url": "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
+   "title": "The media industry is becoming a prediction economy",
+   "url": "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3953,8 +3958,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Update and open questions on FinalisCore (deterministic BFT finality + confidential UTXOs from genesis)",
-   "url": "https://delvingbitcoin.org/t/update-and-open-questions-on-finaliscore-deterministic-bft-finality-confidential-utxos-from-genesis/2980",
+   "title": "Cost-backed Sybil resistance for self-issued identifiers",
+   "url": "https://delvingbitcoin.org/t/cost-backed-sybil-resistance-for-self-issued-identifiers/2984",
    "exact": true
   },
   "a16z crypto": {
@@ -3980,21 +3985,21 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 35,
-  "sent": 112,
+  "runs": 36,
+  "sent": 117,
   "by_source": {
-   "OpenAI": 16,
+   "OpenAI": 18,
    "Solana SIMD": 6,
    "IBM Research": 4,
    "Hugging Face (blog)": 11,
    "Mistral": 1,
-   "Databricks": 9,
+   "Databricks": 10,
    "Google Research": 2,
    "Microsoft Research": 2,
-   "Anthropic": 5,
+   "Anthropic": 6,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 8,
-   "Delving Bitcoin": 6,
+   "Delving Bitcoin": 7,
    "Google DeepMind": 1,
    "Allen AI": 3,
    "a16z crypto": 30,
