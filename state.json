@@ -1641,7 +1641,8 @@
    "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
    "https://research.ibm.com/blog/fast-interpretability-plugin-vllm",
    "https://research.ibm.com/blog/qiskit-2-6-release-summary",
-   "https://research.ibm.com/blog/ibm-nedo-challenge-2026"
+   "https://research.ibm.com/blog/ibm-nedo-challenge-2026",
+   "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -3292,7 +3293,8 @@
    "https://solana.com/news/solana-building-trust-in-public",
    "https://solana.com/news/breakpoint-2026-london-speakers-2",
    "https://solana.com/news/geo-aware-leader-schedule",
-   "https://solana.com/news/solana-changelog-october-16-2026"
+   "https://solana.com/news/solana-changelog-october-16-2026",
+   "https://solana.com/news/solana-changelog-october-22-2026"
   ],
   "Firedancer (releases)": [
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.1",
@@ -3337,7 +3339,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/27ff5a704391d121869dd3bc8cfa8127483329d0",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/51dbb649da0233481cc40f5640f33fe74d6dbffe",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/a084840a512454a7ee5e2ef8dd736c790102bea0",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/c9ec366af14dd32a74259f5d9f5772249188bd25"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/c9ec366af14dd32a74259f5d9f5772249188bd25",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/eac20f2994dd064482d96f178a4bbc0f4e358fd0"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3630,7 +3633,8 @@
    "https://delvingbitcoin.org/t/best-critiques-of-bip300-drivechains/2969",
    "https://delvingbitcoin.org/t/a-novel-post-quantum-approach-proof-of-decay-cryptographic-half-life-for-unmigrated-dormant-utxos/2970",
    "https://delvingbitcoin.org/t/cln-self-referential-channel-announcement-dos-disclosure/2974",
-   "https://delvingbitcoin.org/t/can-coinbase-scriptsig-patterns-reveal-a-shared-mining-template-generator/2975"
+   "https://delvingbitcoin.org/t/can-coinbase-scriptsig-patterns-reveal-a-shared-mining-template-generator/2975",
+   "https://delvingbitcoin.org/t/update-and-open-questions-on-finaliscore-deterministic-bft-finality-confidential-utxos-from-genesis/2980"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3879,8 +3883,8 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "IBM supports award-winning projects in NEDO Challenge",
-   "url": "https://research.ibm.com/blog/ibm-nedo-challenge-2026?utm_medium=rss&utm_source=rss",
+   "title": "PyTorch opens the AI ecosystem to a new accelerator class",
+   "url": "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
@@ -3919,8 +3923,8 @@
    "exact": true
   },
   "Solana News": {
-   "title": "Solana Changelog: October 16, 2026",
-   "url": "https://solana.com/news/solana-changelog-october-16-2026",
+   "title": "Solana Changelog: October 22, 2026",
+   "url": "https://solana.com/news/solana-changelog-october-22-2026",
    "exact": true
   },
   "Firedancer (releases)": {
@@ -3929,8 +3933,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0670: ABIv1 invoke signed v2 syscall (#670)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/c9ec366af14dd32a74259f5d9f5772249188bd25",
+   "title": "SIMD-0690: Hash validation in program migrations and upgrades (#690)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/eac20f2994dd064482d96f178a4bbc0f4e358fd0",
    "exact": true
   },
   "Helius": {
@@ -3949,8 +3953,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Can coinbase scriptSig patterns reveal a shared mining template generator?",
-   "url": "https://delvingbitcoin.org/t/can-coinbase-scriptsig-patterns-reveal-a-shared-mining-template-generator/2975",
+   "title": "Update and open questions on FinalisCore (deterministic BFT finality + confidential UTXOs from genesis)",
+   "url": "https://delvingbitcoin.org/t/update-and-open-questions-on-finaliscore-deterministic-bft-finality-confidential-utxos-from-genesis/2980",
    "exact": true
   },
   "a16z crypto": {
@@ -3976,12 +3980,12 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 34,
-  "sent": 108,
+  "runs": 35,
+  "sent": 112,
   "by_source": {
    "OpenAI": 16,
-   "Solana SIMD": 5,
-   "IBM Research": 3,
+   "Solana SIMD": 6,
+   "IBM Research": 4,
    "Hugging Face (blog)": 11,
    "Mistral": 1,
    "Databricks": 9,
@@ -3990,14 +3994,14 @@
    "Anthropic": 5,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 8,
-   "Delving Bitcoin": 5,
+   "Delving Bitcoin": 6,
    "Google DeepMind": 1,
    "Allen AI": 3,
    "a16z crypto": 30,
    "SEC Speeches & Statements": 1,
    "Amazon Science": 2,
    "Bitcoin Optech": 1,
-   "Solana News": 1,
+   "Solana News": 2,
    "SEC Press Releases": 1
   }
  }
