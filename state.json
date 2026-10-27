@@ -3268,7 +3268,8 @@
    "https://databricks.com/blog/built-agents-case-spark-declarative-pipelines",
    "https://databricks.com/blog/media-industry-becoming-prediction-economy",
    "https://databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
-   "https://databricks.com/blog/how-teach-databricks-free-edition"
+   "https://databricks.com/blog/how-teach-databricks-free-edition",
+   "https://databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3835,7 +3836,7 @@
   "OpenAI": 0,
   "Google DeepMind": 0,
   "Google Research": 0,
-  "Microsoft Research": 1,
+  "Microsoft Research": 0,
   "NVIDIA Research": 0,
   "Apple ML Research": 0,
   "Amazon Science": 0,
@@ -3926,8 +3927,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How to teach with Databricks Free Edition",
-   "url": "https://www.databricks.com/blog/how-teach-databricks-free-edition",
+   "title": "Unify your productivity and AI data with Lakeflow Connect",
+   "url": "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3993,15 +3994,15 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 37,
-  "sent": 125,
+  "runs": 38,
+  "sent": 126,
   "by_source": {
    "OpenAI": 23,
    "Solana SIMD": 6,
    "IBM Research": 4,
    "Hugging Face (blog)": 11,
    "Mistral": 1,
-   "Databricks": 12,
+   "Databricks": 13,
    "Google Research": 2,
    "Microsoft Research": 2,
    "Anthropic": 6,
