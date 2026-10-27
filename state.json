@@ -1325,7 +1325,10 @@
    "https://openai.com/index/openai-cut-incident-investigation",
    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
    "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-   "https://openai.com/index/greptile-code-review-codex-astra"
+   "https://openai.com/index/greptile-code-review-codex-astra",
+   "https://openai.com/index/anima",
+   "https://openai.com/index/check-point-daybreak",
+   "https://openai.com/index/oracle-apps-in-chatgpt"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1430,7 +1433,8 @@
    "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model",
    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
    "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-   "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types"
+   "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+   "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -1538,7 +1542,8 @@
    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
    "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
-   "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening"
+   "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+   "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -2557,7 +2562,9 @@
    "https://huggingface.co/blog/torch-neuronx-model-support",
    "https://huggingface.co/blog/allenai/litpivot",
    "https://huggingface.co/blog/project-numina/kimina-prover",
-   "https://huggingface.co/blog/project-numina/kimina-prover-rl"
+   "https://huggingface.co/blog/project-numina/kimina-prover-rl",
+   "https://huggingface.co/blog/allenai/novelty-bench",
+   "https://huggingface.co/blog/LiquidAI/lfm3"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3088,7 +3095,9 @@
    "https://anthropic.com/research/formal-verification",
    "https://anthropic.com/news/open-call-guest-investigators-life-sciences",
    "https://anthropic.com/research/alignment-assessment-ukaisi",
-   "https://anthropic.com/news/s1-sec"
+   "https://anthropic.com/news/s1-sec",
+   "https://anthropic.com/research/discovering-vulnerabilities-with-claude",
+   "https://anthropic.com/research/agents-judgment-calls"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3214,7 +3223,8 @@
    "https://allenai.org/blog/fairstress",
    "https://allenai.org/blog/planteur",
    "https://allenai.org/blog/olmoearth-v1-3",
-   "https://allenai.org/blog/litpivot"
+   "https://allenai.org/blog/litpivot",
+   "https://allenai.org/blog/novelty-bench"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3273,7 +3283,11 @@
    "https://databricks.com/blog/media-industry-becoming-prediction-economy",
    "https://databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
    "https://databricks.com/blog/how-teach-databricks-free-edition",
-   "https://databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect"
+   "https://databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
+   "https://databricks.com/blog/bigquery-databricks-strategic-framework",
+   "https://databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
+   "https://databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
+   "https://databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3659,7 +3673,8 @@
    "https://delvingbitcoin.org/t/can-coinbase-scriptsig-patterns-reveal-a-shared-mining-template-generator/2975",
    "https://delvingbitcoin.org/t/update-and-open-questions-on-finaliscore-deterministic-bft-finality-confidential-utxos-from-genesis/2980",
    "https://delvingbitcoin.org/t/cost-backed-sybil-resistance-for-self-issued-identifiers/2984",
-   "https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985"
+   "https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985",
+   "https://delvingbitcoin.org/t/the-long-road-to-bitcoin-payments/2987"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3813,7 +3828,8 @@
    "https://sec.gov/newsroom/speeches-statements/peirce-slumber-number-innovation-exemption-statement-091726",
    "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-statewide-joint-powers-authorities-energy-prepay-bonds-101526",
    "https://sec.gov/newsroom/speeches-statements/daly-remarks-stanford-roundtable-101626",
-   "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-naheffa-fall-conference-100626"
+   "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-naheffa-fall-conference-100626",
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-sbcfac-meeting-102726"
   ]
  },
  "feeds": {
@@ -3873,18 +3889,18 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Beyond tree cover: mapping the world’s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "title": "Genie 4: A new generation of world simulation",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
    "exact": true
   },
   "Google Research": {
-   "title": "Bringing foundational models to the front lines of TB screening",
-   "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+   "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+   "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
    "exact": true
   },
   "Microsoft Research": {
@@ -3913,13 +3929,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Kimina-Prover-RL",
-   "url": "https://huggingface.co/blog/project-numina/kimina-prover-rl",
+   "title": "Build specialized multimodal models with LFM3",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
    "exact": true
   },
   "Anthropic": {
-   "title": "S1 Sec",
-   "url": "https://www.anthropic.com/news/s1-sec",
+   "title": "Agents Judgment Calls",
+   "url": "https://www.anthropic.com/research/agents-judgment-calls",
    "exact": false
   },
   "Mistral": {
@@ -3928,8 +3944,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-   "url": "https://allenai.org/blog/litpivot",
+   "title": "Can we trust LLMs to judge whether a research idea is novel?",
+   "url": "https://allenai.org/blog/novelty-bench",
    "exact": true
   },
   "Thinking Machines": {
@@ -3938,8 +3954,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Unify your productivity and AI data with Lakeflow Connect",
-   "url": "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
+   "title": "Vital Skills: Upskilling Genie Code with Healthcare and Life Sciences skills",
+   "url": "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3978,8 +3994,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "We made the bitcoin-dev mailing list readable: 15 years, 24,699 messages",
-   "url": "https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985",
+   "title": "The Long Road to Bitcoin Payments",
+   "url": "https://delvingbitcoin.org/t/the-long-road-to-bitcoin-payments/2987",
    "exact": true
   },
   "a16z crypto": {
@@ -3998,32 +4014,32 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "When an “IRMA” Is Not Quite an IRMA: Revisiting the Requirements of the Independent Registered Municipal Advisor Exemption",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/sanchez-remarks-naheffa-fall-conference-100626",
+   "title": "Remarks at the Small Business Capital Formation Advisory Committee Meeting",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-sbcfac-meeting-102726",
    "exact": true
   }
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 40,
-  "sent": 137,
+  "runs": 41,
+  "sent": 153,
   "by_source": {
-   "OpenAI": 23,
+   "OpenAI": 26,
    "Solana SIMD": 6,
    "IBM Research": 6,
-   "Hugging Face (blog)": 13,
+   "Hugging Face (blog)": 15,
    "Mistral": 1,
-   "Databricks": 13,
-   "Google Research": 2,
+   "Databricks": 17,
+   "Google Research": 3,
    "Microsoft Research": 2,
-   "Anthropic": 6,
+   "Anthropic": 8,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 13,
-   "Delving Bitcoin": 8,
-   "Google DeepMind": 1,
-   "Allen AI": 3,
+   "Delving Bitcoin": 9,
+   "Google DeepMind": 2,
+   "Allen AI": 4,
    "a16z crypto": 30,
-   "SEC Speeches & Statements": 1,
+   "SEC Speeches & Statements": 2,
    "Amazon Science": 2,
    "Bitcoin Optech": 1,
    "Solana News": 3,
