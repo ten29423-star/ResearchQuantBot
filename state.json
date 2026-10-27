@@ -1650,7 +1650,9 @@
    "https://research.ibm.com/blog/fast-interpretability-plugin-vllm",
    "https://research.ibm.com/blog/qiskit-2-6-release-summary",
    "https://research.ibm.com/blog/ibm-nedo-challenge-2026",
-   "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates"
+   "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates",
+   "https://research.ibm.com/blog/ibm-and-kaggle-launch-leaderboard-for-java-framework-migration",
+   "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2553,7 +2555,9 @@
    "https://huggingface.co/blog/allenai/olmoearth-v1-3",
    "https://huggingface.co/blog/microsoft/thinkingbox-training",
    "https://huggingface.co/blog/torch-neuronx-model-support",
-   "https://huggingface.co/blog/allenai/litpivot"
+   "https://huggingface.co/blog/allenai/litpivot",
+   "https://huggingface.co/blog/project-numina/kimina-prover",
+   "https://huggingface.co/blog/project-numina/kimina-prover-rl"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3307,7 +3311,8 @@
    "https://solana.com/news/breakpoint-2026-london-speakers-2",
    "https://solana.com/news/geo-aware-leader-schedule",
    "https://solana.com/news/solana-changelog-october-16-2026",
-   "https://solana.com/news/solana-changelog-october-22-2026"
+   "https://solana.com/news/solana-changelog-october-22-2026",
+   "https://solana.com/news/breakpoint-london-lineup"
   ],
   "Firedancer (releases)": [
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.1",
@@ -3653,7 +3658,8 @@
    "https://delvingbitcoin.org/t/cln-self-referential-channel-announcement-dos-disclosure/2974",
    "https://delvingbitcoin.org/t/can-coinbase-scriptsig-patterns-reveal-a-shared-mining-template-generator/2975",
    "https://delvingbitcoin.org/t/update-and-open-questions-on-finaliscore-deterministic-bft-finality-confidential-utxos-from-genesis/2980",
-   "https://delvingbitcoin.org/t/cost-backed-sybil-resistance-for-self-issued-identifiers/2984"
+   "https://delvingbitcoin.org/t/cost-backed-sybil-resistance-for-self-issued-identifiers/2984",
+   "https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3902,13 +3908,13 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "PyTorch opens the AI ecosystem to a new accelerator class",
-   "url": "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates?utm_medium=rss&utm_source=rss",
+   "title": "Modular quantum computing takes shape with l-couplers",
+   "url": "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-   "url": "https://huggingface.co/blog/allenai/litpivot",
+   "title": "Kimina-Prover-RL",
+   "url": "https://huggingface.co/blog/project-numina/kimina-prover-rl",
    "exact": true
   },
   "Anthropic": {
@@ -3942,8 +3948,8 @@
    "exact": true
   },
   "Solana News": {
-   "title": "Solana Changelog: October 22, 2026",
-   "url": "https://solana.com/news/solana-changelog-october-22-2026",
+   "title": "Solana Breakpoint 2026 Adds Revolut Chair, Former Prime Minister, Former Chancellor and City Leaders to London Lineup",
+   "url": "https://solana.com/news/breakpoint-london-lineup",
    "exact": true
   },
   "Firedancer (releases)": {
@@ -3972,8 +3978,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Cost-backed Sybil resistance for self-issued identifiers",
-   "url": "https://delvingbitcoin.org/t/cost-backed-sybil-resistance-for-self-issued-identifiers/2984",
+   "title": "We made the bitcoin-dev mailing list readable: 15 years, 24,699 messages",
+   "url": "https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985",
    "exact": true
   },
   "a16z crypto": {
@@ -3999,13 +4005,13 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 39,
-  "sent": 131,
+  "runs": 40,
+  "sent": 137,
   "by_source": {
    "OpenAI": 23,
    "Solana SIMD": 6,
-   "IBM Research": 4,
-   "Hugging Face (blog)": 11,
+   "IBM Research": 6,
+   "Hugging Face (blog)": 13,
    "Mistral": 1,
    "Databricks": 13,
    "Google Research": 2,
@@ -4013,14 +4019,14 @@
    "Anthropic": 6,
    "Firedancer (releases)": 1,
    "Bitcoin BIPs": 13,
-   "Delving Bitcoin": 7,
+   "Delving Bitcoin": 8,
    "Google DeepMind": 1,
    "Allen AI": 3,
    "a16z crypto": 30,
    "SEC Speeches & Statements": 1,
    "Amazon Science": 2,
    "Bitcoin Optech": 1,
-   "Solana News": 2,
+   "Solana News": 3,
    "SEC Press Releases": 1,
    "Apple ML Research": 1
   }
