@@ -3602,7 +3602,12 @@
    "https://github.com/bitcoin/bips/commit/99ece780c80af963cfd22eb23a46d3756f1d3a59",
    "https://github.com/bitcoin/bips/commit/1fec65e55b17e36874c40f9dec08cc9ca9859c60",
    "https://github.com/bitcoin/bips/commit/93f161194fbaed12c44f5e2a0c1d4f2b1b317cb0",
-   "https://github.com/bitcoin/bips/commit/100ba872c808946155b1eeb8c4568058f2eea0a7"
+   "https://github.com/bitcoin/bips/commit/100ba872c808946155b1eeb8c4568058f2eea0a7",
+   "https://github.com/bitcoin/bips/commit/3c68d3f3a19b9ed3ee1e9129147541a15f1603cb",
+   "https://github.com/bitcoin/bips/commit/afaa856630058b87188648111da5dab0dd311bf7",
+   "https://github.com/bitcoin/bips/commit/f827c440636a93e6033a4e10705ca7762594265b",
+   "https://github.com/bitcoin/bips/commit/f428b62526918da4d831f0fb979058e17968da72",
+   "https://github.com/bitcoin/bips/commit/5aadddb511a5dcfe4599531bd8ae5e5b96d0f793"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3962,8 +3967,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Add BIP139: Wallet Metadata Backup Format (#2130)",
-   "url": "https://github.com/bitcoin/bips/commit/100ba872c808946155b1eeb8c4568058f2eea0a7",
+   "title": "Merge pull request #2337 from Eunovo/bip352-key-spend-annex-vector",
+   "url": "https://github.com/bitcoin/bips/commit/5aadddb511a5dcfe4599531bd8ae5e5b96d0f793",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -3994,8 +3999,8 @@
  },
  "weekly": {
   "since": 1792537053.2705998,
-  "runs": 38,
-  "sent": 126,
+  "runs": 39,
+  "sent": 131,
   "by_source": {
    "OpenAI": 23,
    "Solana SIMD": 6,
@@ -4007,7 +4012,7 @@
    "Microsoft Research": 2,
    "Anthropic": 6,
    "Firedancer (releases)": 1,
-   "Bitcoin BIPs": 8,
+   "Bitcoin BIPs": 13,
    "Delving Bitcoin": 7,
    "Google DeepMind": 1,
    "Allen AI": 3,
