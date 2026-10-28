@@ -3679,7 +3679,8 @@
    "https://delvingbitcoin.org/t/update-and-open-questions-on-finaliscore-deterministic-bft-finality-confidential-utxos-from-genesis/2980",
    "https://delvingbitcoin.org/t/cost-backed-sybil-resistance-for-self-issued-identifiers/2984",
    "https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985",
-   "https://delvingbitcoin.org/t/the-long-road-to-bitcoin-payments/2987"
+   "https://delvingbitcoin.org/t/the-long-road-to-bitcoin-payments/2987",
+   "https://delvingbitcoin.org/t/information-hazards-and-safe-redaction/3007"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3999,8 +4000,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "The Long Road to Bitcoin Payments",
-   "url": "https://delvingbitcoin.org/t/the-long-road-to-bitcoin-payments/2987",
+   "title": "Information hazards and safe redaction",
+   "url": "https://delvingbitcoin.org/t/information-hazards-and-safe-redaction/3007",
    "exact": true
   },
   "a16z crypto": {
@@ -4026,8 +4027,10 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 0,
-  "sent": 0,
-  "by_source": {}
+  "runs": 1,
+  "sent": 1,
+  "by_source": {
+   "Delving Bitcoin": 1
+  }
  }
 }
