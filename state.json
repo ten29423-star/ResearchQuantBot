@@ -1330,7 +1330,8 @@
    "https://openai.com/index/check-point-daybreak",
    "https://openai.com/index/oracle-apps-in-chatgpt",
    "https://openai.com/index/localiza-generative-ai",
-   "https://openai.com/index/grupo-boticario"
+   "https://openai.com/index/grupo-boticario",
+   "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3895,8 +3896,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How Grupo Boticário uses AI to strengthen human connections",
-   "url": "https://openai.com/index/grupo-boticario",
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
    "exact": true
   },
   "Google DeepMind": {
@@ -4027,10 +4028,11 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 1,
-  "sent": 1,
+  "runs": 2,
+  "sent": 2,
   "by_source": {
-   "Delving Bitcoin": 1
+   "Delving Bitcoin": 1,
+   "OpenAI": 1
   }
  }
 }
