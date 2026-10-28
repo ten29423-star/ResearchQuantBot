@@ -1332,7 +1332,9 @@
    "https://openai.com/index/localiza-generative-ai",
    "https://openai.com/index/grupo-boticario",
    "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-   "https://openai.com/index/legora"
+   "https://openai.com/index/legora",
+   "https://openai.com/index/the-future-of-the-firm",
+   "https://openai.com/index/openai-servicenow-partnership-expansion"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1438,7 +1440,8 @@
    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
    "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-   "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+   "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+   "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -3295,7 +3298,8 @@
    "https://databricks.com/blog/bigquery-databricks-strategic-framework",
    "https://databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
    "https://databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
-   "https://databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills"
+   "https://databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
+   "https://databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3382,7 +3386,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/a084840a512454a7ee5e2ef8dd736c790102bea0",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/c9ec366af14dd32a74259f5d9f5772249188bd25",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/eac20f2994dd064482d96f178a4bbc0f4e358fd0",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/2934dbeb1c8a7dfecc4f70a93a6b152e525b1698"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/2934dbeb1c8a7dfecc4f70a93a6b152e525b1698",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/6cc17538e26601e65beca89bbfa761e755720956"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3583,7 +3588,8 @@
    "https://helius.dev/blog/how-solana-rpcs-work",
    "https://helius.dev/blog/join-the-helius-hacker-program-and-shape-the-future-of-solana",
    "https://helius.dev/blog/solana-nft-compression",
-   "https://helius.dev/blog/rocksdb-read-path"
+   "https://helius.dev/blog/rocksdb-read-path",
+   "https://helius.dev/blog/agave-v4-4"
   ],
   "Bitcoin Optech": [
    "https://bitcoinops.org/en/podcast/2026/10/06",
@@ -3599,7 +3605,8 @@
    "https://bitcoinops.org/en/podcast/2026/10/13",
    "https://bitcoinops.org/en/newsletters/2026/10/16",
    "https://bitcoinops.org/en/podcast/2026/10/20",
-   "https://bitcoinops.org/en/newsletters/2026/10/23"
+   "https://bitcoinops.org/en/newsletters/2026/10/23",
+   "https://bitcoinops.org/en/podcast/2026/10/27"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3888,7 +3895,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 1,
+  "Solana News": 2,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3902,13 +3909,13 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Genie 4: A new generation of world simulation",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
    "exact": true
   },
   "Google Research": {
@@ -3967,8 +3974,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Vital Skills: Upskilling Genie Code with Healthcare and Life Sciences skills",
-   "url": "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
+   "title": "Voice Agents are here. Context turns them into real customer value.",
+   "url": "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3987,18 +3994,18 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "Amend SIMD-0607: Derive per-slot decay and increase intermediate prec…",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/2934dbeb1c8a7dfecc4f70a93a6b152e525b1698",
+   "title": "Mark SIMDs as Activated (#710)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/6cc17538e26601e65beca89bbfa761e755720956",
    "exact": true
   },
   "Helius": {
-   "title": "The Price of Cheap Writes: How does RocksDB read?",
-   "url": "https://www.helius.dev/blog/rocksdb-read-path",
+   "title": "Agave 4.4 Update: All You Need to Know",
+   "url": "https://www.helius.dev/blog/agave-v4-4",
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #428",
-   "url": "https://bitcoinops.org/en/newsletters/2026/10/23/",
+   "title": "Bitcoin Optech Newsletter #428 Recap Podcast",
+   "url": "https://bitcoinops.org/en/podcast/2026/10/27/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -4034,15 +4041,19 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 3,
-  "sent": 8,
+  "runs": 4,
+  "sent": 15,
   "by_source": {
    "Delving Bitcoin": 2,
-   "OpenAI": 2,
+   "OpenAI": 4,
    "Hugging Face (blog)": 1,
    "Allen AI": 1,
-   "Solana SIMD": 1,
-   "SEC Speeches & Statements": 1
+   "Solana SIMD": 2,
+   "SEC Speeches & Statements": 1,
+   "Google DeepMind": 1,
+   "Databricks": 1,
+   "Helius": 1,
+   "Bitcoin Optech": 1
   }
  }
 }
