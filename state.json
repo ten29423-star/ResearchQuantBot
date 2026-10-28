@@ -1331,7 +1331,8 @@
    "https://openai.com/index/oracle-apps-in-chatgpt",
    "https://openai.com/index/localiza-generative-ai",
    "https://openai.com/index/grupo-boticario",
-   "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+   "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "https://openai.com/index/legora"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -2567,7 +2568,8 @@
    "https://huggingface.co/blog/project-numina/kimina-prover",
    "https://huggingface.co/blog/project-numina/kimina-prover-rl",
    "https://huggingface.co/blog/allenai/novelty-bench",
-   "https://huggingface.co/blog/LiquidAI/lfm3"
+   "https://huggingface.co/blog/LiquidAI/lfm3",
+   "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3229,7 +3231,8 @@
    "https://allenai.org/blog/planteur",
    "https://allenai.org/blog/olmoearth-v1-3",
    "https://allenai.org/blog/litpivot",
-   "https://allenai.org/blog/novelty-bench"
+   "https://allenai.org/blog/novelty-bench",
+   "https://allenai.org/blog/olmocr-2-historical-archives"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3378,7 +3381,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/51dbb649da0233481cc40f5640f33fe74d6dbffe",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/a084840a512454a7ee5e2ef8dd736c790102bea0",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/c9ec366af14dd32a74259f5d9f5772249188bd25",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/eac20f2994dd064482d96f178a4bbc0f4e358fd0"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/eac20f2994dd064482d96f178a4bbc0f4e358fd0",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/2934dbeb1c8a7dfecc4f70a93a6b152e525b1698"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3681,7 +3685,8 @@
    "https://delvingbitcoin.org/t/cost-backed-sybil-resistance-for-self-issued-identifiers/2984",
    "https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985",
    "https://delvingbitcoin.org/t/the-long-road-to-bitcoin-payments/2987",
-   "https://delvingbitcoin.org/t/information-hazards-and-safe-redaction/3007"
+   "https://delvingbitcoin.org/t/information-hazards-and-safe-redaction/3007",
+   "https://delvingbitcoin.org/t/bitcoin-core-v32-1-released/3008"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3836,7 +3841,8 @@
    "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-statewide-joint-powers-authorities-energy-prepay-bonds-101526",
    "https://sec.gov/newsroom/speeches-statements/daly-remarks-stanford-roundtable-101626",
    "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-naheffa-fall-conference-100626",
-   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-sbcfac-meeting-102726"
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-sbcfac-meeting-102726",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-102726"
   ]
  },
  "feeds": {
@@ -3882,7 +3888,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 0,
+  "Solana News": 1,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3897,7 +3903,7 @@
  "last": {
   "OpenAI": {
    "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "url": "https://openai.com/index/legora",
    "exact": true
   },
   "Google DeepMind": {
@@ -3936,8 +3942,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Build specialized multimodal models with LFM3",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
    "exact": true
   },
   "Anthropic": {
@@ -3951,8 +3957,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "Can we trust LLMs to judge whether a research idea is novel?",
-   "url": "https://allenai.org/blog/novelty-bench",
+   "title": "How researchers are adapting olmOCR 2 for historical and archaeological archives",
+   "url": "https://allenai.org/blog/olmocr-2-historical-archives",
    "exact": true
   },
   "Thinking Machines": {
@@ -3981,8 +3987,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0690: Hash validation in program migrations and upgrades (#690)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/eac20f2994dd064482d96f178a4bbc0f4e358fd0",
+   "title": "Amend SIMD-0607: Derive per-slot decay and increase intermediate prec…",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/2934dbeb1c8a7dfecc4f70a93a6b152e525b1698",
    "exact": true
   },
   "Helius": {
@@ -4001,8 +4007,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Information hazards and safe redaction",
-   "url": "https://delvingbitcoin.org/t/information-hazards-and-safe-redaction/3007",
+   "title": "Bitcoin Core v32.1 Released",
+   "url": "https://delvingbitcoin.org/t/bitcoin-core-v32-1-released/3008",
    "exact": true
   },
   "a16z crypto": {
@@ -4021,18 +4027,22 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Remarks at the Small Business Capital Formation Advisory Committee Meeting",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-sbcfac-meeting-102726",
+   "title": "Remarks to the Small Business Capital Formation Advisory Committee",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-102726",
    "exact": true
   }
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 2,
-  "sent": 2,
+  "runs": 3,
+  "sent": 8,
   "by_source": {
-   "Delving Bitcoin": 1,
-   "OpenAI": 1
+   "Delving Bitcoin": 2,
+   "OpenAI": 2,
+   "Hugging Face (blog)": 1,
+   "Allen AI": 1,
+   "Solana SIMD": 1,
+   "SEC Speeches & Statements": 1
   }
  }
 }
