@@ -1664,7 +1664,8 @@
    "https://research.ibm.com/blog/ibm-nedo-challenge-2026",
    "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates",
    "https://research.ibm.com/blog/ibm-and-kaggle-launch-leaderboard-for-java-framework-migration",
-   "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers"
+   "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers",
+   "https://research.ibm.com/blog/celebrating-70-years-ibm-research-europe"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2572,7 +2573,11 @@
    "https://huggingface.co/blog/project-numina/kimina-prover-rl",
    "https://huggingface.co/blog/allenai/novelty-bench",
    "https://huggingface.co/blog/LiquidAI/lfm3",
-   "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+   "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "https://huggingface.co/blog/anydecisionmodel",
+   "https://huggingface.co/blog/mistral-large4",
+   "https://huggingface.co/blog/announcing-project-protostar",
+   "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3202,7 +3207,8 @@
    "https://mistral.ai/news/about-mistral-ai",
    "https://mistral.ai/news/timestral",
    "https://mistral.ai/news/voxtral-3",
-   "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
+   "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
+   "https://mistral.ai/news/mistral-large-4-oss"
   ],
   "Allen AI": [
    "https://allenai.org/blog/molmo2fish",
@@ -3301,7 +3307,8 @@
    "https://databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
    "https://databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
    "https://databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
-   "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0"
+   "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
+   "https://databricks.com/blog/smarter-cost-controls-serverless"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3389,7 +3396,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/c9ec366af14dd32a74259f5d9f5772249188bd25",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/eac20f2994dd064482d96f178a4bbc0f4e358fd0",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/2934dbeb1c8a7dfecc4f70a93a6b152e525b1698",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/6cc17538e26601e65beca89bbfa761e755720956"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/6cc17538e26601e65beca89bbfa761e755720956",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/2be4cb0c0fd1025df8c037b19372f7346119b231"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3897,7 +3905,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 4,
+  "Solana News": 5,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3946,13 +3954,13 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "Modular quantum computing takes shape with l-couplers",
-   "url": "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers?utm_medium=rss&utm_source=rss",
+   "title": "How Zurich is shaping the future of algorithms, 70 years in",
+   "url": "https://research.ibm.com/blog/celebrating-70-years-ibm-research-europe?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
    "exact": true
   },
   "Anthropic": {
@@ -3961,8 +3969,8 @@
    "exact": false
   },
   "Mistral": {
-   "title": "Mistral Advances AI for Engineering with NVIDIA",
-   "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+   "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
    "exact": true
   },
   "Allen AI": {
@@ -3976,8 +3984,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How Procore is powering construction analytics with OpenSharing",
-   "url": "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
+   "title": "Smarter cost controls for serverless",
+   "url": "https://www.databricks.com/blog/smarter-cost-controls-serverless",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -3996,8 +4004,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "Mark SIMDs as Activated (#710)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/6cc17538e26601e65beca89bbfa761e755720956",
+   "title": "docs: align SIMD-0550 with the integer inflation schedule (#704)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/2be4cb0c0fd1025df8c037b19372f7346119b231",
    "exact": true
   },
   "Helius": {
@@ -4043,20 +4051,22 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 6,
-  "sent": 17,
+  "runs": 7,
+  "sent": 25,
   "by_source": {
    "Delving Bitcoin": 2,
    "OpenAI": 4,
-   "Hugging Face (blog)": 1,
+   "Hugging Face (blog)": 5,
    "Allen AI": 1,
-   "Solana SIMD": 2,
+   "Solana SIMD": 3,
    "SEC Speeches & Statements": 1,
    "Google DeepMind": 1,
-   "Databricks": 2,
+   "Databricks": 3,
    "Helius": 1,
    "Bitcoin Optech": 1,
-   "Anthropic": 1
+   "Anthropic": 1,
+   "IBM Research": 1,
+   "Mistral": 1
   }
  }
 }
