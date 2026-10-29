@@ -3107,7 +3107,8 @@
    "https://anthropic.com/research/discovering-vulnerabilities-with-claude",
    "https://anthropic.com/research/agents-judgment-calls",
    "https://anthropic.com/research/early-progress-drug-development",
-   "https://anthropic.com/news/expanding-partnership-gsa"
+   "https://anthropic.com/news/expanding-partnership-gsa",
+   "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3299,7 +3300,8 @@
    "https://databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
    "https://databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
    "https://databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
-   "https://databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value"
+   "https://databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
+   "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3895,7 +3897,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 2,
+  "Solana News": 3,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3954,8 +3956,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Expanding Partnership Gsa",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "title": "Ai For Science Expands Foundations Research Institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
    "exact": false
   },
   "Mistral": {
@@ -3974,8 +3976,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Voice Agents are here. Context turns them into real customer value.",
-   "url": "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
+   "title": "How Procore is powering construction analytics with OpenSharing",
+   "url": "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4041,8 +4043,8 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 4,
-  "sent": 15,
+  "runs": 5,
+  "sent": 17,
   "by_source": {
    "Delving Bitcoin": 2,
    "OpenAI": 4,
@@ -4051,9 +4053,10 @@
    "Solana SIMD": 2,
    "SEC Speeches & Statements": 1,
    "Google DeepMind": 1,
-   "Databricks": 1,
+   "Databricks": 2,
    "Helius": 1,
-   "Bitcoin Optech": 1
+   "Bitcoin Optech": 1,
+   "Anthropic": 1
   }
  }
 }
