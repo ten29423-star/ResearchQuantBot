@@ -1334,7 +1334,10 @@
    "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
    "https://openai.com/index/legora",
    "https://openai.com/index/the-future-of-the-firm",
-   "https://openai.com/index/openai-servicenow-partnership-expansion"
+   "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "https://openai.com/index/ropes-gray-ai-diligence",
+   "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "https://openai.com/index/updated-model-spec"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1566,7 +1569,8 @@
    "https://microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
    "https://microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
    "https://microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-   "https://microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations"
+   "https://microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
+   "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -1634,7 +1638,8 @@
    "https://amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
    "https://amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
    "https://amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
-   "https://amazon.science/blog/better-speech-synthesis-for-audiobooks"
+   "https://amazon.science/blog/better-speech-synthesis-for-audiobooks",
+   "https://amazon.science/blog/speeding-up-language-models-for-travel-applications"
   ],
   "IBM Research": [
    "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era",
@@ -3703,7 +3708,8 @@
    "https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985",
    "https://delvingbitcoin.org/t/the-long-road-to-bitcoin-payments/2987",
    "https://delvingbitcoin.org/t/information-hazards-and-safe-redaction/3007",
-   "https://delvingbitcoin.org/t/bitcoin-core-v32-1-released/3008"
+   "https://delvingbitcoin.org/t/bitcoin-core-v32-1-released/3008",
+   "https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3799,7 +3805,8 @@
    "https://sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
    "https://sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
    "https://sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
-   "https://sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"
+   "https://sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+   "https://sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -3859,7 +3866,8 @@
    "https://sec.gov/newsroom/speeches-statements/daly-remarks-stanford-roundtable-101626",
    "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-naheffa-fall-conference-100626",
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-sbcfac-meeting-102726",
-   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-102726"
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-102726",
+   "https://sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926"
   ]
  },
  "feeds": {
@@ -3905,7 +3913,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 5,
+  "Solana News": 6,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3919,8 +3927,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
    "exact": true
   },
   "Google DeepMind": {
@@ -3934,8 +3942,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Flint-interactive: A language for creating interactive data visualizations",
-   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+   "title": "Microsoft Research Focus – Edition #97",
+   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -3949,8 +3957,8 @@
    "exact": true
   },
   "Amazon Science": {
-   "title": "Better speech synthesis for audiobooks",
-   "url": "https://www.amazon.science/blog/better-speech-synthesis-for-audiobooks",
+   "title": "Speeding up language models for travel applications",
+   "url": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
    "exact": true
   },
   "IBM Research": {
@@ -4024,8 +4032,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Bitcoin Core v32.1 Released",
-   "url": "https://delvingbitcoin.org/t/bitcoin-core-v32-1-released/3008",
+   "title": "Multiplication in Tapscript today: 371 bytes, no soft fork",
+   "url": "https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010",
    "exact": true
   },
   "a16z crypto": {
@@ -4034,8 +4042,8 @@
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+   "title": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -4044,29 +4052,32 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Remarks to the Small Business Capital Formation Advisory Committee",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-102726",
+   "title": "“Transfer Portal”",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926",
    "exact": true
   }
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 7,
-  "sent": 25,
+  "runs": 8,
+  "sent": 33,
   "by_source": {
-   "Delving Bitcoin": 2,
-   "OpenAI": 4,
+   "Delving Bitcoin": 3,
+   "OpenAI": 7,
    "Hugging Face (blog)": 5,
    "Allen AI": 1,
    "Solana SIMD": 3,
-   "SEC Speeches & Statements": 1,
+   "SEC Speeches & Statements": 2,
    "Google DeepMind": 1,
    "Databricks": 3,
    "Helius": 1,
    "Bitcoin Optech": 1,
    "Anthropic": 1,
    "IBM Research": 1,
-   "Mistral": 1
+   "Mistral": 1,
+   "Microsoft Research": 1,
+   "Amazon Science": 1,
+   "SEC Press Releases": 1
   }
  }
 }
