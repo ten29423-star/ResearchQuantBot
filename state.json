@@ -1337,7 +1337,10 @@
    "https://openai.com/index/openai-servicenow-partnership-expansion",
    "https://openai.com/index/ropes-gray-ai-diligence",
    "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "https://openai.com/index/updated-model-spec"
+   "https://openai.com/index/updated-model-spec",
+   "https://openai.com/index/credit-saison",
+   "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "https://openai.com/index/helping-websites-express-ai-training-preferences"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -2583,7 +2586,8 @@
    "https://huggingface.co/blog/anydecisionmodel",
    "https://huggingface.co/blog/mistral-large4",
    "https://huggingface.co/blog/announcing-project-protostar",
-   "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+   "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "https://huggingface.co/blog/nvidia/nemotron-halloween"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3916,7 +3920,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 9,
+  "Solana News": 10,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3930,8 +3934,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "url": "https://openai.com/index/updated-model-spec",
+   "title": "Making it easier for websites to express AI training preferences",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
    "exact": true
   },
   "Google DeepMind": {
@@ -3970,8 +3974,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Granite Switch 4.1.1 — Update models like you update software",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "title": "nemotron-halloween",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
    "exact": true
   },
   "Anthropic": {
@@ -4062,12 +4066,12 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 11,
-  "sent": 36,
+  "runs": 12,
+  "sent": 40,
   "by_source": {
    "Delving Bitcoin": 3,
-   "OpenAI": 7,
-   "Hugging Face (blog)": 5,
+   "OpenAI": 10,
+   "Hugging Face (blog)": 6,
    "Allen AI": 1,
    "Solana SIMD": 3,
    "SEC Speeches & Statements": 2,
