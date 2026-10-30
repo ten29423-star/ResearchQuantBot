@@ -1340,7 +1340,8 @@
    "https://openai.com/index/updated-model-spec",
    "https://openai.com/index/credit-saison",
    "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "https://openai.com/index/helping-websites-express-ai-training-preferences"
+   "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "https://openai.com/index/fair-use-benefits-everyone"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3319,7 +3320,10 @@
    "https://databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
    "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
    "https://databricks.com/blog/smarter-cost-controls-serverless",
-   "https://databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks"
+   "https://databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
+   "https://databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
+   "https://databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
+   "https://databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3813,7 +3817,8 @@
    "https://sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
    "https://sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
    "https://sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
-   "https://sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence"
+   "https://sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+   "https://sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -3874,7 +3879,8 @@
    "https://sec.gov/newsroom/speeches-statements/sanchez-remarks-naheffa-fall-conference-100626",
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-sbcfac-meeting-102726",
    "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-102726",
-   "https://sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926"
+   "https://sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926",
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-economic-club-of-dallas-103026"
   ]
  },
  "feeds": {
@@ -3920,7 +3926,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 10,
+  "Solana News": 11,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3934,8 +3940,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "title": "Fair use benefits everyone",
+   "url": "https://openai.com/index/fair-use-benefits-everyone",
    "exact": true
   },
   "Google DeepMind": {
@@ -3999,8 +4005,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks",
-   "url": "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
+   "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
+   "url": "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4049,8 +4055,8 @@
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+   "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -4059,24 +4065,24 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "“Transfer Portal”",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926",
+   "title": "Remarks at the Economic Club of Dallas",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-economic-club-of-dallas-103026",
    "exact": true
   }
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 12,
-  "sent": 40,
+  "runs": 13,
+  "sent": 46,
   "by_source": {
    "Delving Bitcoin": 3,
-   "OpenAI": 10,
+   "OpenAI": 11,
    "Hugging Face (blog)": 6,
    "Allen AI": 1,
    "Solana SIMD": 3,
-   "SEC Speeches & Statements": 2,
+   "SEC Speeches & Statements": 3,
    "Google DeepMind": 1,
-   "Databricks": 4,
+   "Databricks": 7,
    "Helius": 1,
    "Bitcoin Optech": 2,
    "Anthropic": 1,
@@ -4084,7 +4090,7 @@
    "Mistral": 1,
    "Microsoft Research": 2,
    "Amazon Science": 1,
-   "SEC Press Releases": 1
+   "SEC Press Releases": 2
   }
  }
 }
