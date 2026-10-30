@@ -3313,7 +3313,8 @@
    "https://databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
    "https://databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
    "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
-   "https://databricks.com/blog/smarter-cost-controls-serverless"
+   "https://databricks.com/blog/smarter-cost-controls-serverless",
+   "https://databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3913,7 +3914,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 6,
+  "Solana News": 7,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3992,8 +3993,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Smarter cost controls for serverless",
-   "url": "https://www.databricks.com/blog/smarter-cost-controls-serverless",
+   "title": "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks",
+   "url": "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4059,8 +4060,8 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 8,
-  "sent": 33,
+  "runs": 9,
+  "sent": 34,
   "by_source": {
    "Delving Bitcoin": 3,
    "OpenAI": 7,
@@ -4069,7 +4070,7 @@
    "Solana SIMD": 3,
    "SEC Speeches & Statements": 2,
    "Google DeepMind": 1,
-   "Databricks": 3,
+   "Databricks": 4,
    "Helius": 1,
    "Bitcoin Optech": 1,
    "Anthropic": 1,
