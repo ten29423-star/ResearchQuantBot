@@ -1570,7 +1570,8 @@
    "https://microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
    "https://microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
    "https://microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
-   "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97"
+   "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
+   "https://microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -3622,7 +3623,8 @@
    "https://bitcoinops.org/en/newsletters/2026/10/16",
    "https://bitcoinops.org/en/podcast/2026/10/20",
    "https://bitcoinops.org/en/newsletters/2026/10/23",
-   "https://bitcoinops.org/en/podcast/2026/10/27"
+   "https://bitcoinops.org/en/podcast/2026/10/27",
+   "https://bitcoinops.org/en/newsletters/2026/10/30"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3914,7 +3916,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 8,
+  "Solana News": 9,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3943,8 +3945,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Microsoft Research Focus – Edition #97",
-   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -4023,8 +4025,8 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #428 Recap Podcast",
-   "url": "https://bitcoinops.org/en/podcast/2026/10/27/",
+   "title": "Bitcoin Optech Newsletter #429",
+   "url": "https://bitcoinops.org/en/newsletters/2026/10/30/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -4060,8 +4062,8 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 10,
-  "sent": 34,
+  "runs": 11,
+  "sent": 36,
   "by_source": {
    "Delving Bitcoin": 3,
    "OpenAI": 7,
@@ -4072,11 +4074,11 @@
    "Google DeepMind": 1,
    "Databricks": 4,
    "Helius": 1,
-   "Bitcoin Optech": 1,
+   "Bitcoin Optech": 2,
    "Anthropic": 1,
    "IBM Research": 1,
    "Mistral": 1,
-   "Microsoft Research": 1,
+   "Microsoft Research": 2,
    "Amazon Science": 1,
    "SEC Press Releases": 1
   }
