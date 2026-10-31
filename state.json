@@ -3926,7 +3926,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 11,
+  "Solana News": 12,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4072,7 +4072,7 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 13,
+  "runs": 14,
   "sent": 46,
   "by_source": {
    "Delving Bitcoin": 3,
