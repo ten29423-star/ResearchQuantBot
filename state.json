@@ -3323,7 +3323,8 @@
    "https://databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
    "https://databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
    "https://databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
-   "https://databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation"
+   "https://databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
+   "https://databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3927,7 +3928,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 15,
+  "Solana News": 16,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4006,8 +4007,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
-   "url": "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
+   "title": "Lakebase branching for CI/CD: lessons from 100 PR databases",
+   "url": "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4073,8 +4074,8 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 17,
-  "sent": 47,
+  "runs": 18,
+  "sent": 48,
   "by_source": {
    "Delving Bitcoin": 3,
    "OpenAI": 11,
@@ -4083,7 +4084,7 @@
    "Solana SIMD": 4,
    "SEC Speeches & Statements": 3,
    "Google DeepMind": 1,
-   "Databricks": 7,
+   "Databricks": 8,
    "Helius": 1,
    "Bitcoin Optech": 2,
    "Anthropic": 1,
