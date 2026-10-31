@@ -3412,7 +3412,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/eac20f2994dd064482d96f178a4bbc0f4e358fd0",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/2934dbeb1c8a7dfecc4f70a93a6b152e525b1698",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/6cc17538e26601e65beca89bbfa761e755720956",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/2be4cb0c0fd1025df8c037b19372f7346119b231"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/2be4cb0c0fd1025df8c037b19372f7346119b231",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/846194b6367badc2a5408d19f9341bf265e82e34"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3926,7 +3927,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 14,
+  "Solana News": 15,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4025,8 +4026,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "docs: align SIMD-0550 with the integer inflation schedule (#704)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/2be4cb0c0fd1025df8c037b19372f7346119b231",
+   "title": "SIMD-0650: bn254 pairing output (#650)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/846194b6367badc2a5408d19f9341bf265e82e34",
    "exact": true
   },
   "Helius": {
@@ -4072,14 +4073,14 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 16,
-  "sent": 46,
+  "runs": 17,
+  "sent": 47,
   "by_source": {
    "Delving Bitcoin": 3,
    "OpenAI": 11,
    "Hugging Face (blog)": 6,
    "Allen AI": 1,
-   "Solana SIMD": 3,
+   "Solana SIMD": 4,
    "SEC Speeches & Statements": 3,
    "Google DeepMind": 1,
    "Databricks": 7,
