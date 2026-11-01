@@ -3722,7 +3722,8 @@
    "https://delvingbitcoin.org/t/the-long-road-to-bitcoin-payments/2987",
    "https://delvingbitcoin.org/t/information-hazards-and-safe-redaction/3007",
    "https://delvingbitcoin.org/t/bitcoin-core-v32-1-released/3008",
-   "https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010"
+   "https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010",
+   "https://delvingbitcoin.org/t/eltoo-state-chain-on-signet-third-time-templatehash-csfs-internalkey/3012"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3928,7 +3929,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 16,
+  "Solana News": 17,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4047,8 +4048,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Multiplication in Tapscript today: 371 bytes, no soft fork",
-   "url": "https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010",
+   "title": "Eltoo state chain on signet, third time: TEMPLATEHASH + CSFS + INTERNALKEY",
+   "url": "https://delvingbitcoin.org/t/eltoo-state-chain-on-signet-third-time-templatehash-csfs-internalkey/3012",
    "exact": true
   },
   "a16z crypto": {
@@ -4074,10 +4075,10 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 18,
-  "sent": 48,
+  "runs": 19,
+  "sent": 49,
   "by_source": {
-   "Delving Bitcoin": 3,
+   "Delving Bitcoin": 4,
    "OpenAI": 11,
    "Hugging Face (blog)": 6,
    "Allen AI": 1,
