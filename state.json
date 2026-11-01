@@ -3416,7 +3416,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/6cc17538e26601e65beca89bbfa761e755720956",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/2be4cb0c0fd1025df8c037b19372f7346119b231",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/846194b6367badc2a5408d19f9341bf265e82e34",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/93cdf03a368a8bb2743a7f8d458a4cd36d2a904f"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/93cdf03a368a8bb2743a7f8d458a4cd36d2a904f",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/0434aab3b2c6b596f607194bee44e94088ff2591"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3932,7 +3933,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 20,
+  "Solana News": 21,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4031,8 +4032,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0567: CU-optimized ATA Program (`p-ATA`) (#567)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/93cdf03a368a8bb2743a7f8d458a4cd36d2a904f",
+   "title": "rekey simd-0529 big int mod exp (#715)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/0434aab3b2c6b596f607194bee44e94088ff2591",
    "exact": true
   },
   "Helius": {
@@ -4078,14 +4079,14 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 22,
-  "sent": 52,
+  "runs": 23,
+  "sent": 53,
   "by_source": {
    "Delving Bitcoin": 5,
    "OpenAI": 11,
    "Hugging Face (blog)": 6,
    "Allen AI": 1,
-   "Solana SIMD": 5,
+   "Solana SIMD": 6,
    "SEC Speeches & Statements": 3,
    "Google DeepMind": 1,
    "Databricks": 8,
