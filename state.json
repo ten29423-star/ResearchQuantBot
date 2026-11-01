@@ -1675,7 +1675,8 @@
    "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates",
    "https://research.ibm.com/blog/ibm-and-kaggle-launch-leaderboard-for-java-framework-migration",
    "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers",
-   "https://research.ibm.com/blog/celebrating-70-years-ibm-research-europe"
+   "https://research.ibm.com/blog/celebrating-70-years-ibm-research-europe",
+   "https://research.ibm.com/blog/ponder-this-november-2026"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -3931,7 +3932,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 19,
+  "Solana News": 20,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3980,8 +3981,8 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "How Zurich is shaping the future of algorithms, 70 years in",
-   "url": "https://research.ibm.com/blog/celebrating-70-years-ibm-research-europe?utm_medium=rss&utm_source=rss",
+   "title": "Ponder This Challenge - November 2026 - The SumSum",
+   "url": "https://research.ibm.com/blog/ponder-this-november-2026?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
@@ -4077,8 +4078,8 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 21,
-  "sent": 51,
+  "runs": 22,
+  "sent": 52,
   "by_source": {
    "Delving Bitcoin": 5,
    "OpenAI": 11,
@@ -4091,7 +4092,7 @@
    "Helius": 1,
    "Bitcoin Optech": 2,
    "Anthropic": 1,
-   "IBM Research": 1,
+   "IBM Research": 2,
    "Mistral": 1,
    "Microsoft Research": 2,
    "Amazon Science": 1,
