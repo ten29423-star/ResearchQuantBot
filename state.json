@@ -1341,7 +1341,10 @@
    "https://openai.com/index/credit-saison",
    "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
    "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "https://openai.com/index/fair-use-benefits-everyone"
+   "https://openai.com/index/fair-use-benefits-everyone",
+   "https://openai.com/index/qodo-codex-plugin",
+   "https://openai.com/index/lifeval",
+   "https://openai.com/index/grid-protectors-program"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3255,7 +3258,8 @@
    "https://allenai.org/blog/olmoearth-v1-3",
    "https://allenai.org/blog/litpivot",
    "https://allenai.org/blog/novelty-bench",
-   "https://allenai.org/blog/olmocr-2-historical-archives"
+   "https://allenai.org/blog/olmocr-2-historical-archives",
+   "https://allenai.org/blog/nextcloud"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3327,7 +3331,8 @@
    "https://databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
    "https://databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
    "https://databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
-   "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing"
+   "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing",
+   "https://databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3419,7 +3424,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/2be4cb0c0fd1025df8c037b19372f7346119b231",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/846194b6367badc2a5408d19f9341bf265e82e34",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/93cdf03a368a8bb2743a7f8d458a4cd36d2a904f",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/0434aab3b2c6b596f607194bee44e94088ff2591"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/0434aab3b2c6b596f607194bee44e94088ff2591",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/540f6ab4b9b71b584eae4f00c156194308d6650e"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3676,7 +3682,11 @@
    "https://github.com/bitcoin/bips/commit/afaa856630058b87188648111da5dab0dd311bf7",
    "https://github.com/bitcoin/bips/commit/f827c440636a93e6033a4e10705ca7762594265b",
    "https://github.com/bitcoin/bips/commit/f428b62526918da4d831f0fb979058e17968da72",
-   "https://github.com/bitcoin/bips/commit/5aadddb511a5dcfe4599531bd8ae5e5b96d0f793"
+   "https://github.com/bitcoin/bips/commit/5aadddb511a5dcfe4599531bd8ae5e5b96d0f793",
+   "https://github.com/bitcoin/bips/commit/1eb496599cd3a6a62f8c8c1aaf824410c863f749",
+   "https://github.com/bitcoin/bips/commit/2d439430b14fe44e189f57582d41718dd614f404",
+   "https://github.com/bitcoin/bips/commit/fe7836100e0c59a04c40f9b8b9514d0125f2fddf",
+   "https://github.com/bitcoin/bips/commit/ada341963ab3916e74c98e6de4ba48babc024a75"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3730,7 +3740,8 @@
    "https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010",
    "https://delvingbitcoin.org/t/eltoo-state-chain-on-signet-third-time-templatehash-csfs-internalkey/3012",
    "https://delvingbitcoin.org/t/snowball-to-snowstorm/3014",
-   "https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers/3019"
+   "https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers/3019",
+   "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3890,7 +3901,8 @@
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-sbcfac-meeting-102726",
    "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-102726",
    "https://sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926",
-   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-economic-club-of-dallas-103026"
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-economic-club-of-dallas-103026",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-at-the-practicing-law-institute-58th-annual-institute-on-securities-regulation-110226"
   ]
  },
  "feeds": {
@@ -3936,7 +3948,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 23,
+  "Solana News": 24,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3950,8 +3962,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Fair use benefits everyone",
-   "url": "https://openai.com/index/fair-use-benefits-everyone",
+   "title": "Introducing the Grid Protectors Program",
+   "url": "https://openai.com/index/grid-protectors-program",
    "exact": true
   },
   "Google DeepMind": {
@@ -4005,8 +4017,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "How researchers are adapting olmOCR 2 for historical and archaeological archives",
-   "url": "https://allenai.org/blog/olmocr-2-historical-archives",
+   "title": "How Olmo 3 earned the highest ethical rating from Nextcloud",
+   "url": "https://allenai.org/blog/nextcloud",
    "exact": true
   },
   "Thinking Machines": {
@@ -4015,8 +4027,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How Procore is powering construction analytics with OpenSharing",
-   "url": "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing",
+   "title": "Lakebase Postgres is now generally available on Google Cloud",
+   "url": "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4035,8 +4047,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "rekey simd-0529 big int mod exp (#715)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/0434aab3b2c6b596f607194bee44e94088ff2591",
+   "title": "SIMD-0685: Loader V3: Remove ExtendProgram (#685)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/540f6ab4b9b71b584eae4f00c156194308d6650e",
    "exact": true
   },
   "Helius": {
@@ -4050,13 +4062,13 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2337 from Eunovo/bip352-key-spend-annex-vector",
-   "url": "https://github.com/bitcoin/bips/commit/5aadddb511a5dcfe4599531bd8ae5e5b96d0f793",
+   "title": "Merge pull request #2205 from fjahr/halfagg",
+   "url": "https://github.com/bitcoin/bips/commit/ada341963ab3916e74c98e6de4ba48babc024a75",
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Machine-checked soundness of BIP340 batch verification with 128-bit derived randomizers",
-   "url": "https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers/3019",
+   "title": "Full OP_RETURN value pruning",
+   "url": "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026",
    "exact": true
   },
   "a16z crypto": {
@@ -4075,24 +4087,24 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Remarks at the Economic Club of Dallas",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-economic-club-of-dallas-103026",
+   "title": "Remarks at the Practicing Law Institute’s 58th Annual Institute on Securities Regulation",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-at-the-practicing-law-institute-58th-annual-institute-on-securities-regulation-110226",
    "exact": true
   }
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 25,
-  "sent": 56,
+  "runs": 26,
+  "sent": 68,
   "by_source": {
-   "Delving Bitcoin": 6,
-   "OpenAI": 11,
+   "Delving Bitcoin": 7,
+   "OpenAI": 14,
    "Hugging Face (blog)": 6,
-   "Allen AI": 1,
-   "Solana SIMD": 6,
-   "SEC Speeches & Statements": 3,
+   "Allen AI": 2,
+   "Solana SIMD": 7,
+   "SEC Speeches & Statements": 4,
    "Google DeepMind": 2,
-   "Databricks": 9,
+   "Databricks": 10,
    "Helius": 1,
    "Bitcoin Optech": 2,
    "Anthropic": 1,
@@ -4100,7 +4112,8 @@
    "Mistral": 1,
    "Microsoft Research": 2,
    "Amazon Science": 1,
-   "SEC Press Releases": 2
+   "SEC Press Releases": 2,
+   "Bitcoin BIPs": 4
   }
  }
 }
