@@ -1448,7 +1448,8 @@
    "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
-   "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"
+   "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+   "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -3325,7 +3326,8 @@
    "https://databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
    "https://databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
    "https://databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
-   "https://databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases"
+   "https://databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
+   "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3727,7 +3729,8 @@
    "https://delvingbitcoin.org/t/bitcoin-core-v32-1-released/3008",
    "https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010",
    "https://delvingbitcoin.org/t/eltoo-state-chain-on-signet-third-time-templatehash-csfs-internalkey/3012",
-   "https://delvingbitcoin.org/t/snowball-to-snowstorm/3014"
+   "https://delvingbitcoin.org/t/snowball-to-snowstorm/3014",
+   "https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers/3019"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3933,7 +3936,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 22,
+  "Solana News": 23,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3952,8 +3955,8 @@
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "title": "Speeding up planning decisions with AI",
+   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
    "exact": true
   },
   "Google Research": {
@@ -4012,8 +4015,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Lakebase branching for CI/CD: lessons from 100 PR databases",
-   "url": "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
+   "title": "How Procore is powering construction analytics with OpenSharing",
+   "url": "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4052,8 +4055,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Snowball to Snowstorm",
-   "url": "https://delvingbitcoin.org/t/snowball-to-snowstorm/3014",
+   "title": "Machine-checked soundness of BIP340 batch verification with 128-bit derived randomizers",
+   "url": "https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers/3019",
    "exact": true
   },
   "a16z crypto": {
@@ -4079,17 +4082,17 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 24,
-  "sent": 53,
+  "runs": 25,
+  "sent": 56,
   "by_source": {
-   "Delving Bitcoin": 5,
+   "Delving Bitcoin": 6,
    "OpenAI": 11,
    "Hugging Face (blog)": 6,
    "Allen AI": 1,
    "Solana SIMD": 6,
    "SEC Speeches & Statements": 3,
-   "Google DeepMind": 1,
-   "Databricks": 8,
+   "Google DeepMind": 2,
+   "Databricks": 9,
    "Helius": 1,
    "Bitcoin Optech": 2,
    "Anthropic": 1,
