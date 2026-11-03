@@ -1344,7 +1344,11 @@
    "https://openai.com/index/fair-use-benefits-everyone",
    "https://openai.com/index/qodo-codex-plugin",
    "https://openai.com/index/lifeval",
-   "https://openai.com/index/grid-protectors-program"
+   "https://openai.com/index/grid-protectors-program",
+   "https://openai.com/index/dan-driscoll-joins-openai",
+   "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "https://openai.com/index/scaling-git-at-openai"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3948,7 +3952,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 24,
+  "Solana News": 25,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3962,8 +3966,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Introducing the Grid Protectors Program",
-   "url": "https://openai.com/index/grid-protectors-program",
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai",
    "exact": true
   },
   "Google DeepMind": {
@@ -4094,11 +4098,11 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 26,
-  "sent": 68,
+  "runs": 27,
+  "sent": 72,
   "by_source": {
    "Delving Bitcoin": 7,
-   "OpenAI": 14,
+   "OpenAI": 18,
    "Hugging Face (blog)": 6,
    "Allen AI": 2,
    "Solana SIMD": 7,
