@@ -1348,7 +1348,8 @@
    "https://openai.com/index/dan-driscoll-joins-openai",
    "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "https://openai.com/index/scaling-git-at-openai"
+   "https://openai.com/index/scaling-git-at-openai",
+   "https://openai.com/index/heimstaden"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -2597,7 +2598,8 @@
    "https://huggingface.co/blog/mistral-large4",
    "https://huggingface.co/blog/announcing-project-protostar",
    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-   "https://huggingface.co/blog/nvidia/nemotron-halloween"
+   "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "https://huggingface.co/blog/transformers-mic"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3133,7 +3135,8 @@
    "https://anthropic.com/research/agents-judgment-calls",
    "https://anthropic.com/research/early-progress-drug-development",
    "https://anthropic.com/news/expanding-partnership-gsa",
-   "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+   "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "https://anthropic.com/research/provable-inference"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3745,7 +3748,8 @@
    "https://delvingbitcoin.org/t/eltoo-state-chain-on-signet-third-time-templatehash-csfs-internalkey/3012",
    "https://delvingbitcoin.org/t/snowball-to-snowstorm/3014",
    "https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers/3019",
-   "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026"
+   "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026",
+   "https://delvingbitcoin.org/t/direct-messages-dms/3027"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -3952,7 +3956,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 25,
+  "Solana News": 26,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3966,8 +3970,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Scaling Git at OpenAI",
-   "url": "https://openai.com/index/scaling-git-at-openai",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "url": "https://openai.com/index/heimstaden",
    "exact": true
   },
   "Google DeepMind": {
@@ -4006,13 +4010,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "nemotron-halloween",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "title": "Transformers Model Integration Contracts",
+   "url": "https://huggingface.co/blog/transformers-mic",
    "exact": true
   },
   "Anthropic": {
-   "title": "Ai For Science Expands Foundations Research Institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "title": "Provable Inference",
+   "url": "https://www.anthropic.com/research/provable-inference",
    "exact": false
   },
   "Mistral": {
@@ -4071,8 +4075,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Full OP_RETURN value pruning",
-   "url": "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026",
+   "title": "Direct Messages (DMs)",
+   "url": "https://delvingbitcoin.org/t/direct-messages-dms/3027",
    "exact": true
   },
   "a16z crypto": {
@@ -4098,12 +4102,12 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 27,
-  "sent": 72,
+  "runs": 28,
+  "sent": 76,
   "by_source": {
-   "Delving Bitcoin": 7,
-   "OpenAI": 18,
-   "Hugging Face (blog)": 6,
+   "Delving Bitcoin": 8,
+   "OpenAI": 19,
+   "Hugging Face (blog)": 7,
    "Allen AI": 2,
    "Solana SIMD": 7,
    "SEC Speeches & Statements": 4,
@@ -4111,7 +4115,7 @@
    "Databricks": 10,
    "Helius": 1,
    "Bitcoin Optech": 2,
-   "Anthropic": 1,
+   "Anthropic": 2,
    "IBM Research": 2,
    "Mistral": 1,
    "Microsoft Research": 2,
