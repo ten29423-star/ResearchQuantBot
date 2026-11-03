@@ -1349,7 +1349,8 @@
    "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "https://openai.com/index/scaling-git-at-openai",
-   "https://openai.com/index/heimstaden"
+   "https://openai.com/index/heimstaden",
+   "https://openai.com/index/accelerating-engineering-for-the-physical-world"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1457,7 +1458,8 @@
    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-   "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai"
+   "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+   "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -1584,7 +1586,8 @@
    "https://microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
    "https://microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
    "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
-   "https://microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
+   "https://microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+   "https://microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -2599,7 +2602,10 @@
    "https://huggingface.co/blog/announcing-project-protostar",
    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
    "https://huggingface.co/blog/nvidia/nemotron-halloween",
-   "https://huggingface.co/blog/transformers-mic"
+   "https://huggingface.co/blog/transformers-mic",
+   "https://huggingface.co/blog/cwe-bench",
+   "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "https://huggingface.co/blog/allenai/statebench"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3266,7 +3272,8 @@
    "https://allenai.org/blog/litpivot",
    "https://allenai.org/blog/novelty-bench",
    "https://allenai.org/blog/olmocr-2-historical-archives",
-   "https://allenai.org/blog/nextcloud"
+   "https://allenai.org/blog/nextcloud",
+   "https://allenai.org/blog/statebench"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3693,7 +3700,11 @@
    "https://github.com/bitcoin/bips/commit/1eb496599cd3a6a62f8c8c1aaf824410c863f749",
    "https://github.com/bitcoin/bips/commit/2d439430b14fe44e189f57582d41718dd614f404",
    "https://github.com/bitcoin/bips/commit/fe7836100e0c59a04c40f9b8b9514d0125f2fddf",
-   "https://github.com/bitcoin/bips/commit/ada341963ab3916e74c98e6de4ba48babc024a75"
+   "https://github.com/bitcoin/bips/commit/ada341963ab3916e74c98e6de4ba48babc024a75",
+   "https://github.com/bitcoin/bips/commit/bd478d50877eae8018dabf72aadbb77ea03353d7",
+   "https://github.com/bitcoin/bips/commit/f3d1668891fcdad99770245110bc6a22c87bce97",
+   "https://github.com/bitcoin/bips/commit/960e863e57f2045e1156b48a01ecd201925eda58",
+   "https://github.com/bitcoin/bips/commit/21bfd24d6e397a7d3d169e86be9f6b54f6c8cce0"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3814,7 +3825,9 @@
    "https://a16zfrontier.com/posts/article/rethinking-kyc",
    "https://a16zfrontier.com/posts/article/crypto-in-washington",
    "https://a16zfrontier.com/posts/article/fast-post-quantum-signature-aggregation-with-lattice-snarks",
-   "https://a16zfrontier.com/posts/article/a16z-frontier"
+   "https://a16zfrontier.com/posts/article/a16z-frontier",
+   "https://a16zfrontier.com/posts/article/rise-generative-networks",
+   "https://a16zfrontier.com/posts/article/reusable-networks-as-moat"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -3956,7 +3969,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 26,
+  "Solana News": 27,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3970,13 +3983,13 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "url": "https://openai.com/index/heimstaden",
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Speeding up planning decisions with AI",
-   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
    "exact": true
   },
   "Google Research": {
@@ -3985,8 +3998,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+   "title": "Learn the rules: The hacker mindset",
+   "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -4010,8 +4023,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Transformers Model Integration Contracts",
-   "url": "https://huggingface.co/blog/transformers-mic",
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
    "exact": true
   },
   "Anthropic": {
@@ -4025,8 +4038,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "How Olmo 3 earned the highest ethical rating from Nextcloud",
-   "url": "https://allenai.org/blog/nextcloud",
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://allenai.org/blog/statebench",
    "exact": true
   },
   "Thinking Machines": {
@@ -4070,8 +4083,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2205 from fjahr/halfagg",
-   "url": "https://github.com/bitcoin/bips/commit/ada341963ab3916e74c98e6de4ba48babc024a75",
+   "title": "Merge pull request #2210 from fjahr/fullagg",
+   "url": "https://github.com/bitcoin/bips/commit/21bfd24d6e397a7d3d169e86be9f6b54f6c8cce0",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4080,8 +4093,8 @@
    "exact": true
   },
   "a16z crypto": {
-   "title": "a16z Frontier",
-   "url": "https://a16zfrontier.com/posts/article/a16z-frontier",
+   "title": "Reusable networks",
+   "url": "https://a16zfrontier.com/posts/article/reusable-networks-as-moat/",
    "exact": true
   },
   "SEC Press Releases": {
@@ -4102,26 +4115,27 @@
  },
  "weekly": {
   "since": 1793143973.9419565,
-  "runs": 28,
-  "sent": 76,
+  "runs": 29,
+  "sent": 89,
   "by_source": {
    "Delving Bitcoin": 8,
-   "OpenAI": 19,
-   "Hugging Face (blog)": 7,
-   "Allen AI": 2,
+   "OpenAI": 20,
+   "Hugging Face (blog)": 10,
+   "Allen AI": 3,
    "Solana SIMD": 7,
    "SEC Speeches & Statements": 4,
-   "Google DeepMind": 2,
+   "Google DeepMind": 3,
    "Databricks": 10,
    "Helius": 1,
    "Bitcoin Optech": 2,
    "Anthropic": 2,
    "IBM Research": 2,
    "Mistral": 1,
-   "Microsoft Research": 2,
+   "Microsoft Research": 3,
    "Amazon Science": 1,
    "SEC Press Releases": 2,
-   "Bitcoin BIPs": 4
+   "Bitcoin BIPs": 8,
+   "a16z crypto": 2
   }
  }
 }
