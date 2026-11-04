@@ -1353,7 +1353,9 @@
    "https://openai.com/index/accelerating-engineering-for-the-physical-world",
    "https://openai.com/ads/customers/evernote",
    "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-   "https://openai.com/index/cisco-cyber"
+   "https://openai.com/index/cisco-cyber",
+   "https://openai.com/index/daybreak-red-aws-govcloud",
+   "https://openai.com/index/openai-to-acquire-pierre"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3985,7 +3987,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 29,
+  "Solana News": 30,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3999,8 +4001,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "url": "https://openai.com/index/cisco-cyber",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
    "exact": true
   },
   "Google DeepMind": {
@@ -4131,10 +4133,11 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 1,
-  "sent": 9,
+  "runs": 2,
+  "sent": 11,
   "by_source": {
-   "Bitcoin BIPs": 9
+   "Bitcoin BIPs": 9,
+   "OpenAI": 2
   }
  }
 }
