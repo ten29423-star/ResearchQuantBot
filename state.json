@@ -1573,7 +1573,8 @@
    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
    "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
-   "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning"
+   "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+   "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -2610,7 +2611,8 @@
    "https://huggingface.co/blog/transformers-mic",
    "https://huggingface.co/blog/cwe-bench",
    "https://huggingface.co/blog/ibm-research/palette-deck-building",
-   "https://huggingface.co/blog/allenai/statebench"
+   "https://huggingface.co/blog/allenai/statebench",
+   "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3278,7 +3280,8 @@
    "https://allenai.org/blog/novelty-bench",
    "https://allenai.org/blog/olmocr-2-historical-archives",
    "https://allenai.org/blog/nextcloud",
-   "https://allenai.org/blog/statebench"
+   "https://allenai.org/blog/statebench",
+   "https://allenai.org/blog/google-climate-partnership"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3353,7 +3356,9 @@
    "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing",
    "https://databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
    "https://databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
-   "https://databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow"
+   "https://databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
+   "https://databricks.com/blog/postgres-managed-service",
+   "https://databricks.com/blog/enterprise-case-open-weight-models-databricks"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3667,7 +3672,8 @@
    "https://bitcoinops.org/en/podcast/2026/10/20",
    "https://bitcoinops.org/en/newsletters/2026/10/23",
    "https://bitcoinops.org/en/podcast/2026/10/27",
-   "https://bitcoinops.org/en/newsletters/2026/10/30"
+   "https://bitcoinops.org/en/newsletters/2026/10/30",
+   "https://bitcoinops.org/en/podcast/2026/11/03"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3722,7 +3728,11 @@
    "https://github.com/bitcoin/bips/commit/e4e02e14cf569dc220178254f91c4ac6c6d0d75e",
    "https://github.com/bitcoin/bips/commit/d5ca385c8e85d6abca9debc24a2b000e2445cc31",
    "https://github.com/bitcoin/bips/commit/ea875b262c66d1f74c6f8fe8ee49f132925432eb",
-   "https://github.com/bitcoin/bips/commit/61ff3f1361838fa7eb671e650b4e614207ca9df7"
+   "https://github.com/bitcoin/bips/commit/61ff3f1361838fa7eb671e650b4e614207ca9df7",
+   "https://github.com/bitcoin/bips/commit/e315654e75fdce769642445da32e2ec442fb9de1",
+   "https://github.com/bitcoin/bips/commit/a763725aa40770a8ac59a0f5fef64814f5564eed",
+   "https://github.com/bitcoin/bips/commit/ab3f20041fd70f0cf354c5a5775fc5b34e1093ea",
+   "https://github.com/bitcoin/bips/commit/a0c977f3755da6476b955677ca9318334a2432c4"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3878,7 +3888,8 @@
    "https://sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
    "https://sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
    "https://sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
-   "https://sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
+   "https://sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+   "https://sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -3941,7 +3952,8 @@
    "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-102726",
    "https://sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926",
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-economic-club-of-dallas-103026",
-   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-at-the-practicing-law-institute-58th-annual-institute-on-securities-regulation-110226"
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-at-the-practicing-law-institute-58th-annual-institute-on-securities-regulation-110226",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-statement-small-entity-definitions-110426"
   ]
  },
  "feeds": {
@@ -3987,7 +3999,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 30,
+  "Solana News": 31,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4011,8 +4023,8 @@
    "exact": true
   },
   "Google Research": {
-   "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
-   "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+   "title": "Agile Deliberation: How AI helps humans define the gray areas",
+   "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
    "exact": true
   },
   "Microsoft Research": {
@@ -4041,8 +4053,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "url": "https://huggingface.co/blog/allenai/statebench",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
    "exact": true
   },
   "Anthropic": {
@@ -4056,8 +4068,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "url": "https://allenai.org/blog/statebench",
+   "title": "Ai2 and Google collaborate on a new generation of climate models",
+   "url": "https://allenai.org/blog/google-climate-partnership",
    "exact": true
   },
   "Thinking Machines": {
@@ -4066,8 +4078,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Claude Platform now supports native OpenTelemetry observability in Databricks MLflow",
-   "url": "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
+   "title": "The Enterprise Case for Open-Weight Models on Databricks",
+   "url": "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4096,13 +4108,13 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #429",
-   "url": "https://bitcoinops.org/en/newsletters/2026/10/30/",
+   "title": "Bitcoin Optech Newsletter #429 Recap Podcast",
+   "url": "https://bitcoinops.org/en/podcast/2026/11/03/",
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2311 from jonatack/2026-09-bip375-reference-imple…",
-   "url": "https://github.com/bitcoin/bips/commit/61ff3f1361838fa7eb671e650b4e614207ca9df7",
+   "title": "Merge pull request #2346 from fjahr/95port",
+   "url": "https://github.com/bitcoin/bips/commit/a0c977f3755da6476b955677ca9318334a2432c4",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4116,8 +4128,8 @@
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+   "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -4126,18 +4138,25 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Remarks at the Practicing Law Institute’s 58th Annual Institute on Securities Regulation",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-at-the-practicing-law-institute-58th-annual-institute-on-securities-regulation-110226",
+   "title": "Statement on the Adoption of Amendments to Small Entity Definitions",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-small-entity-definitions-110426",
    "exact": true
   }
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 2,
-  "sent": 11,
+  "runs": 3,
+  "sent": 23,
   "by_source": {
-   "Bitcoin BIPs": 9,
-   "OpenAI": 2
+   "Bitcoin BIPs": 13,
+   "OpenAI": 2,
+   "Google Research": 1,
+   "Hugging Face (blog)": 1,
+   "Allen AI": 1,
+   "Databricks": 2,
+   "Bitcoin Optech": 1,
+   "SEC Press Releases": 1,
+   "SEC Speeches & Statements": 1
   }
  }
 }
