@@ -1350,7 +1350,10 @@
    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "https://openai.com/index/scaling-git-at-openai",
    "https://openai.com/index/heimstaden",
-   "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+   "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "https://openai.com/ads/customers/evernote",
+   "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "https://openai.com/index/cisco-cyber"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3346,7 +3349,9 @@
    "https://databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
    "https://databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
    "https://databricks.com/blog/how-procore-powering-construction-analytics-opensharing",
-   "https://databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud"
+   "https://databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
+   "https://databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
+   "https://databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3641,7 +3646,8 @@
    "https://helius.dev/blog/join-the-helius-hacker-program-and-shape-the-future-of-solana",
    "https://helius.dev/blog/solana-nft-compression",
    "https://helius.dev/blog/rocksdb-read-path",
-   "https://helius.dev/blog/agave-v4-4"
+   "https://helius.dev/blog/agave-v4-4",
+   "https://helius.dev/blog/parsed-events-scan"
   ],
   "Bitcoin Optech": [
    "https://bitcoinops.org/en/podcast/2026/10/06",
@@ -3704,7 +3710,8 @@
    "https://github.com/bitcoin/bips/commit/bd478d50877eae8018dabf72aadbb77ea03353d7",
    "https://github.com/bitcoin/bips/commit/f3d1668891fcdad99770245110bc6a22c87bce97",
    "https://github.com/bitcoin/bips/commit/960e863e57f2045e1156b48a01ecd201925eda58",
-   "https://github.com/bitcoin/bips/commit/21bfd24d6e397a7d3d169e86be9f6b54f6c8cce0"
+   "https://github.com/bitcoin/bips/commit/21bfd24d6e397a7d3d169e86be9f6b54f6c8cce0",
+   "https://github.com/bitcoin/bips/commit/5bbeeae962f59768b92fc8905e5b0284366832bd"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3969,7 +3976,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 27,
+  "Solana News": 28,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -3983,8 +3990,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Accelerating engineering for the physical world",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "url": "https://openai.com/index/cisco-cyber",
    "exact": true
   },
   "Google DeepMind": {
@@ -4048,8 +4055,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Lakebase Postgres is now generally available on Google Cloud",
-   "url": "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
+   "title": "Claude Platform now supports native OpenTelemetry observability in Databricks MLflow",
+   "url": "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4073,8 +4080,8 @@
    "exact": true
   },
   "Helius": {
-   "title": "Agave 4.4 Update: All You Need to Know",
-   "url": "https://www.helius.dev/blog/agave-v4-4",
+   "title": "Introducing the Parsed Events Scan API",
+   "url": "https://www.helius.dev/blog/parsed-events-scan",
    "exact": true
   },
   "Bitcoin Optech": {
@@ -4083,8 +4090,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2210 from fjahr/fullagg",
-   "url": "https://github.com/bitcoin/bips/commit/21bfd24d6e397a7d3d169e86be9f6b54f6c8cce0",
+   "title": "BIP461: add test vectors and reference implementation (#2328)",
+   "url": "https://github.com/bitcoin/bips/commit/5bbeeae962f59768b92fc8905e5b0284366832bd",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4114,28 +4121,9 @@
   }
  },
  "weekly": {
-  "since": 1793143973.9419565,
-  "runs": 29,
-  "sent": 89,
-  "by_source": {
-   "Delving Bitcoin": 8,
-   "OpenAI": 20,
-   "Hugging Face (blog)": 10,
-   "Allen AI": 3,
-   "Solana SIMD": 7,
-   "SEC Speeches & Statements": 4,
-   "Google DeepMind": 3,
-   "Databricks": 10,
-   "Helius": 1,
-   "Bitcoin Optech": 2,
-   "Anthropic": 2,
-   "IBM Research": 2,
-   "Mistral": 1,
-   "Microsoft Research": 3,
-   "Amazon Science": 1,
-   "SEC Press Releases": 2,
-   "Bitcoin BIPs": 8,
-   "a16z crypto": 2
-  }
+  "since": 1793750799.8246953,
+  "runs": 0,
+  "sent": 0,
+  "by_source": {}
  }
 }
