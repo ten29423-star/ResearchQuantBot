@@ -3711,7 +3711,16 @@
    "https://github.com/bitcoin/bips/commit/f3d1668891fcdad99770245110bc6a22c87bce97",
    "https://github.com/bitcoin/bips/commit/960e863e57f2045e1156b48a01ecd201925eda58",
    "https://github.com/bitcoin/bips/commit/21bfd24d6e397a7d3d169e86be9f6b54f6c8cce0",
-   "https://github.com/bitcoin/bips/commit/5bbeeae962f59768b92fc8905e5b0284366832bd"
+   "https://github.com/bitcoin/bips/commit/5bbeeae962f59768b92fc8905e5b0284366832bd",
+   "https://github.com/bitcoin/bips/commit/2106e903947f358f953adf11a6dec20ea228b24b",
+   "https://github.com/bitcoin/bips/commit/4a801194d5eee4e114f8f21ee3165de086c8d991",
+   "https://github.com/bitcoin/bips/commit/55167425a138ea062c6fd3627cf2f30dfef62d57",
+   "https://github.com/bitcoin/bips/commit/6ee9ac116edc46fa6e427331d47f044acd1087fb",
+   "https://github.com/bitcoin/bips/commit/3886890d7e93113f0209106726c1af92c2484941",
+   "https://github.com/bitcoin/bips/commit/e4e02e14cf569dc220178254f91c4ac6c6d0d75e",
+   "https://github.com/bitcoin/bips/commit/d5ca385c8e85d6abca9debc24a2b000e2445cc31",
+   "https://github.com/bitcoin/bips/commit/ea875b262c66d1f74c6f8fe8ee49f132925432eb",
+   "https://github.com/bitcoin/bips/commit/61ff3f1361838fa7eb671e650b4e614207ca9df7"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3976,7 +3985,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 28,
+  "Solana News": 29,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4090,8 +4099,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "BIP461: add test vectors and reference implementation (#2328)",
-   "url": "https://github.com/bitcoin/bips/commit/5bbeeae962f59768b92fc8905e5b0284366832bd",
+   "title": "Merge pull request #2311 from jonatack/2026-09-bip375-reference-imple…",
+   "url": "https://github.com/bitcoin/bips/commit/61ff3f1361838fa7eb671e650b4e614207ca9df7",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4122,8 +4131,10 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 0,
-  "sent": 0,
-  "by_source": {}
+  "runs": 1,
+  "sent": 9,
+  "by_source": {
+   "Bitcoin BIPs": 9
+  }
  }
 }
