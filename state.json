@@ -1358,7 +1358,8 @@
    "https://openai.com/index/openai-to-acquire-pierre",
    "https://openai.com/index/devrev-enterprise-self-service",
    "https://openai.com/index/introducing-images-2-6",
-   "https://openai.com/index/a-thousand-fewer-paths-to-root"
+   "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1467,7 +1468,8 @@
    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
    "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
-   "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity"
+   "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+   "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -1577,7 +1579,8 @@
    "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-   "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas"
+   "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+   "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -1596,7 +1599,8 @@
    "https://microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
    "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
    "https://microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
-   "https://microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset"
+   "https://microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset",
+   "https://microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -1665,7 +1669,8 @@
    "https://amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
    "https://amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
    "https://amazon.science/blog/better-speech-synthesis-for-audiobooks",
-   "https://amazon.science/blog/speeding-up-language-models-for-travel-applications"
+   "https://amazon.science/blog/speeding-up-language-models-for-travel-applications",
+   "https://amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award"
   ],
   "IBM Research": [
    "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era",
@@ -1697,7 +1702,9 @@
    "https://research.ibm.com/blog/ibm-and-kaggle-launch-leaderboard-for-java-framework-migration",
    "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers",
    "https://research.ibm.com/blog/celebrating-70-years-ibm-research-europe",
-   "https://research.ibm.com/blog/ponder-this-november-2026"
+   "https://research.ibm.com/blog/ponder-this-november-2026",
+   "https://research.ibm.com/blog/ornl-amd-error-correction-co-design-platform",
+   "https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2615,7 +2622,8 @@
    "https://huggingface.co/blog/cwe-bench",
    "https://huggingface.co/blog/ibm-research/palette-deck-building",
    "https://huggingface.co/blog/allenai/statebench",
-   "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+   "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "https://huggingface.co/blog/phonon-tts"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3248,7 +3256,8 @@
    "https://mistral.ai/news/timestral",
    "https://mistral.ai/news/voxtral-3",
    "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
-   "https://mistral.ai/news/mistral-large-4-oss"
+   "https://mistral.ai/news/mistral-large-4-oss",
+   "https://mistral.ai/news/build-with-studio"
   ],
   "Allen AI": [
    "https://allenai.org/blog/molmo2fish",
@@ -3363,7 +3372,10 @@
    "https://databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
    "https://databricks.com/blog/postgres-managed-service",
    "https://databricks.com/blog/enterprise-case-open-weight-models-databricks",
-   "https://databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19"
+   "https://databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
+   "https://databricks.com/blog/push-based-cdc-unity-catalog-zerobus-ingest-and-debezium",
+   "https://databricks.com/blog/delta-sharing-opensharing-what-changed-whats-next",
+   "https://databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3418,7 +3430,8 @@
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.2",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.3",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.4",
-   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.5"
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.5",
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.6"
   ],
   "Solana SIMD": [
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f1f6c8b05dc205552d3c290a854a438392701107",
@@ -3737,7 +3750,12 @@
    "https://github.com/bitcoin/bips/commit/e315654e75fdce769642445da32e2ec442fb9de1",
    "https://github.com/bitcoin/bips/commit/a763725aa40770a8ac59a0f5fef64814f5564eed",
    "https://github.com/bitcoin/bips/commit/ab3f20041fd70f0cf354c5a5775fc5b34e1093ea",
-   "https://github.com/bitcoin/bips/commit/a0c977f3755da6476b955677ca9318334a2432c4"
+   "https://github.com/bitcoin/bips/commit/a0c977f3755da6476b955677ca9318334a2432c4",
+   "https://github.com/bitcoin/bips/commit/4e3f4a95a74d31c0e0173bb00d07c018957cb00e",
+   "https://github.com/bitcoin/bips/commit/d433c2e35de367f9dce3492ee9bf8d91c3cde96e",
+   "https://github.com/bitcoin/bips/commit/bbb2794d9ea616cde9a4ceb0efb6184831b0681f",
+   "https://github.com/bitcoin/bips/commit/a0190d01a1468390bdc8124229a1e291fb52d6c8",
+   "https://github.com/bitcoin/bips/commit/758c231cd41cc199afa0d2b3a09ee6f38f19627b"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3793,7 +3811,8 @@
    "https://delvingbitcoin.org/t/snowball-to-snowstorm/3014",
    "https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers/3019",
    "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026",
-   "https://delvingbitcoin.org/t/direct-messages-dms/3027"
+   "https://delvingbitcoin.org/t/direct-messages-dms/3027",
+   "https://delvingbitcoin.org/t/tulip-permissionless-decentralized-identity/3050"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4004,7 +4023,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 33,
+  "Solana News": 34,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4018,23 +4037,23 @@
  },
  "last": {
   "OpenAI": {
-   "title": "A thousand fewer paths to root",
-   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
    "exact": true
   },
   "Google Research": {
-   "title": "Agile Deliberation: How AI helps humans define the gray areas",
-   "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+   "title": "Detecting signs of hypertension using wearable sensors",
+   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Learn the rules: The hacker mindset",
-   "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -4048,18 +4067,18 @@
    "exact": true
   },
   "Amazon Science": {
-   "title": "Speeding up language models for travel applications",
-   "url": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
+   "title": "Hamed Karimi wins ECML PKDD Test-of-Time Award",
+   "url": "https://www.amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award",
    "exact": true
   },
   "IBM Research": {
-   "title": "Ponder This Challenge - November 2026 - The SumSum",
-   "url": "https://research.ibm.com/blog/ponder-this-november-2026?utm_medium=rss&utm_source=rss",
+   "title": "How MEMS inertial sensors can rival GPS",
+   "url": "https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "url": "https://huggingface.co/blog/phonon-tts",
    "exact": true
   },
   "Anthropic": {
@@ -4068,8 +4087,8 @@
    "exact": false
   },
   "Mistral": {
-   "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "title": "Le Chonk brings the brains. Studio puts it to work.",
+   "url": "https://mistral.ai/news/build-with-studio/",
    "exact": true
   },
   "Allen AI": {
@@ -4083,8 +4102,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
-   "url": "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
+   "title": "Which Data Collaboration Tool: OpenSharing, Clean Rooms, Marketplace",
+   "url": "https://www.databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4098,8 +4117,8 @@
    "exact": true
   },
   "Firedancer (releases)": {
-   "title": "Firedancer Mainnet Release v26.10.5",
-   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.5",
+   "title": "Firedancer Mainnet Release v26.10.6",
+   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.6",
    "exact": true
   },
   "Solana SIMD": {
@@ -4118,13 +4137,13 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2346 from fjahr/95port",
-   "url": "https://github.com/bitcoin/bips/commit/a0c977f3755da6476b955677ca9318334a2432c4",
+   "title": "Merge pull request #2342 from ajtowns/202611-bip34-early",
+   "url": "https://github.com/bitcoin/bips/commit/758c231cd41cc199afa0d2b3a09ee6f38f19627b",
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Direct Messages (DMs)",
-   "url": "https://delvingbitcoin.org/t/direct-messages-dms/3027",
+   "title": "TULIP: Permissionless Decentralized Identity",
+   "url": "https://delvingbitcoin.org/t/tulip-permissionless-decentralized-identity/3050",
    "exact": true
   },
   "a16z crypto": {
@@ -4150,19 +4169,26 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 5,
-  "sent": 28,
+  "runs": 6,
+  "sent": 47,
   "by_source": {
-   "Bitcoin BIPs": 13,
-   "OpenAI": 5,
-   "Google Research": 1,
-   "Hugging Face (blog)": 1,
+   "Bitcoin BIPs": 18,
+   "OpenAI": 6,
+   "Google Research": 2,
+   "Hugging Face (blog)": 2,
    "Allen AI": 1,
-   "Databricks": 3,
+   "Databricks": 6,
    "Bitcoin Optech": 1,
    "SEC Press Releases": 1,
    "SEC Speeches & Statements": 1,
-   "Anthropic": 1
+   "Anthropic": 1,
+   "Google DeepMind": 1,
+   "Microsoft Research": 1,
+   "Amazon Science": 1,
+   "IBM Research": 2,
+   "Mistral": 1,
+   "Firedancer (releases)": 1,
+   "Delving Bitcoin": 1
   }
  }
 }
