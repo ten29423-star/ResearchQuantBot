@@ -1355,7 +1355,10 @@
    "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
    "https://openai.com/index/cisco-cyber",
    "https://openai.com/index/daybreak-red-aws-govcloud",
-   "https://openai.com/index/openai-to-acquire-pierre"
+   "https://openai.com/index/openai-to-acquire-pierre",
+   "https://openai.com/index/devrev-enterprise-self-service",
+   "https://openai.com/index/introducing-images-2-6",
+   "https://openai.com/index/a-thousand-fewer-paths-to-root"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3149,7 +3152,8 @@
    "https://anthropic.com/research/early-progress-drug-development",
    "https://anthropic.com/news/expanding-partnership-gsa",
    "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "https://anthropic.com/research/provable-inference"
+   "https://anthropic.com/research/provable-inference",
+   "https://anthropic.com/research/investigating-vault-particles-with-claude"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3358,7 +3362,8 @@
    "https://databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
    "https://databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
    "https://databricks.com/blog/postgres-managed-service",
-   "https://databricks.com/blog/enterprise-case-open-weight-models-databricks"
+   "https://databricks.com/blog/enterprise-case-open-weight-models-databricks",
+   "https://databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3999,7 +4004,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 31,
+  "Solana News": 32,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4013,8 +4018,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "title": "A thousand fewer paths to root",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
    "exact": true
   },
   "Google DeepMind": {
@@ -4058,8 +4063,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Provable Inference",
-   "url": "https://www.anthropic.com/research/provable-inference",
+   "title": "Investigating Vault Particles With Claude",
+   "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
    "exact": false
   },
   "Mistral": {
@@ -4078,8 +4083,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "The Enterprise Case for Open-Weight Models on Databricks",
-   "url": "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
+   "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
+   "url": "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4145,18 +4150,19 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 3,
-  "sent": 23,
+  "runs": 4,
+  "sent": 28,
   "by_source": {
    "Bitcoin BIPs": 13,
-   "OpenAI": 2,
+   "OpenAI": 5,
    "Google Research": 1,
    "Hugging Face (blog)": 1,
    "Allen AI": 1,
-   "Databricks": 2,
+   "Databricks": 3,
    "Bitcoin Optech": 1,
    "SEC Press Releases": 1,
-   "SEC Speeches & Statements": 1
+   "SEC Speeches & Statements": 1,
+   "Anthropic": 1
   }
  }
 }
