@@ -1359,7 +1359,8 @@
    "https://openai.com/index/devrev-enterprise-self-service",
    "https://openai.com/index/introducing-images-2-6",
    "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+   "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "https://openai.com/index/introducing-gpt-6-cyber"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1638,7 +1639,8 @@
    "https://machinelearning.apple.com/research/mlx-distributed-inference",
    "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
    "https://machinelearning.apple.com/research/selection-structured-reasoning",
-   "https://machinelearning.apple.com/research/gharp-head-animation"
+   "https://machinelearning.apple.com/research/gharp-head-animation",
+   "https://machinelearning.apple.com/research/faster-retrieval"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -2623,7 +2625,8 @@
    "https://huggingface.co/blog/ibm-research/palette-deck-building",
    "https://huggingface.co/blog/allenai/statebench",
    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "https://huggingface.co/blog/phonon-tts"
+   "https://huggingface.co/blog/phonon-tts",
+   "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3161,7 +3164,8 @@
    "https://anthropic.com/news/expanding-partnership-gsa",
    "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
    "https://anthropic.com/research/provable-inference",
-   "https://anthropic.com/research/investigating-vault-particles-with-claude"
+   "https://anthropic.com/research/investigating-vault-particles-with-claude",
+   "https://anthropic.com/research/how-researchers-use-claude"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3375,7 +3379,8 @@
    "https://databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
    "https://databricks.com/blog/push-based-cdc-unity-catalog-zerobus-ingest-and-debezium",
    "https://databricks.com/blog/delta-sharing-opensharing-what-changed-whats-next",
-   "https://databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace"
+   "https://databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
+   "https://databricks.com/blog/builders-guide-scaling-databricks-apps"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3755,7 +3760,14 @@
    "https://github.com/bitcoin/bips/commit/d433c2e35de367f9dce3492ee9bf8d91c3cde96e",
    "https://github.com/bitcoin/bips/commit/bbb2794d9ea616cde9a4ceb0efb6184831b0681f",
    "https://github.com/bitcoin/bips/commit/a0190d01a1468390bdc8124229a1e291fb52d6c8",
-   "https://github.com/bitcoin/bips/commit/758c231cd41cc199afa0d2b3a09ee6f38f19627b"
+   "https://github.com/bitcoin/bips/commit/758c231cd41cc199afa0d2b3a09ee6f38f19627b",
+   "https://github.com/bitcoin/bips/commit/8bd2e39a36b2abc45a984383766d61801fe63b52",
+   "https://github.com/bitcoin/bips/commit/a2c1248774fa7b1292b30d077e001895e67b8835",
+   "https://github.com/bitcoin/bips/commit/434a4d26599b8712f8823f390b8a67df67a3c0a8",
+   "https://github.com/bitcoin/bips/commit/d31236854b186d730b3e8e0a669019b88e32c956",
+   "https://github.com/bitcoin/bips/commit/e30a8b05238555827201542fa5e372d6e6b22e6e",
+   "https://github.com/bitcoin/bips/commit/d4dea2a230be9f91f89f789a79f4e53137fe5498",
+   "https://github.com/bitcoin/bips/commit/a50f8f8cb9c62969971f3bc72f7c831a7df2bb4a"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3879,7 +3891,8 @@
    "https://a16zfrontier.com/posts/article/fast-post-quantum-signature-aggregation-with-lattice-snarks",
    "https://a16zfrontier.com/posts/article/a16z-frontier",
    "https://a16zfrontier.com/posts/article/rise-generative-networks",
-   "https://a16zfrontier.com/posts/article/reusable-networks-as-moat"
+   "https://a16zfrontier.com/posts/article/reusable-networks-as-moat",
+   "https://a16zfrontier.com/posts/article/prediction-markets-biggest-month-3-charts"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -4023,7 +4036,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 34,
+  "Solana News": 35,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4037,8 +4050,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
    "exact": true
   },
   "Google DeepMind": {
@@ -4062,8 +4075,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
-   "url": "https://machinelearning.apple.com/research/gharp-head-animation",
+   "title": "Faster Retrieval for Better, More Efficient RAG",
+   "url": "https://machinelearning.apple.com/research/faster-retrieval",
    "exact": true
   },
   "Amazon Science": {
@@ -4077,13 +4090,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "url": "https://huggingface.co/blog/phonon-tts",
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
    "exact": true
   },
   "Anthropic": {
-   "title": "Investigating Vault Particles With Claude",
-   "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+   "title": "How Researchers Use Claude",
+   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
    "exact": false
   },
   "Mistral": {
@@ -4102,8 +4115,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Which Data Collaboration Tool: OpenSharing, Clean Rooms, Marketplace",
-   "url": "https://www.databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
+   "title": "A builder’s guide to scaling Databricks Apps",
+   "url": "https://www.databricks.com/blog/builders-guide-scaling-databricks-apps",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4137,8 +4150,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2342 from ajtowns/202611-bip34-early",
-   "url": "https://github.com/bitcoin/bips/commit/758c231cd41cc199afa0d2b3a09ee6f38f19627b",
+   "title": "Merge pull request #2238 from fametrano/bip174-witnessscript-vector-p…",
+   "url": "https://github.com/bitcoin/bips/commit/a50f8f8cb9c62969971f3bc72f7c831a7df2bb4a",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4147,8 +4160,8 @@
    "exact": true
   },
   "a16z crypto": {
-   "title": "Reusable networks",
-   "url": "https://a16zfrontier.com/posts/article/reusable-networks-as-moat/",
+   "title": "Prediction markets’ biggest month yet, in 3 charts",
+   "url": "https://a16zfrontier.com/posts/article/prediction-markets-biggest-month-3-charts/",
    "exact": true
   },
   "SEC Press Releases": {
@@ -4169,26 +4182,28 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 6,
-  "sent": 47,
+  "runs": 7,
+  "sent": 60,
   "by_source": {
-   "Bitcoin BIPs": 18,
-   "OpenAI": 6,
+   "Bitcoin BIPs": 25,
+   "OpenAI": 7,
    "Google Research": 2,
-   "Hugging Face (blog)": 2,
+   "Hugging Face (blog)": 3,
    "Allen AI": 1,
-   "Databricks": 6,
+   "Databricks": 7,
    "Bitcoin Optech": 1,
    "SEC Press Releases": 1,
    "SEC Speeches & Statements": 1,
-   "Anthropic": 1,
+   "Anthropic": 2,
    "Google DeepMind": 1,
    "Microsoft Research": 1,
    "Amazon Science": 1,
    "IBM Research": 2,
    "Mistral": 1,
    "Firedancer (releases)": 1,
-   "Delving Bitcoin": 1
+   "Delving Bitcoin": 1,
+   "Apple ML Research": 1,
+   "a16z crypto": 1
   }
  }
 }
