@@ -1365,7 +1365,8 @@
    "https://openai.com/ads/customers/flipsnack",
    "https://openai.com/index/merge-builds-with-openai",
    "https://openai.com/index/cultfit-builds-with-codex",
-   "https://openai.com/index/australian-universities-ai-native-graduates"
+   "https://openai.com/index/australian-universities-ai-native-graduates",
+   "https://openai.com/index/partnering-with-hacktron"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -2632,7 +2633,8 @@
    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
    "https://huggingface.co/blog/phonon-tts",
    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-   "https://huggingface.co/blog/open-asr-leaderboard-liva"
+   "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "https://huggingface.co/blog/allenai/toyblocks"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3171,7 +3173,8 @@
    "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
    "https://anthropic.com/research/provable-inference",
    "https://anthropic.com/research/investigating-vault-particles-with-claude",
-   "https://anthropic.com/research/how-researchers-use-claude"
+   "https://anthropic.com/research/how-researchers-use-claude",
+   "https://anthropic.com/research/project-eve-claude-plays-mmorpgs"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3304,7 +3307,8 @@
    "https://allenai.org/blog/olmocr-2-historical-archives",
    "https://allenai.org/blog/nextcloud",
    "https://allenai.org/blog/statebench",
-   "https://allenai.org/blog/google-climate-partnership"
+   "https://allenai.org/blog/google-climate-partnership",
+   "https://allenai.org/blog/toyblocks"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3386,7 +3390,9 @@
    "https://databricks.com/blog/push-based-cdc-unity-catalog-zerobus-ingest-and-debezium",
    "https://databricks.com/blog/delta-sharing-opensharing-what-changed-whats-next",
    "https://databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
-   "https://databricks.com/blog/builders-guide-scaling-databricks-apps"
+   "https://databricks.com/blog/builders-guide-scaling-databricks-apps",
+   "https://databricks.com/blog/real-time-fraud-detection-feature-views",
+   "https://databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3702,7 +3708,8 @@
    "https://bitcoinops.org/en/newsletters/2026/10/23",
    "https://bitcoinops.org/en/podcast/2026/10/27",
    "https://bitcoinops.org/en/newsletters/2026/10/30",
-   "https://bitcoinops.org/en/podcast/2026/11/03"
+   "https://bitcoinops.org/en/podcast/2026/11/03",
+   "https://bitcoinops.org/en/newsletters/2026/11/06"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -4044,7 +4051,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 37,
+  "Solana News": 38,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4058,8 +4065,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Australian universities are creating AI-native graduates",
-   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
    "exact": true
   },
   "Google DeepMind": {
@@ -4098,13 +4105,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "url": "https://huggingface.co/blog/allenai/toyblocks",
    "exact": true
   },
   "Anthropic": {
-   "title": "How Researchers Use Claude",
-   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+   "title": "Project Eve Claude Plays Mmorpgs",
+   "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
    "exact": false
   },
   "Mistral": {
@@ -4113,8 +4120,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "Ai2 and Google collaborate on a new generation of climate models",
-   "url": "https://allenai.org/blog/google-climate-partnership",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "url": "https://allenai.org/blog/toyblocks",
    "exact": true
   },
   "Thinking Machines": {
@@ -4123,8 +4130,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "A builder’s guide to scaling Databricks Apps",
-   "url": "https://www.databricks.com/blog/builders-guide-scaling-databricks-apps",
+   "title": "How public sector organizations can govern AI at scale",
+   "url": "https://www.databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4153,8 +4160,8 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #429 Recap Podcast",
-   "url": "https://bitcoinops.org/en/podcast/2026/11/03/",
+   "title": "Bitcoin Optech Newsletter #430",
+   "url": "https://bitcoinops.org/en/newsletters/2026/11/06/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -4190,19 +4197,19 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 9,
-  "sent": 68,
+  "runs": 10,
+  "sent": 75,
   "by_source": {
    "Bitcoin BIPs": 27,
-   "OpenAI": 12,
+   "OpenAI": 13,
    "Google Research": 2,
-   "Hugging Face (blog)": 4,
-   "Allen AI": 1,
-   "Databricks": 7,
-   "Bitcoin Optech": 1,
+   "Hugging Face (blog)": 5,
+   "Allen AI": 2,
+   "Databricks": 9,
+   "Bitcoin Optech": 2,
    "SEC Press Releases": 1,
    "SEC Speeches & Statements": 1,
-   "Anthropic": 2,
+   "Anthropic": 3,
    "Google DeepMind": 1,
    "Microsoft Research": 1,
    "Amazon Science": 1,
