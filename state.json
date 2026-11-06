@@ -1366,7 +1366,8 @@
    "https://openai.com/index/merge-builds-with-openai",
    "https://openai.com/index/cultfit-builds-with-codex",
    "https://openai.com/index/australian-universities-ai-native-graduates",
-   "https://openai.com/index/partnering-with-hacktron"
+   "https://openai.com/index/partnering-with-hacktron",
+   "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1712,7 +1713,8 @@
    "https://research.ibm.com/blog/celebrating-70-years-ibm-research-europe",
    "https://research.ibm.com/blog/ponder-this-november-2026",
    "https://research.ibm.com/blog/ornl-amd-error-correction-co-design-platform",
-   "https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps"
+   "https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps",
+   "https://research.ibm.com/blog/chicago-quantum-computer"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -3174,7 +3176,9 @@
    "https://anthropic.com/research/provable-inference",
    "https://anthropic.com/research/investigating-vault-particles-with-claude",
    "https://anthropic.com/research/how-researchers-use-claude",
-   "https://anthropic.com/research/project-eve-claude-plays-mmorpgs"
+   "https://anthropic.com/research/project-eve-claude-plays-mmorpgs",
+   "https://anthropic.com/research/teaching-ai-to-build-scientific-models",
+   "https://anthropic.com/research/components-of-agent-memory"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3392,7 +3396,9 @@
    "https://databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
    "https://databricks.com/blog/builders-guide-scaling-databricks-apps",
    "https://databricks.com/blog/real-time-fraud-detection-feature-views",
-   "https://databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale"
+   "https://databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
+   "https://databricks.com/blog/read-dont-copy-replacing-file-and-api-feeds-opensharing-part-1-why",
+   "https://databricks.com/blog/read-dont-copy-replacing-file-feeds-opensharing-part-2-how-implement"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3486,7 +3492,9 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/846194b6367badc2a5408d19f9341bf265e82e34",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/93cdf03a368a8bb2743a7f8d458a4cd36d2a904f",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/0434aab3b2c6b596f607194bee44e94088ff2591",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/540f6ab4b9b71b584eae4f00c156194308d6650e"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/540f6ab4b9b71b584eae4f00c156194308d6650e",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/809a97a0b0e0f2190fa5d494bcc5856a06907969",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/ae7b00f3287a614c5aa5d0a7ceb7bad0cdc4e022"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -3782,7 +3790,11 @@
    "https://github.com/bitcoin/bips/commit/d4dea2a230be9f91f89f789a79f4e53137fe5498",
    "https://github.com/bitcoin/bips/commit/a50f8f8cb9c62969971f3bc72f7c831a7df2bb4a",
    "https://github.com/bitcoin/bips/commit/69ec29d5184bdd2cdfd819804598e906ff631526",
-   "https://github.com/bitcoin/bips/commit/c9547b9dad4c347cfb1a5a88303d119f08546109"
+   "https://github.com/bitcoin/bips/commit/c9547b9dad4c347cfb1a5a88303d119f08546109",
+   "https://github.com/bitcoin/bips/commit/04393c98c0e5268e02f465dbbfc6ea09bb599c99",
+   "https://github.com/bitcoin/bips/commit/bc8b68c9cf60896bb981aa2d7030a5f2f3d32db8",
+   "https://github.com/bitcoin/bips/commit/55916fd835fae2c57d2afedcc2ebea698e760361",
+   "https://github.com/bitcoin/bips/commit/f9cff97a6baa76ad213fbc4acfb286e016efdbef"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4051,7 +4063,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 38,
+  "Solana News": 39,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4065,8 +4077,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "url": "https://openai.com/index/partnering-with-hacktron",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
    "exact": true
   },
   "Google DeepMind": {
@@ -4100,8 +4112,8 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "How MEMS inertial sensors can rival GPS",
-   "url": "https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps?utm_medium=rss&utm_source=rss",
+   "title": "Chicago’s bid to lead the country in quantum computing",
+   "url": "https://research.ibm.com/blog/chicago-quantum-computer?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
@@ -4110,8 +4122,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Project Eve Claude Plays Mmorpgs",
-   "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+   "title": "Components Of Agent Memory",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
    "exact": false
   },
   "Mistral": {
@@ -4130,8 +4142,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How public sector organizations can govern AI at scale",
-   "url": "https://www.databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
+   "title": "Read, don't copy: replacing file feeds with OpenSharing - Part 2 (How to Implement)",
+   "url": "https://www.databricks.com/blog/read-dont-copy-replacing-file-feeds-opensharing-part-2-how-implement",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4150,8 +4162,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0685: Loader V3: Remove ExtendProgram (#685)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/540f6ab4b9b71b584eae4f00c156194308d6650e",
+   "title": "SIMD-0701: Vote Account v5 (#701)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/ae7b00f3287a614c5aa5d0a7ceb7bad0cdc4e022",
    "exact": true
   },
   "Helius": {
@@ -4165,8 +4177,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2347 from ajtowns/202611-bip95-bump",
-   "url": "https://github.com/bitcoin/bips/commit/c9547b9dad4c347cfb1a5a88303d119f08546109",
+   "title": "Merge pull request #2348 from Yudis-bit/fix/bip352-vector-input-encoding",
+   "url": "https://github.com/bitcoin/bips/commit/f9cff97a6baa76ad213fbc4acfb286e016efdbef",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4197,28 +4209,29 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 10,
-  "sent": 75,
+  "runs": 11,
+  "sent": 87,
   "by_source": {
-   "Bitcoin BIPs": 27,
-   "OpenAI": 13,
+   "Bitcoin BIPs": 31,
+   "OpenAI": 14,
    "Google Research": 2,
    "Hugging Face (blog)": 5,
    "Allen AI": 2,
-   "Databricks": 9,
+   "Databricks": 11,
    "Bitcoin Optech": 2,
    "SEC Press Releases": 1,
    "SEC Speeches & Statements": 1,
-   "Anthropic": 3,
+   "Anthropic": 5,
    "Google DeepMind": 1,
    "Microsoft Research": 1,
    "Amazon Science": 1,
-   "IBM Research": 2,
+   "IBM Research": 3,
    "Mistral": 1,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 1,
    "Apple ML Research": 1,
-   "a16z crypto": 1
+   "a16z crypto": 1,
+   "Solana SIMD": 2
   }
  }
 }
