@@ -2631,7 +2631,8 @@
    "https://huggingface.co/blog/allenai/statebench",
    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
    "https://huggingface.co/blog/phonon-tts",
-   "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+   "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "https://huggingface.co/blog/open-asr-leaderboard-liva"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -4043,7 +4044,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 36,
+  "Solana News": 37,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4097,8 +4098,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
    "exact": true
   },
   "Anthropic": {
@@ -4189,13 +4190,13 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 8,
-  "sent": 67,
+  "runs": 9,
+  "sent": 68,
   "by_source": {
    "Bitcoin BIPs": 27,
    "OpenAI": 12,
    "Google Research": 2,
-   "Hugging Face (blog)": 3,
+   "Hugging Face (blog)": 4,
    "Allen AI": 1,
    "Databricks": 7,
    "Bitcoin Optech": 1,
