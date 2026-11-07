@@ -3794,7 +3794,9 @@
    "https://github.com/bitcoin/bips/commit/04393c98c0e5268e02f465dbbfc6ea09bb599c99",
    "https://github.com/bitcoin/bips/commit/bc8b68c9cf60896bb981aa2d7030a5f2f3d32db8",
    "https://github.com/bitcoin/bips/commit/55916fd835fae2c57d2afedcc2ebea698e760361",
-   "https://github.com/bitcoin/bips/commit/f9cff97a6baa76ad213fbc4acfb286e016efdbef"
+   "https://github.com/bitcoin/bips/commit/f9cff97a6baa76ad213fbc4acfb286e016efdbef",
+   "https://github.com/bitcoin/bips/commit/97b62746269a2c81a767fe017510c2a1d1f1489c",
+   "https://github.com/bitcoin/bips/commit/a34f044bb8d5cd684d7a742d2f6483c14b719046"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4063,7 +4065,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 41,
+  "Solana News": 42,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4177,8 +4179,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2348 from Yudis-bit/fix/bip352-vector-input-encoding",
-   "url": "https://github.com/bitcoin/bips/commit/f9cff97a6baa76ad213fbc4acfb286e016efdbef",
+   "title": "Merge pull request #2310 from zjubiology/master",
+   "url": "https://github.com/bitcoin/bips/commit/a34f044bb8d5cd684d7a742d2f6483c14b719046",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4209,10 +4211,10 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 13,
-  "sent": 87,
+  "runs": 14,
+  "sent": 89,
   "by_source": {
-   "Bitcoin BIPs": 31,
+   "Bitcoin BIPs": 33,
    "OpenAI": 14,
    "Google Research": 2,
    "Hugging Face (blog)": 5,
