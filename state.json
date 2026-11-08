@@ -3853,7 +3853,8 @@
    "https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers/3019",
    "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026",
    "https://delvingbitcoin.org/t/direct-messages-dms/3027",
-   "https://delvingbitcoin.org/t/tulip-permissionless-decentralized-identity/3050"
+   "https://delvingbitcoin.org/t/tulip-permissionless-decentralized-identity/3050",
+   "https://delvingbitcoin.org/t/should-wallets-default-to-taproot-or-segwit-receive-addresses-while-some-services-still-reject-bc1p/3056"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4065,7 +4066,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 45,
+  "Solana News": 46,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4184,8 +4185,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "TULIP: Permissionless Decentralized Identity",
-   "url": "https://delvingbitcoin.org/t/tulip-permissionless-decentralized-identity/3050",
+   "title": "Should wallets default to Taproot or SegWit receive addresses while some services still reject bc1p?",
+   "url": "https://delvingbitcoin.org/t/should-wallets-default-to-taproot-or-segwit-receive-addresses-while-some-services-still-reject-bc1p/3056",
    "exact": true
   },
   "a16z crypto": {
@@ -4211,8 +4212,8 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 17,
-  "sent": 89,
+  "runs": 18,
+  "sent": 90,
   "by_source": {
    "Bitcoin BIPs": 33,
    "OpenAI": 14,
@@ -4230,7 +4231,7 @@
    "IBM Research": 3,
    "Mistral": 1,
    "Firedancer (releases)": 1,
-   "Delving Bitcoin": 1,
+   "Delving Bitcoin": 2,
    "Apple ML Research": 1,
    "a16z crypto": 1,
    "Solana SIMD": 2
