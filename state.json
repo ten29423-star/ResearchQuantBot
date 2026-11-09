@@ -1367,7 +1367,9 @@
    "https://openai.com/index/cultfit-builds-with-codex",
    "https://openai.com/index/australian-universities-ai-native-graduates",
    "https://openai.com/index/partnering-with-hacktron",
-   "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+   "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "https://openai.com/index/kuken",
+   "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1588,7 +1590,8 @@
    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
    "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
-   "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors"
+   "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
+   "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -1714,7 +1717,8 @@
    "https://research.ibm.com/blog/ponder-this-november-2026",
    "https://research.ibm.com/blog/ornl-amd-error-correction-co-design-platform",
    "https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps",
-   "https://research.ibm.com/blog/chicago-quantum-computer"
+   "https://research.ibm.com/blog/chicago-quantum-computer",
+   "https://research.ibm.com/blog/building-policy-enforcement-into-the-ai-stack-with-praxis"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2636,7 +2640,9 @@
    "https://huggingface.co/blog/phonon-tts",
    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
    "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "https://huggingface.co/blog/allenai/toyblocks"
+   "https://huggingface.co/blog/allenai/toyblocks",
+   "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3398,7 +3404,10 @@
    "https://databricks.com/blog/real-time-fraud-detection-feature-views",
    "https://databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
    "https://databricks.com/blog/read-dont-copy-replacing-file-and-api-feeds-opensharing-part-1-why",
-   "https://databricks.com/blog/read-dont-copy-replacing-file-feeds-opensharing-part-2-how-implement"
+   "https://databricks.com/blog/read-dont-copy-replacing-file-feeds-opensharing-part-2-how-implement",
+   "https://databricks.com/blog/turn-buying-signals-pipeline-sendoso-gifts-genie-one",
+   "https://databricks.com/blog/accelerate-gpu-training-unity-catalog-tables-ucdataset",
+   "https://databricks.com/blog/databricks-commitment-european-sovereignty"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3410,7 +3419,8 @@
    "http://bair.berkeley.edu/blog/2026/03/13/spex",
    "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging",
    "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning",
-   "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory"
+   "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory",
+   "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026"
   ],
   "Solana News": [
    "https://solana.com/news/payments-on-solana-september-2026-in-five-stories",
@@ -3796,7 +3806,9 @@
    "https://github.com/bitcoin/bips/commit/55916fd835fae2c57d2afedcc2ebea698e760361",
    "https://github.com/bitcoin/bips/commit/f9cff97a6baa76ad213fbc4acfb286e016efdbef",
    "https://github.com/bitcoin/bips/commit/97b62746269a2c81a767fe017510c2a1d1f1489c",
-   "https://github.com/bitcoin/bips/commit/a34f044bb8d5cd684d7a742d2f6483c14b719046"
+   "https://github.com/bitcoin/bips/commit/a34f044bb8d5cd684d7a742d2f6483c14b719046",
+   "https://github.com/bitcoin/bips/commit/bba6223aa1575de3519275d13409a46eb6a2f1c6",
+   "https://github.com/bitcoin/bips/commit/99e21c81547bc14445d9a2083647f19621e3a840"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4021,7 +4033,9 @@
    "https://sec.gov/newsroom/speeches-statements/remarks-selway-sta-annual-conference-2026-102926",
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-economic-club-of-dallas-103026",
    "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-at-the-practicing-law-institute-58th-annual-institute-on-securities-regulation-110226",
-   "https://sec.gov/newsroom/speeches-statements/uyeda-statement-small-entity-definitions-110426"
+   "https://sec.gov/newsroom/speeches-statements/uyeda-statement-small-entity-definitions-110426",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-super-intelligence-110926",
+   "https://sec.gov/newsroom/speeches-statements/white-remarks-super-intelligence-110926"
   ]
  },
  "feeds": {
@@ -4067,7 +4081,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 50,
+  "Solana News": 51,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4081,8 +4095,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "exact": true
   },
   "Google DeepMind": {
@@ -4091,8 +4105,8 @@
    "exact": true
   },
   "Google Research": {
-   "title": "Detecting signs of hypertension using wearable sensors",
-   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+   "title": "Exploring the world's languages with Language Explorer",
+   "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
    "exact": true
   },
   "Microsoft Research": {
@@ -4116,13 +4130,13 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "Chicago’s bid to lead the country in quantum computing",
-   "url": "https://research.ibm.com/blog/chicago-quantum-computer?utm_medium=rss&utm_source=rss",
+   "title": "Building policy enforcement into the AI stack with Praxis",
+   "url": "https://research.ibm.com/blog/building-policy-enforcement-into-the-ai-stack-with-praxis?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-   "url": "https://huggingface.co/blog/allenai/toyblocks",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
    "exact": true
   },
   "Anthropic": {
@@ -4146,13 +4160,13 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Read, don't copy: replacing file feeds with OpenSharing - Part 2 (How to Implement)",
-   "url": "https://www.databricks.com/blog/read-dont-copy-replacing-file-feeds-opensharing-part-2-how-implement",
+   "title": "Databricks' Commitment to European Sovereignty",
+   "url": "https://www.databricks.com/blog/databricks-commitment-european-sovereignty",
    "exact": true
   },
   "BAIR (Berkeley)": {
-   "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
-   "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+   "title": "BAIR at CoRL 2026",
+   "url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
    "exact": true
   },
   "Solana News": {
@@ -4181,8 +4195,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2310 from zjubiology/master",
-   "url": "https://github.com/bitcoin/bips/commit/a34f044bb8d5cd684d7a742d2f6483c14b719046",
+   "title": "Merge pull request #2349 from craigraw/bip392-fix-xkey-examples",
+   "url": "https://github.com/bitcoin/bips/commit/99e21c81547bc14445d9a2083647f19621e3a840",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4206,36 +4220,37 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Statement on the Adoption of Amendments to Small Entity Definitions",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-small-entity-definitions-110426",
+   "title": "Machine-Understandable Data in the Age of Super Intelligence",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/white-remarks-super-intelligence-110926",
    "exact": true
   }
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 22,
-  "sent": 91,
+  "runs": 23,
+  "sent": 105,
   "by_source": {
-   "Bitcoin BIPs": 33,
-   "OpenAI": 14,
-   "Google Research": 2,
-   "Hugging Face (blog)": 5,
+   "Bitcoin BIPs": 35,
+   "OpenAI": 16,
+   "Google Research": 3,
+   "Hugging Face (blog)": 7,
    "Allen AI": 2,
-   "Databricks": 11,
+   "Databricks": 14,
    "Bitcoin Optech": 2,
    "SEC Press Releases": 1,
-   "SEC Speeches & Statements": 1,
+   "SEC Speeches & Statements": 3,
    "Anthropic": 5,
    "Google DeepMind": 1,
    "Microsoft Research": 1,
    "Amazon Science": 1,
-   "IBM Research": 3,
+   "IBM Research": 4,
    "Mistral": 1,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Apple ML Research": 1,
    "a16z crypto": 1,
-   "Solana SIMD": 2
+   "Solana SIMD": 2,
+   "BAIR (Berkeley)": 1
   }
  }
 }
