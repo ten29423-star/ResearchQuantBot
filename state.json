@@ -1372,7 +1372,10 @@
    "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "https://openai.com/index/coderabbit-codex-daybreak",
    "https://openai.com/index/control-room",
-   "https://openai.com/index/closing-ai-guidance-gap-education"
+   "https://openai.com/index/closing-ai-guidance-gap-education",
+   "https://openai.com/index/ai-effect-on-freelance-work",
+   "https://openai.com/index/introducing-businesses-chatgpt",
+   "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1482,7 +1485,10 @@
    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
    "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-   "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips"
+   "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+   "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+   "https://deepmind.google/blog/introducing-alphaproof-code",
+   "https://deepmind.google/blog/gemini-4-carbon-is-now-available"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -1686,7 +1692,8 @@
    "https://amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
    "https://amazon.science/blog/better-speech-synthesis-for-audiobooks",
    "https://amazon.science/blog/speeding-up-language-models-for-travel-applications",
-   "https://amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award"
+   "https://amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award",
+   "https://amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models"
   ],
   "IBM Research": [
    "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era",
@@ -2646,7 +2653,9 @@
    "https://huggingface.co/blog/open-asr-leaderboard-liva",
    "https://huggingface.co/blog/allenai/toyblocks",
    "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-   "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+   "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "https://huggingface.co/blog/decision",
+   "https://huggingface.co/blog/hub-gcp-marketplace"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3189,7 +3198,8 @@
    "https://anthropic.com/research/project-eve-claude-plays-mmorpgs",
    "https://anthropic.com/research/teaching-ai-to-build-scientific-models",
    "https://anthropic.com/research/components-of-agent-memory",
-   "https://anthropic.com/research/claude-electronics-design"
+   "https://anthropic.com/research/claude-electronics-design",
+   "https://anthropic.com/news/roadshow-launch"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3412,7 +3422,8 @@
    "https://databricks.com/blog/read-dont-copy-replacing-file-feeds-opensharing-part-2-how-implement",
    "https://databricks.com/blog/turn-buying-signals-pipeline-sendoso-gifts-genie-one",
    "https://databricks.com/blog/accelerate-gpu-training-unity-catalog-tables-ucdataset",
-   "https://databricks.com/blog/databricks-commitment-european-sovereignty"
+   "https://databricks.com/blog/databricks-commitment-european-sovereignty",
+   "https://databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3712,7 +3723,8 @@
    "https://helius.dev/blog/solana-nft-compression",
    "https://helius.dev/blog/rocksdb-read-path",
    "https://helius.dev/blog/agave-v4-4",
-   "https://helius.dev/blog/parsed-events-scan"
+   "https://helius.dev/blog/parsed-events-scan",
+   "https://helius.dev/blog/solana-privacy-rings"
   ],
   "Bitcoin Optech": [
    "https://bitcoinops.org/en/podcast/2026/10/06",
@@ -3944,7 +3956,8 @@
    "https://a16zfrontier.com/posts/article/a16z-frontier",
    "https://a16zfrontier.com/posts/article/rise-generative-networks",
    "https://a16zfrontier.com/posts/article/reusable-networks-as-moat",
-   "https://a16zfrontier.com/posts/article/prediction-markets-biggest-month-3-charts"
+   "https://a16zfrontier.com/posts/article/prediction-markets-biggest-month-3-charts",
+   "https://a16zfrontier.com/posts/article/building-networks-for-agents"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -3978,7 +3991,8 @@
    "https://sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
    "https://sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
    "https://sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
-   "https://sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
+   "https://sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+   "https://sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -4091,7 +4105,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 53,
+  "Solana News": 54,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4105,13 +4119,13 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Closing the AI guidance gap in education",
-   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "exact": true
   },
   "Google Research": {
@@ -4135,8 +4149,8 @@
    "exact": true
   },
   "Amazon Science": {
-   "title": "Hamed Karimi wins ECML PKDD Test-of-Time Award",
-   "url": "https://www.amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award",
+   "title": "Mitra-v2: Scaling synthetic pretraining for tabular foundation models",
+   "url": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
    "exact": true
   },
   "IBM Research": {
@@ -4145,13 +4159,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
    "exact": true
   },
   "Anthropic": {
-   "title": "Claude Electronics Design",
-   "url": "https://www.anthropic.com/research/claude-electronics-design",
+   "title": "Roadshow Launch",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
    "exact": false
   },
   "Mistral": {
@@ -4170,8 +4184,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Databricks' Commitment to European Sovereignty",
-   "url": "https://www.databricks.com/blog/databricks-commitment-european-sovereignty",
+   "title": "Unity Catalog Metric Views, now in Power BI: one unified, governed semantic layer for all your reporting and AI",
+   "url": "https://www.databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4195,8 +4209,8 @@
    "exact": true
   },
   "Helius": {
-   "title": "Introducing the Parsed Events Scan API",
-   "url": "https://www.helius.dev/blog/parsed-events-scan",
+   "title": "Introducing Solana Privacy Rings",
+   "url": "https://www.helius.dev/blog/solana-privacy-rings",
    "exact": true
   },
   "Bitcoin Optech": {
@@ -4215,13 +4229,13 @@
    "exact": true
   },
   "a16z crypto": {
-   "title": "Prediction markets’ biggest month yet, in 3 charts",
-   "url": "https://a16zfrontier.com/posts/article/prediction-markets-biggest-month-3-charts/",
+   "title": "Building networks for agents",
+   "url": "https://a16zfrontier.com/posts/article/building-networks-for-agents/",
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+   "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -4237,31 +4251,32 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 25,
-  "sent": 115,
+  "runs": 26,
+  "sent": 129,
   "by_source": {
    "Bitcoin BIPs": 39,
-   "OpenAI": 19,
+   "OpenAI": 22,
    "Google Research": 3,
-   "Hugging Face (blog)": 7,
+   "Hugging Face (blog)": 9,
    "Allen AI": 2,
-   "Databricks": 14,
+   "Databricks": 15,
    "Bitcoin Optech": 2,
-   "SEC Press Releases": 1,
+   "SEC Press Releases": 2,
    "SEC Speeches & Statements": 4,
-   "Anthropic": 6,
-   "Google DeepMind": 1,
+   "Anthropic": 7,
+   "Google DeepMind": 4,
    "Microsoft Research": 1,
-   "Amazon Science": 1,
+   "Amazon Science": 2,
    "IBM Research": 4,
    "Mistral": 1,
    "Firedancer (releases)": 1,
    "Delving Bitcoin": 3,
    "Apple ML Research": 1,
-   "a16z crypto": 1,
+   "a16z crypto": 2,
    "Solana SIMD": 2,
    "BAIR (Berkeley)": 1,
-   "NVIDIA Research": 1
+   "NVIDIA Research": 1,
+   "Helius": 1
   }
  }
 }
