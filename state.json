@@ -1369,7 +1369,9 @@
    "https://openai.com/index/partnering-with-hacktron",
    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
    "https://openai.com/index/kuken",
-   "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+   "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "https://openai.com/index/coderabbit-codex-daybreak",
+   "https://openai.com/index/control-room"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1631,7 +1633,8 @@
    "https://blogs.nvidia.com/blog/cosmos-world-foundation-models",
    "https://blogs.nvidia.com/blog/ai-research-2024",
    "https://blogs.nvidia.com/blog/ulta-beauty-stylegan2",
-   "https://blogs.nvidia.com/blog/neurips-2024-research"
+   "https://blogs.nvidia.com/blog/neurips-2024-research",
+   "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl"
   ],
   "Apple ML Research": [
    "https://machinelearning.apple.com/research/mix-dont-tune",
@@ -3184,7 +3187,8 @@
    "https://anthropic.com/research/how-researchers-use-claude",
    "https://anthropic.com/research/project-eve-claude-plays-mmorpgs",
    "https://anthropic.com/research/teaching-ai-to-build-scientific-models",
-   "https://anthropic.com/research/components-of-agent-memory"
+   "https://anthropic.com/research/components-of-agent-memory",
+   "https://anthropic.com/research/claude-electronics-design"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3808,7 +3812,11 @@
    "https://github.com/bitcoin/bips/commit/97b62746269a2c81a767fe017510c2a1d1f1489c",
    "https://github.com/bitcoin/bips/commit/a34f044bb8d5cd684d7a742d2f6483c14b719046",
    "https://github.com/bitcoin/bips/commit/bba6223aa1575de3519275d13409a46eb6a2f1c6",
-   "https://github.com/bitcoin/bips/commit/99e21c81547bc14445d9a2083647f19621e3a840"
+   "https://github.com/bitcoin/bips/commit/99e21c81547bc14445d9a2083647f19621e3a840",
+   "https://github.com/bitcoin/bips/commit/c2497beafdf188639569e9d7b07d7355f7e9c3fa",
+   "https://github.com/bitcoin/bips/commit/d853786cd8aabe35bd29afa5fe62f692bfc88edd",
+   "https://github.com/bitcoin/bips/commit/7bf26a7109c5d54aa34d962be6227fbc22fb566d",
+   "https://github.com/bitcoin/bips/commit/d71d60687b4c250ae9c73c1cc29897dbd56e9903"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4035,7 +4043,8 @@
    "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-at-the-practicing-law-institute-58th-annual-institute-on-securities-regulation-110226",
    "https://sec.gov/newsroom/speeches-statements/uyeda-statement-small-entity-definitions-110426",
    "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-super-intelligence-110926",
-   "https://sec.gov/newsroom/speeches-statements/white-remarks-super-intelligence-110926"
+   "https://sec.gov/newsroom/speeches-statements/white-remarks-super-intelligence-110926",
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-super-intelligence-110926"
   ]
  },
  "feeds": {
@@ -4081,7 +4090,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 51,
+  "Solana News": 52,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4095,8 +4104,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
    "exact": true
   },
   "Google DeepMind": {
@@ -4115,8 +4124,8 @@
    "exact": true
   },
   "NVIDIA Research": {
-   "title": "How Open Models Are Driving AI Research",
-   "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
    "exact": true
   },
   "Apple ML Research": {
@@ -4140,8 +4149,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Components Of Agent Memory",
-   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "title": "Claude Electronics Design",
+   "url": "https://www.anthropic.com/research/claude-electronics-design",
    "exact": false
   },
   "Mistral": {
@@ -4195,8 +4204,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2349 from craigraw/bip392-fix-xkey-examples",
-   "url": "https://github.com/bitcoin/bips/commit/99e21c81547bc14445d9a2083647f19621e3a840",
+   "title": "Merge pull request #2350 from jonatack/2026-11-include-deputies-in-re…",
+   "url": "https://github.com/bitcoin/bips/commit/d71d60687b4c250ae9c73c1cc29897dbd56e9903",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4220,26 +4229,26 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Machine-Understandable Data in the Age of Super Intelligence",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/white-remarks-super-intelligence-110926",
+   "title": "Closing Remarks at Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-super-intelligence-110926",
    "exact": true
   }
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 23,
-  "sent": 105,
+  "runs": 24,
+  "sent": 114,
   "by_source": {
-   "Bitcoin BIPs": 35,
-   "OpenAI": 16,
+   "Bitcoin BIPs": 39,
+   "OpenAI": 18,
    "Google Research": 3,
    "Hugging Face (blog)": 7,
    "Allen AI": 2,
    "Databricks": 14,
    "Bitcoin Optech": 2,
    "SEC Press Releases": 1,
-   "SEC Speeches & Statements": 3,
-   "Anthropic": 5,
+   "SEC Speeches & Statements": 4,
+   "Anthropic": 6,
    "Google DeepMind": 1,
    "Microsoft Research": 1,
    "Amazon Science": 1,
@@ -4250,7 +4259,8 @@
    "Apple ML Research": 1,
    "a16z crypto": 1,
    "Solana SIMD": 2,
-   "BAIR (Berkeley)": 1
+   "BAIR (Berkeley)": 1,
+   "NVIDIA Research": 1
   }
  }
 }
