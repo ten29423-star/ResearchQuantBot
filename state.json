@@ -1371,7 +1371,8 @@
    "https://openai.com/index/kuken",
    "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "https://openai.com/index/coderabbit-codex-daybreak",
-   "https://openai.com/index/control-room"
+   "https://openai.com/index/control-room",
+   "https://openai.com/index/closing-ai-guidance-gap-education"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -4090,7 +4091,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 52,
+  "Solana News": 53,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4104,8 +4105,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "url": "https://openai.com/index/control-room",
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
    "exact": true
   },
   "Google DeepMind": {
@@ -4236,11 +4237,11 @@
  },
  "weekly": {
   "since": 1793750799.8246953,
-  "runs": 24,
-  "sent": 114,
+  "runs": 25,
+  "sent": 115,
   "by_source": {
    "Bitcoin BIPs": 39,
-   "OpenAI": 18,
+   "OpenAI": 19,
    "Google Research": 3,
    "Hugging Face (blog)": 7,
    "Allen AI": 2,
