@@ -1386,7 +1386,8 @@
    "https://openai.com/index/cogent-security",
    "https://openai.com/index/singapore-airlines-travel-work",
    "https://openai.com/index/chatgpt-plus-for-veterans",
-   "https://openai.com/index/gilbert-tobin-sam-nickless"
+   "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "https://openai.com/index/jiostar-vijay-seshadri"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1499,7 +1500,8 @@
    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
    "https://deepmind.google/blog/introducing-alphaproof-code",
-   "https://deepmind.google/blog/gemini-4-carbon-is-now-available"
+   "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+   "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -1611,7 +1613,8 @@
    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
    "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
    "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
-   "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer"
+   "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer",
+   "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -1674,7 +1677,10 @@
    "https://machinelearning.apple.com/research/gharp-head-animation",
    "https://machinelearning.apple.com/research/faster-retrieval",
    "https://machinelearning.apple.com/research/pixels-tokens-active-learning",
-   "https://machinelearning.apple.com/research/attention-mamba-distillation"
+   "https://machinelearning.apple.com/research/attention-mamba-distillation",
+   "https://machinelearning.apple.com/research/weighted-state-souping",
+   "https://machinelearning.apple.com/research/gating-memorization-in-context",
+   "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -1707,7 +1713,8 @@
    "https://amazon.science/blog/better-speech-synthesis-for-audiobooks",
    "https://amazon.science/blog/speeding-up-language-models-for-travel-applications",
    "https://amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award",
-   "https://amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models"
+   "https://amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
+   "https://amazon.science/blog/using-mathematics-to-validate-network-configurations"
   ],
   "IBM Research": [
    "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era",
@@ -3443,7 +3450,15 @@
    "https://databricks.com/blog/turn-buying-signals-pipeline-sendoso-gifts-genie-one",
    "https://databricks.com/blog/accelerate-gpu-training-unity-catalog-tables-ucdataset",
    "https://databricks.com/blog/databricks-commitment-european-sovereignty",
-   "https://databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting"
+   "https://databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting",
+   "https://databricks.com/blog/genie-one-ai-cowork-home-everyone",
+   "https://databricks.com/blog/genie-genie-ontology-delivers-16-accuracy-less-half-tokens",
+   "https://databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot",
+   "https://databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
+   "https://databricks.com/blog/announcing-ga-genie-ontology",
+   "https://databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
+   "https://databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
+   "https://databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4134,7 +4149,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 57,
+  "Solana News": 58,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4148,18 +4163,18 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
    "exact": true
   },
   "Google Research": {
-   "title": "Exploring the world's languages with Language Explorer",
-   "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+   "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+   "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
    "exact": true
   },
   "Microsoft Research": {
@@ -4173,13 +4188,13 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-   "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+   "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+   "url": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
    "exact": true
   },
   "Amazon Science": {
-   "title": "Mitra-v2: Scaling synthetic pretraining for tabular foundation models",
-   "url": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
+   "title": "Using mathematics to validate network configurations",
+   "url": "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations",
    "exact": true
   },
   "IBM Research": {
@@ -4213,8 +4228,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Unity Catalog Metric Views, now in Power BI: one unified, governed semantic layer for all your reporting and AI",
-   "url": "https://www.databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting",
+   "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
+   "url": "https://www.databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4280,14 +4295,19 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 2,
-  "sent": 14,
+  "runs": 3,
+  "sent": 29,
   "by_source": {
-   "OpenAI": 4,
+   "OpenAI": 5,
    "Hugging Face (blog)": 2,
    "Delving Bitcoin": 1,
    "IBM Research": 4,
-   "Firedancer (releases)": 3
+   "Firedancer (releases)": 3,
+   "Google DeepMind": 1,
+   "Google Research": 1,
+   "Apple ML Research": 3,
+   "Amazon Science": 1,
+   "Databricks": 8
   }
  }
 }
