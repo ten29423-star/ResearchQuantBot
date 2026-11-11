@@ -1743,7 +1743,11 @@
    "https://research.ibm.com/blog/ornl-amd-error-correction-co-design-platform",
    "https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps",
    "https://research.ibm.com/blog/chicago-quantum-computer",
-   "https://research.ibm.com/blog/building-policy-enforcement-into-the-ai-stack-with-praxis"
+   "https://research.ibm.com/blog/building-policy-enforcement-into-the-ai-stack-with-praxis",
+   "https://research.ibm.com/blog/path-to-ibm-quantum-starling",
+   "https://research.ibm.com/blog/dev-tools-qdc-2026",
+   "https://research.ibm.com/blog/qdc-2026",
+   "https://research.ibm.com/blog/path-to-starling"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2670,7 +2674,8 @@
    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
    "https://huggingface.co/blog/decision",
    "https://huggingface.co/blog/hub-gcp-marketplace",
-   "https://huggingface.co/blog/qvac/botpsy"
+   "https://huggingface.co/blog/qvac/botpsy",
+   "https://huggingface.co/blog/token-pooling"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3495,7 +3500,10 @@
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.3",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.4",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.5",
-   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.6"
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.6",
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.7",
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.8",
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.11.0"
   ],
   "Solana SIMD": [
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f1f6c8b05dc205552d3c290a854a438392701107",
@@ -4126,7 +4134,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 56,
+  "Solana News": 57,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4175,13 +4183,13 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "Building policy enforcement into the AI stack with Praxis",
-   "url": "https://research.ibm.com/blog/building-policy-enforcement-into-the-ai-stack-with-praxis?utm_medium=rss&utm_source=rss",
+   "title": "Tracking progress on the path to IBM Quantum Starling",
+   "url": "https://research.ibm.com/blog/path-to-starling?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "url": "https://huggingface.co/blog/qvac/botpsy",
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "url": "https://huggingface.co/blog/token-pooling",
    "exact": true
   },
   "Anthropic": {
@@ -4220,8 +4228,8 @@
    "exact": true
   },
   "Firedancer (releases)": {
-   "title": "Firedancer Mainnet Release v26.10.6",
-   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.6",
+   "title": "Firedancer Testnet Release v26.11.0",
+   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.11.0",
    "exact": true
   },
   "Solana SIMD": {
@@ -4272,12 +4280,14 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 1,
-  "sent": 6,
+  "runs": 2,
+  "sent": 14,
   "by_source": {
    "OpenAI": 4,
-   "Hugging Face (blog)": 1,
-   "Delving Bitcoin": 1
+   "Hugging Face (blog)": 2,
+   "Delving Bitcoin": 1,
+   "IBM Research": 4,
+   "Firedancer (releases)": 3
   }
  }
 }
