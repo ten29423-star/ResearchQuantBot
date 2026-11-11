@@ -1382,7 +1382,11 @@
    "https://openai.com/business/learn/new-in-chatgpt-for-work-march-updates-2025",
    "https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025",
    "https://openai.com/business/customer-stories/blue-j",
-   "https://openai.com/business/learn/how-openai-uses-codex"
+   "https://openai.com/business/learn/how-openai-uses-codex",
+   "https://openai.com/index/cogent-security",
+   "https://openai.com/index/singapore-airlines-travel-work",
+   "https://openai.com/index/chatgpt-plus-for-veterans",
+   "https://openai.com/index/gilbert-tobin-sam-nickless"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -2665,7 +2669,8 @@
    "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
    "https://huggingface.co/blog/decision",
-   "https://huggingface.co/blog/hub-gcp-marketplace"
+   "https://huggingface.co/blog/hub-gcp-marketplace",
+   "https://huggingface.co/blog/qvac/botpsy"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3902,7 +3907,8 @@
    "https://delvingbitcoin.org/t/direct-messages-dms/3027",
    "https://delvingbitcoin.org/t/tulip-permissionless-decentralized-identity/3050",
    "https://delvingbitcoin.org/t/should-wallets-default-to-taproot-or-segwit-receive-addresses-while-some-services-still-reject-bc1p/3056",
-   "https://delvingbitcoin.org/t/disclosure-memory-exhaustion-dos-in-eclair-0-14-0/3057"
+   "https://delvingbitcoin.org/t/disclosure-memory-exhaustion-dos-in-eclair-0-14-0/3057",
+   "https://delvingbitcoin.org/t/decentralized-coinbase-payout-protocols-dcpp-a-framework-for-discussion/3060"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4120,7 +4126,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 55,
+  "Solana News": 56,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4134,8 +4140,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How OpenAI Uses Codex to Accelerate Engineering",
-   "url": "https://openai.com/business/learn/how-openai-uses-codex",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
    "exact": true
   },
   "Google DeepMind": {
@@ -4174,8 +4180,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "url": "https://huggingface.co/blog/qvac/botpsy",
    "exact": true
   },
   "Anthropic": {
@@ -4239,8 +4245,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Disclosure: Memory-exhaustion DoS in Eclair 0.14.0",
-   "url": "https://delvingbitcoin.org/t/disclosure-memory-exhaustion-dos-in-eclair-0-14-0/3057",
+   "title": "Decentralized Coinbase Payout Protocols (DCPP): A Framework for Discussion",
+   "url": "https://delvingbitcoin.org/t/decentralized-coinbase-payout-protocols-dcpp-a-framework-for-discussion/3060",
    "exact": true
   },
   "a16z crypto": {
@@ -4266,8 +4272,12 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 0,
-  "sent": 0,
-  "by_source": {}
+  "runs": 1,
+  "sent": 6,
+  "by_source": {
+   "OpenAI": 4,
+   "Hugging Face (blog)": 1,
+   "Delving Bitcoin": 1
+  }
  }
 }
