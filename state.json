@@ -1375,7 +1375,14 @@
    "https://openai.com/index/closing-ai-guidance-gap-education",
    "https://openai.com/index/ai-effect-on-freelance-work",
    "https://openai.com/index/introducing-businesses-chatgpt",
-   "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+   "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar",
+   "https://openai.com/business/learn/fine-tuning-gpt-4o-webinar",
+   "https://openai.com/business/customer-stories/ada",
+   "https://openai.com/business/learn/new-in-chatgpt-for-work-march-updates-2025",
+   "https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025",
+   "https://openai.com/business/customer-stories/blue-j",
+   "https://openai.com/business/learn/how-openai-uses-codex"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1620,7 +1627,8 @@
    "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
    "https://microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
    "https://microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset",
-   "https://microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit"
+   "https://microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+   "https://microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -1660,7 +1668,9 @@
    "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
    "https://machinelearning.apple.com/research/selection-structured-reasoning",
    "https://machinelearning.apple.com/research/gharp-head-animation",
-   "https://machinelearning.apple.com/research/faster-retrieval"
+   "https://machinelearning.apple.com/research/faster-retrieval",
+   "https://machinelearning.apple.com/research/pixels-tokens-active-learning",
+   "https://machinelearning.apple.com/research/attention-mamba-distillation"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -3744,7 +3754,8 @@
    "https://bitcoinops.org/en/podcast/2026/10/27",
    "https://bitcoinops.org/en/newsletters/2026/10/30",
    "https://bitcoinops.org/en/podcast/2026/11/03",
-   "https://bitcoinops.org/en/newsletters/2026/11/06"
+   "https://bitcoinops.org/en/newsletters/2026/11/06",
+   "https://bitcoinops.org/en/podcast/2026/11/10"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3829,7 +3840,10 @@
    "https://github.com/bitcoin/bips/commit/c2497beafdf188639569e9d7b07d7355f7e9c3fa",
    "https://github.com/bitcoin/bips/commit/d853786cd8aabe35bd29afa5fe62f692bfc88edd",
    "https://github.com/bitcoin/bips/commit/7bf26a7109c5d54aa34d962be6227fbc22fb566d",
-   "https://github.com/bitcoin/bips/commit/d71d60687b4c250ae9c73c1cc29897dbd56e9903"
+   "https://github.com/bitcoin/bips/commit/d71d60687b4c250ae9c73c1cc29897dbd56e9903",
+   "https://github.com/bitcoin/bips/commit/8882768f52627d5be9fa3eded1ed8c0dbd6be7d8",
+   "https://github.com/bitcoin/bips/commit/ec7f9b44aa9e151f1add1fcaf1d575392886a05e",
+   "https://github.com/bitcoin/bips/commit/b34d9f751791d4feb22feff4f2ed00bcac83961b"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4059,7 +4073,8 @@
    "https://sec.gov/newsroom/speeches-statements/uyeda-statement-small-entity-definitions-110426",
    "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-super-intelligence-110926",
    "https://sec.gov/newsroom/speeches-statements/white-remarks-super-intelligence-110926",
-   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-super-intelligence-110926"
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-super-intelligence-110926",
+   "https://sec.gov/newsroom/speeches-statements/woodcock-remarks-aa-sommer-lecture-111026"
   ]
  },
  "feeds": {
@@ -4105,7 +4120,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 54,
+  "Solana News": 55,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4119,8 +4134,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Helping caregivers use AI in everyday life",
-   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "title": "How OpenAI Uses Codex to Accelerate Engineering",
+   "url": "https://openai.com/business/learn/how-openai-uses-codex",
    "exact": true
   },
   "Google DeepMind": {
@@ -4134,8 +4149,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -4144,8 +4159,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "Faster Retrieval for Better, More Efficient RAG",
-   "url": "https://machinelearning.apple.com/research/faster-retrieval",
+   "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+   "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
    "exact": true
   },
   "Amazon Science": {
@@ -4214,13 +4229,13 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #430",
-   "url": "https://bitcoinops.org/en/newsletters/2026/11/06/",
+   "title": "Bitcoin Optech Newsletter #430 Recap Podcast",
+   "url": "https://bitcoinops.org/en/podcast/2026/11/10/",
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2350 from jonatack/2026-11-include-deputies-in-re…",
-   "url": "https://github.com/bitcoin/bips/commit/d71d60687b4c250ae9c73c1cc29897dbd56e9903",
+   "title": "Merge pull request #2315 from fametrano/bip375-valid-table-row",
+   "url": "https://github.com/bitcoin/bips/commit/b34d9f751791d4feb22feff4f2ed00bcac83961b",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4244,39 +4259,15 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Closing Remarks at Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-super-intelligence-110926",
+   "title": "Remarks at the 26th Annual A.A. Sommer Lecture",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-aa-sommer-lecture-111026",
    "exact": true
   }
  },
  "weekly": {
-  "since": 1793750799.8246953,
-  "runs": 26,
-  "sent": 129,
-  "by_source": {
-   "Bitcoin BIPs": 39,
-   "OpenAI": 22,
-   "Google Research": 3,
-   "Hugging Face (blog)": 9,
-   "Allen AI": 2,
-   "Databricks": 15,
-   "Bitcoin Optech": 2,
-   "SEC Press Releases": 2,
-   "SEC Speeches & Statements": 4,
-   "Anthropic": 7,
-   "Google DeepMind": 4,
-   "Microsoft Research": 1,
-   "Amazon Science": 2,
-   "IBM Research": 4,
-   "Mistral": 1,
-   "Firedancer (releases)": 1,
-   "Delving Bitcoin": 3,
-   "Apple ML Research": 1,
-   "a16z crypto": 2,
-   "Solana SIMD": 2,
-   "BAIR (Berkeley)": 1,
-   "NVIDIA Research": 1,
-   "Helius": 1
-  }
+  "since": 1794355883.027225,
+  "runs": 0,
+  "sent": 0,
+  "by_source": {}
  }
 }
