@@ -3458,7 +3458,9 @@
    "https://databricks.com/blog/announcing-ga-genie-ontology",
    "https://databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
    "https://databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
-   "https://databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters"
+   "https://databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
+   "https://databricks.com/blog/brickster-voices-meet-alasdair-anderson",
+   "https://databricks.com/blog/detecting-credential-driven-attacks-databricks"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4149,7 +4151,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 58,
+  "Solana News": 59,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4228,8 +4230,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
-   "url": "https://www.databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
+   "title": "Detecting credential-driven attacks on Databricks",
+   "url": "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4295,8 +4297,8 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 3,
-  "sent": 29,
+  "runs": 4,
+  "sent": 31,
   "by_source": {
    "OpenAI": 5,
    "Hugging Face (blog)": 2,
@@ -4307,7 +4309,7 @@
    "Google Research": 1,
    "Apple ML Research": 3,
    "Amazon Science": 1,
-   "Databricks": 8
+   "Databricks": 10
   }
  }
 }
