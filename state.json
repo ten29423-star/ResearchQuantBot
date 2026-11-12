@@ -1389,7 +1389,9 @@
    "https://openai.com/index/gilbert-tobin-sam-nickless",
    "https://openai.com/index/jiostar-vijay-seshadri",
    "https://openai.com/index/children-first-declaration",
-   "https://openai.com/business/customer-stories/holidays-extras-codex"
+   "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "https://openai.com/business/customer-stories/gondola",
+   "https://openai.com/business/customer-stories/amplitude"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1638,7 +1640,8 @@
    "https://microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
    "https://microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset",
    "https://microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
-   "https://microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents"
+   "https://microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
+   "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -2688,7 +2691,8 @@
    "https://huggingface.co/blog/hub-gcp-marketplace",
    "https://huggingface.co/blog/qvac/botpsy",
    "https://huggingface.co/blog/token-pooling",
-   "https://huggingface.co/blog/3d-lora-finetuning"
+   "https://huggingface.co/blog/3d-lora-finetuning",
+   "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3470,7 +3474,11 @@
    "https://databricks.com/blog/how-block-powers-collaborative-ai-agents-buzz-and-unity-gateway",
    "https://databricks.com/blog/genie-slack-now-generally-available-governed-ai-cowork-right-where-work-happens",
    "https://databricks.com/blog/lakehousert-scale-real-time-analytics-not-your-bill",
-   "https://databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres"
+   "https://databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres",
+   "https://databricks.com/genie-migrate-for-lakehouse-generally-available",
+   "https://databricks.com/blog/eclipse-aerospace-simplifies-flight-data-ingestion-databricks",
+   "https://databricks.com/blog/how-constellation-building-governed-data-foundation-databricks",
+   "https://databricks.com/blog/dispelling-ltap-myths"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4163,7 +4171,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 61,
+  "Solana News": 62,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4177,8 +4185,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "url": "https://openai.com/business/customer-stories/amplitude",
    "exact": true
   },
   "Google DeepMind": {
@@ -4192,8 +4200,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+   "title": "Microsoft Research Focus – Edition #98",
+   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -4217,8 +4225,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
    "exact": true
   },
   "Anthropic": {
@@ -4242,8 +4250,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How H6.ai builds AI-powered financial automation with Lakebase Postgres",
-   "url": "https://www.databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres",
+   "title": "Dispelling LTAP myths",
+   "url": "https://www.databricks.com/blog/dispelling-ltap-myths",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4309,11 +4317,11 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 6,
-  "sent": 43,
+  "runs": 7,
+  "sent": 51,
   "by_source": {
-   "OpenAI": 7,
-   "Hugging Face (blog)": 3,
+   "OpenAI": 9,
+   "Hugging Face (blog)": 4,
    "Delving Bitcoin": 1,
    "IBM Research": 5,
    "Firedancer (releases)": 3,
@@ -4321,8 +4329,9 @@
    "Google Research": 1,
    "Apple ML Research": 4,
    "Amazon Science": 1,
-   "Databricks": 14,
-   "SEC Speeches & Statements": 2
+   "Databricks": 18,
+   "SEC Speeches & Statements": 2,
+   "Microsoft Research": 1
   }
  }
 }
