@@ -1391,7 +1391,8 @@
    "https://openai.com/index/children-first-declaration",
    "https://openai.com/business/customer-stories/holidays-extras-codex",
    "https://openai.com/business/customer-stories/gondola",
-   "https://openai.com/business/customer-stories/amplitude"
+   "https://openai.com/business/customer-stories/amplitude",
+   "https://openai.com/index/introducing-chatgpt-wallet"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1620,7 +1621,8 @@
    "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
    "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
    "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer",
-   "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching"
+   "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
+   "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -2694,7 +2696,9 @@
    "https://huggingface.co/blog/token-pooling",
    "https://huggingface.co/blog/3d-lora-finetuning",
    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-   "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+   "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "https://huggingface.co/blog/allenai/xybench",
+   "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3238,7 +3242,8 @@
    "https://anthropic.com/research/teaching-ai-to-build-scientific-models",
    "https://anthropic.com/research/components-of-agent-memory",
    "https://anthropic.com/research/claude-electronics-design",
-   "https://anthropic.com/news/roadshow-launch"
+   "https://anthropic.com/news/roadshow-launch",
+   "https://anthropic.com/research/building-strong-safety-evaluations"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3372,7 +3377,8 @@
    "https://allenai.org/blog/nextcloud",
    "https://allenai.org/blog/statebench",
    "https://allenai.org/blog/google-climate-partnership",
-   "https://allenai.org/blog/toyblocks"
+   "https://allenai.org/blog/toyblocks",
+   "https://allenai.org/blog/xybench"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3481,7 +3487,9 @@
    "https://databricks.com/blog/eclipse-aerospace-simplifies-flight-data-ingestion-databricks",
    "https://databricks.com/blog/how-constellation-building-governed-data-foundation-databricks",
    "https://databricks.com/blog/dispelling-ltap-myths",
-   "https://databricks.com/blog/genie-migrate-for-lakehouse-generally-available"
+   "https://databricks.com/blog/genie-migrate-for-lakehouse-generally-available",
+   "https://databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
+   "https://databricks.com/blog/spark-vs-flink"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4026,7 +4034,8 @@
    "https://a16zfrontier.com/posts/article/rise-generative-networks",
    "https://a16zfrontier.com/posts/article/reusable-networks-as-moat",
    "https://a16zfrontier.com/posts/article/prediction-markets-biggest-month-3-charts",
-   "https://a16zfrontier.com/posts/article/building-networks-for-agents"
+   "https://a16zfrontier.com/posts/article/building-networks-for-agents",
+   "https://a16zfrontier.com/posts/article/james-gleick-telephone"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -4061,7 +4070,8 @@
    "https://sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
    "https://sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
    "https://sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
-   "https://sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
+   "https://sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+   "https://sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -4132,7 +4142,9 @@
    "https://sec.gov/newsroom/speeches-statements/woodcock-remarks-aa-sommer-lecture-111026",
    "https://sec.gov/newsroom/speeches-statements/white-economics-attention-nacd-111126",
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-2026-cfri-conference-111226-remarks-2026-corporate-financial-reporting-insights-cfri-conference",
-   "https://sec.gov/newsroom/speeches-statements/selway-remarks-baruch-college-conference-111326"
+   "https://sec.gov/newsroom/speeches-statements/selway-remarks-baruch-college-conference-111326",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-statement-executive-compensation-111326",
+   "https://sec.gov/newsroom/speeches-statements/atkins-statement-proposing-release-executive-compensation-disclosure-reform-111326"
   ]
  },
  "feeds": {
@@ -4175,10 +4187,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 0,
+  "Thinking Machines": 1,
   "Databricks": 0,
-  "BAIR (Berkeley)": 0,
-  "Solana News": 64,
+  "BAIR (Berkeley)": 1,
+  "Solana News": 65,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4192,8 +4204,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "url": "https://openai.com/business/customer-stories/amplitude",
+   "title": "Introducing ChatGPT Wallet",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
    "exact": true
   },
   "Google DeepMind": {
@@ -4202,8 +4214,8 @@
    "exact": true
   },
   "Google Research": {
-   "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
-   "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+   "title": "Advancing science & engineering with Antigravity’s /teamwork",
+   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
    "exact": true
   },
   "Microsoft Research": {
@@ -4232,13 +4244,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
    "exact": true
   },
   "Anthropic": {
-   "title": "Roadshow Launch",
-   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "title": "Building Strong Safety Evaluations",
+   "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
    "exact": false
   },
   "Mistral": {
@@ -4247,8 +4259,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-   "url": "https://allenai.org/blog/toyblocks",
+   "title": "XYBench: Helping with the problem behind the question",
+   "url": "https://allenai.org/blog/xybench",
    "exact": true
   },
   "Thinking Machines": {
@@ -4257,8 +4269,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Migrate Effortlessly to the Databricks Lakehouse with Genie Migrate, now Generally Available",
-   "url": "https://www.databricks.com/blog/genie-migrate-for-lakehouse-generally-available",
+   "title": "Apache Spark vs Apache Flink: which should you use?",
+   "url": "https://www.databricks.com/blog/spark-vs-flink",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4302,13 +4314,13 @@
    "exact": true
   },
   "a16z crypto": {
-   "title": "Building networks for agents",
-   "url": "https://a16zfrontier.com/posts/article/building-networks-for-agents/",
+   "title": "James Gleick on The Telephone: A New History",
+   "url": "https://a16zfrontier.com/posts/article/james-gleick-telephone/",
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+   "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -4317,29 +4329,33 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Mo’ Data, Mo’ Problems",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/selway-remarks-baruch-college-conference-111326",
+   "title": "Statement on Proposing Release for Executive Compensation Disclosure Reform",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-proposing-release-executive-compensation-disclosure-reform-111326",
    "exact": true
   }
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 9,
-  "sent": 58,
+  "runs": 10,
+  "sent": 70,
   "by_source": {
-   "OpenAI": 9,
-   "Hugging Face (blog)": 5,
+   "OpenAI": 10,
+   "Hugging Face (blog)": 7,
    "Delving Bitcoin": 3,
    "IBM Research": 5,
    "Firedancer (releases)": 3,
    "Google DeepMind": 3,
-   "Google Research": 1,
+   "Google Research": 2,
    "Apple ML Research": 4,
    "Amazon Science": 1,
-   "Databricks": 19,
-   "SEC Speeches & Statements": 3,
+   "Databricks": 21,
+   "SEC Speeches & Statements": 5,
    "Microsoft Research": 1,
-   "Bitcoin Optech": 1
+   "Bitcoin Optech": 1,
+   "Anthropic": 1,
+   "Allen AI": 1,
+   "a16z crypto": 1,
+   "SEC Press Releases": 1
   }
  }
 }
