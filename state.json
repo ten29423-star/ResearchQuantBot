@@ -3951,7 +3951,8 @@
    "https://delvingbitcoin.org/t/tulip-permissionless-decentralized-identity/3050",
    "https://delvingbitcoin.org/t/should-wallets-default-to-taproot-or-segwit-receive-addresses-while-some-services-still-reject-bc1p/3056",
    "https://delvingbitcoin.org/t/disclosure-memory-exhaustion-dos-in-eclair-0-14-0/3057",
-   "https://delvingbitcoin.org/t/decentralized-coinbase-payout-protocols-dcpp-a-framework-for-discussion/3060"
+   "https://delvingbitcoin.org/t/decentralized-coinbase-payout-protocols-dcpp-a-framework-for-discussion/3060",
+   "https://delvingbitcoin.org/t/bip-draft-post-quantum-address-format-bc1z-using-ml-dsa-65/3067"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4171,7 +4172,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 62,
+  "Solana News": 63,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4290,8 +4291,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Decentralized Coinbase Payout Protocols (DCPP): A Framework for Discussion",
-   "url": "https://delvingbitcoin.org/t/decentralized-coinbase-payout-protocols-dcpp-a-framework-for-discussion/3060",
+   "title": "BIP Draft Post-Quantum Address Format (bc1z) using ML-DSA-65",
+   "url": "https://delvingbitcoin.org/t/bip-draft-post-quantum-address-format-bc1z-using-ml-dsa-65/3067",
    "exact": true
   },
   "a16z crypto": {
@@ -4317,12 +4318,12 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 7,
-  "sent": 51,
+  "runs": 8,
+  "sent": 52,
   "by_source": {
    "OpenAI": 9,
    "Hugging Face (blog)": 4,
-   "Delving Bitcoin": 1,
+   "Delving Bitcoin": 2,
    "IBM Research": 5,
    "Firedancer (releases)": 3,
    "Google DeepMind": 2,
