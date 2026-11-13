@@ -1506,7 +1506,8 @@
    "https://deepmind.google/blog/introducing-alphaproof-code",
    "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-   "https://deepmind.google/blog/introducing-gemini-4-hydrogen"
+   "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+   "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -2692,7 +2693,8 @@
    "https://huggingface.co/blog/qvac/botpsy",
    "https://huggingface.co/blog/token-pooling",
    "https://huggingface.co/blog/3d-lora-finetuning",
-   "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+   "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3478,7 +3480,8 @@
    "https://databricks.com/genie-migrate-for-lakehouse-generally-available",
    "https://databricks.com/blog/eclipse-aerospace-simplifies-flight-data-ingestion-databricks",
    "https://databricks.com/blog/how-constellation-building-governed-data-foundation-databricks",
-   "https://databricks.com/blog/dispelling-ltap-myths"
+   "https://databricks.com/blog/dispelling-ltap-myths",
+   "https://databricks.com/blog/genie-migrate-for-lakehouse-generally-available"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3803,7 +3806,8 @@
    "https://bitcoinops.org/en/newsletters/2026/10/30",
    "https://bitcoinops.org/en/podcast/2026/11/03",
    "https://bitcoinops.org/en/newsletters/2026/11/06",
-   "https://bitcoinops.org/en/podcast/2026/11/10"
+   "https://bitcoinops.org/en/podcast/2026/11/10",
+   "https://bitcoinops.org/en/newsletters/2026/11/13"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3952,7 +3956,8 @@
    "https://delvingbitcoin.org/t/should-wallets-default-to-taproot-or-segwit-receive-addresses-while-some-services-still-reject-bc1p/3056",
    "https://delvingbitcoin.org/t/disclosure-memory-exhaustion-dos-in-eclair-0-14-0/3057",
    "https://delvingbitcoin.org/t/decentralized-coinbase-payout-protocols-dcpp-a-framework-for-discussion/3060",
-   "https://delvingbitcoin.org/t/bip-draft-post-quantum-address-format-bc1z-using-ml-dsa-65/3067"
+   "https://delvingbitcoin.org/t/bip-draft-post-quantum-address-format-bc1z-using-ml-dsa-65/3067",
+   "https://delvingbitcoin.org/t/a-stark-proof-of-bitcoins-utxo-set-at-block-972-500-with-circuits-proven-in-lean/3070"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4126,7 +4131,8 @@
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-super-intelligence-110926",
    "https://sec.gov/newsroom/speeches-statements/woodcock-remarks-aa-sommer-lecture-111026",
    "https://sec.gov/newsroom/speeches-statements/white-economics-attention-nacd-111126",
-   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-2026-cfri-conference-111226-remarks-2026-corporate-financial-reporting-insights-cfri-conference"
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-2026-cfri-conference-111226-remarks-2026-corporate-financial-reporting-insights-cfri-conference",
+   "https://sec.gov/newsroom/speeches-statements/selway-remarks-baruch-college-conference-111326"
   ]
  },
  "feeds": {
@@ -4172,7 +4178,7 @@
   "Thinking Machines": 0,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 63,
+  "Solana News": 64,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4191,8 +4197,8 @@
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Introducing Gemini 4 Hydrogen",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "title": "Opening the datasets behind our AI weather models",
+   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
    "exact": true
   },
   "Google Research": {
@@ -4226,8 +4232,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
    "exact": true
   },
   "Anthropic": {
@@ -4251,8 +4257,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Dispelling LTAP myths",
-   "url": "https://www.databricks.com/blog/dispelling-ltap-myths",
+   "title": "Migrate Effortlessly to the Databricks Lakehouse with Genie Migrate, now Generally Available",
+   "url": "https://www.databricks.com/blog/genie-migrate-for-lakehouse-generally-available",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4281,8 +4287,8 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #430 Recap Podcast",
-   "url": "https://bitcoinops.org/en/podcast/2026/11/10/",
+   "title": "Bitcoin Optech Newsletter #431",
+   "url": "https://bitcoinops.org/en/newsletters/2026/11/13/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -4291,8 +4297,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "BIP Draft Post-Quantum Address Format (bc1z) using ML-DSA-65",
-   "url": "https://delvingbitcoin.org/t/bip-draft-post-quantum-address-format-bc1z-using-ml-dsa-65/3067",
+   "title": "A STARK proof of Bitcoin's UTXO set at block 972,500, with circuits proven in Lean",
+   "url": "https://delvingbitcoin.org/t/a-stark-proof-of-bitcoins-utxo-set-at-block-972-500-with-circuits-proven-in-lean/3070",
    "exact": true
   },
   "a16z crypto": {
@@ -4311,28 +4317,29 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Remarks at the 2026 Corporate Financial Reporting Insights (CFRI) Conference",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-2026-cfri-conference-111226-remarks-2026-corporate-financial-reporting-insights-cfri-conference",
+   "title": "Mo’ Data, Mo’ Problems",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/selway-remarks-baruch-college-conference-111326",
    "exact": true
   }
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 8,
-  "sent": 52,
+  "runs": 9,
+  "sent": 58,
   "by_source": {
    "OpenAI": 9,
-   "Hugging Face (blog)": 4,
-   "Delving Bitcoin": 2,
+   "Hugging Face (blog)": 5,
+   "Delving Bitcoin": 3,
    "IBM Research": 5,
    "Firedancer (releases)": 3,
-   "Google DeepMind": 2,
+   "Google DeepMind": 3,
    "Google Research": 1,
    "Apple ML Research": 4,
    "Amazon Science": 1,
-   "Databricks": 18,
-   "SEC Speeches & Statements": 2,
-   "Microsoft Research": 1
+   "Databricks": 19,
+   "SEC Speeches & Statements": 3,
+   "Microsoft Research": 1,
+   "Bitcoin Optech": 1
   }
  }
 }
