@@ -3966,7 +3966,8 @@
    "https://delvingbitcoin.org/t/disclosure-memory-exhaustion-dos-in-eclair-0-14-0/3057",
    "https://delvingbitcoin.org/t/decentralized-coinbase-payout-protocols-dcpp-a-framework-for-discussion/3060",
    "https://delvingbitcoin.org/t/bip-draft-post-quantum-address-format-bc1z-using-ml-dsa-65/3067",
-   "https://delvingbitcoin.org/t/a-stark-proof-of-bitcoins-utxo-set-at-block-972-500-with-circuits-proven-in-lean/3070"
+   "https://delvingbitcoin.org/t/a-stark-proof-of-bitcoins-utxo-set-at-block-972-500-with-circuits-proven-in-lean/3070",
+   "https://delvingbitcoin.org/t/disclosure-dos-vulnerability-fixed-in-core-lightning-v26-06-8/3072"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4188,10 +4189,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 4,
+  "Thinking Machines": 5,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 68,
+  "Solana News": 69,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4310,8 +4311,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "A STARK proof of Bitcoin's UTXO set at block 972,500, with circuits proven in Lean",
-   "url": "https://delvingbitcoin.org/t/a-stark-proof-of-bitcoins-utxo-set-at-block-972-500-with-circuits-proven-in-lean/3070",
+   "title": "Disclosure: DoS vulnerability fixed in Core Lightning v26.06.8",
+   "url": "https://delvingbitcoin.org/t/disclosure-dos-vulnerability-fixed-in-core-lightning-v26-06-8/3072",
    "exact": true
   },
   "a16z crypto": {
@@ -4337,12 +4338,12 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 13,
-  "sent": 71,
+  "runs": 14,
+  "sent": 72,
   "by_source": {
    "OpenAI": 11,
    "Hugging Face (blog)": 7,
-   "Delving Bitcoin": 3,
+   "Delving Bitcoin": 4,
    "IBM Research": 5,
    "Firedancer (releases)": 3,
    "Google DeepMind": 3,
