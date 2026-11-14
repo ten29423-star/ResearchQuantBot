@@ -1392,7 +1392,8 @@
    "https://openai.com/business/customer-stories/holidays-extras-codex",
    "https://openai.com/business/customer-stories/gondola",
    "https://openai.com/business/customer-stories/amplitude",
-   "https://openai.com/index/introducing-chatgpt-wallet"
+   "https://openai.com/index/introducing-chatgpt-wallet",
+   "https://openai.com/business/customer-stories/shield"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -4187,10 +4188,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 1,
+  "Thinking Machines": 2,
   "Databricks": 0,
-  "BAIR (Berkeley)": 1,
-  "Solana News": 65,
+  "BAIR (Berkeley)": 0,
+  "Solana News": 66,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4204,8 +4205,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Introducing ChatGPT Wallet",
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
    "exact": true
   },
   "Google DeepMind": {
@@ -4336,10 +4337,10 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 10,
-  "sent": 70,
+  "runs": 11,
+  "sent": 71,
   "by_source": {
-   "OpenAI": 10,
+   "OpenAI": 11,
    "Hugging Face (blog)": 7,
    "Delving Bitcoin": 3,
    "IBM Research": 5,
