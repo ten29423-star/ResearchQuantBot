@@ -4189,10 +4189,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 5,
+  "Thinking Machines": 6,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 69,
+  "Solana News": 70,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4338,7 +4338,7 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 14,
+  "runs": 15,
   "sent": 72,
   "by_source": {
    "OpenAI": 11,
