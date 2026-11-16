@@ -1393,7 +1393,9 @@
    "https://openai.com/business/customer-stories/gondola",
    "https://openai.com/business/customer-stories/amplitude",
    "https://openai.com/index/introducing-chatgpt-wallet",
-   "https://openai.com/business/customer-stories/shield"
+   "https://openai.com/business/customer-stories/shield",
+   "https://openai.com/index/our-new-blog-for-science",
+   "https://openai.com/index/step-toward-defining-the-standard-model"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3490,7 +3492,8 @@
    "https://databricks.com/blog/dispelling-ltap-myths",
    "https://databricks.com/blog/genie-migrate-for-lakehouse-generally-available",
    "https://databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
-   "https://databricks.com/blog/spark-vs-flink"
+   "https://databricks.com/blog/spark-vs-flink",
+   "https://databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3967,7 +3970,8 @@
    "https://delvingbitcoin.org/t/decentralized-coinbase-payout-protocols-dcpp-a-framework-for-discussion/3060",
    "https://delvingbitcoin.org/t/bip-draft-post-quantum-address-format-bc1z-using-ml-dsa-65/3067",
    "https://delvingbitcoin.org/t/a-stark-proof-of-bitcoins-utxo-set-at-block-972-500-with-circuits-proven-in-lean/3070",
-   "https://delvingbitcoin.org/t/disclosure-dos-vulnerability-fixed-in-core-lightning-v26-06-8/3072"
+   "https://delvingbitcoin.org/t/disclosure-dos-vulnerability-fixed-in-core-lightning-v26-06-8/3072",
+   "https://delvingbitcoin.org/t/silent-payments-for-electrum/3078"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4189,10 +4193,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 9,
+  "Thinking Machines": 10,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 73,
+  "Solana News": 74,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4206,8 +4210,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "url": "https://openai.com/business/customer-stories/shield",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
    "exact": true
   },
   "Google DeepMind": {
@@ -4271,8 +4275,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Apache Spark vs Apache Flink: which should you use?",
-   "url": "https://www.databricks.com/blog/spark-vs-flink",
+   "title": "Teach Genie One your workflows: The ultimate guide for skills in Genie One",
+   "url": "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4311,8 +4315,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Disclosure: DoS vulnerability fixed in Core Lightning v26.06.8",
-   "url": "https://delvingbitcoin.org/t/disclosure-dos-vulnerability-fixed-in-core-lightning-v26-06-8/3072",
+   "title": "Silent Payments for Electrum",
+   "url": "https://delvingbitcoin.org/t/silent-payments-for-electrum/3078",
    "exact": true
   },
   "a16z crypto": {
@@ -4338,19 +4342,19 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 18,
-  "sent": 72,
+  "runs": 19,
+  "sent": 76,
   "by_source": {
-   "OpenAI": 11,
+   "OpenAI": 13,
    "Hugging Face (blog)": 7,
-   "Delving Bitcoin": 4,
+   "Delving Bitcoin": 5,
    "IBM Research": 5,
    "Firedancer (releases)": 3,
    "Google DeepMind": 3,
    "Google Research": 2,
    "Apple ML Research": 4,
    "Amazon Science": 1,
-   "Databricks": 21,
+   "Databricks": 22,
    "SEC Speeches & Statements": 5,
    "Microsoft Research": 1,
    "Bitcoin Optech": 1,
