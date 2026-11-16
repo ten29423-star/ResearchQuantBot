@@ -1395,7 +1395,12 @@
    "https://openai.com/index/introducing-chatgpt-wallet",
    "https://openai.com/business/customer-stories/shield",
    "https://openai.com/index/our-new-blog-for-science",
-   "https://openai.com/index/step-toward-defining-the-standard-model"
+   "https://openai.com/index/step-toward-defining-the-standard-model",
+   "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "https://openai.com/index/the-kings-trust-and-openai",
+   "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "https://openai.com/index/lvmh-media-division-partnership"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1647,7 +1652,8 @@
    "https://microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset",
    "https://microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
    "https://microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
-   "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98"
+   "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98",
+   "https://microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -1768,7 +1774,9 @@
    "https://research.ibm.com/blog/dev-tools-qdc-2026",
    "https://research.ibm.com/blog/qdc-2026",
    "https://research.ibm.com/blog/path-to-starling",
-   "https://research.ibm.com/blog/spin-qubits-explained"
+   "https://research.ibm.com/blog/spin-qubits-explained",
+   "https://research.ibm.com/blog/pelagos",
+   "https://research.ibm.com/blog/sc26"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2701,7 +2709,8 @@
    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
    "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
    "https://huggingface.co/blog/allenai/xybench",
-   "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+   "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "https://huggingface.co/blog/openrouter"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3246,7 +3255,8 @@
    "https://anthropic.com/research/components-of-agent-memory",
    "https://anthropic.com/research/claude-electronics-design",
    "https://anthropic.com/news/roadshow-launch",
-   "https://anthropic.com/research/building-strong-safety-evaluations"
+   "https://anthropic.com/research/building-strong-safety-evaluations",
+   "https://anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3493,7 +3503,8 @@
    "https://databricks.com/blog/genie-migrate-for-lakehouse-generally-available",
    "https://databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
    "https://databricks.com/blog/spark-vs-flink",
-   "https://databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one"
+   "https://databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
+   "https://databricks.com/blog/databricks-leader-and-positioned-highest-execution-2026-gartnerr-magic-quadranttm-data"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3907,7 +3918,15 @@
    "https://github.com/bitcoin/bips/commit/d71d60687b4c250ae9c73c1cc29897dbd56e9903",
    "https://github.com/bitcoin/bips/commit/8882768f52627d5be9fa3eded1ed8c0dbd6be7d8",
    "https://github.com/bitcoin/bips/commit/ec7f9b44aa9e151f1add1fcaf1d575392886a05e",
-   "https://github.com/bitcoin/bips/commit/b34d9f751791d4feb22feff4f2ed00bcac83961b"
+   "https://github.com/bitcoin/bips/commit/b34d9f751791d4feb22feff4f2ed00bcac83961b",
+   "https://github.com/bitcoin/bips/commit/6e8dafd3c30ad008a954020df8cb72b3e3da696c",
+   "https://github.com/bitcoin/bips/commit/0ba8e56a029f4078272e14f6c5132454ed59a2d5",
+   "https://github.com/bitcoin/bips/commit/17affe28619e1c761c384c048229369518c12ea1",
+   "https://github.com/bitcoin/bips/commit/b7557f897af05da55ea72918d3c3c395daca4670",
+   "https://github.com/bitcoin/bips/commit/7cdaa7a183dda530df2b338c5df6f24ec691657f",
+   "https://github.com/bitcoin/bips/commit/83b770777a16f72de935e10bc535ec817a3ae43b",
+   "https://github.com/bitcoin/bips/commit/61a775497f821b5e985c132c3d5a01f9272d9d60",
+   "https://github.com/bitcoin/bips/commit/c0614759ed8c878c7ff45a1d0326e88711bab13e"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -3971,7 +3990,8 @@
    "https://delvingbitcoin.org/t/bip-draft-post-quantum-address-format-bc1z-using-ml-dsa-65/3067",
    "https://delvingbitcoin.org/t/a-stark-proof-of-bitcoins-utxo-set-at-block-972-500-with-circuits-proven-in-lean/3070",
    "https://delvingbitcoin.org/t/disclosure-dos-vulnerability-fixed-in-core-lightning-v26-06-8/3072",
-   "https://delvingbitcoin.org/t/silent-payments-for-electrum/3078"
+   "https://delvingbitcoin.org/t/silent-payments-for-electrum/3078",
+   "https://delvingbitcoin.org/t/toward-efficient-post-quantum-bitcoin-bridges/3079"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4193,10 +4213,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 11,
+  "Thinking Machines": 12,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 75,
+  "Solana News": 76,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4210,8 +4230,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "A step toward defining the Standard Model on a lattice",
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "url": "https://openai.com/index/lvmh-media-division-partnership",
    "exact": true
   },
   "Google DeepMind": {
@@ -4225,8 +4245,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "Microsoft Research Focus – Edition #98",
-   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+   "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+   "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -4245,18 +4265,18 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "What is a spin qubit?",
-   "url": "https://research.ibm.com/blog/spin-qubits-explained?utm_medium=rss&utm_source=rss",
+   "title": "SC26: IBM shows progress in bringing quantum & HPC together",
+   "url": "https://research.ibm.com/blog/sc26?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "url": "https://huggingface.co/blog/openrouter",
    "exact": true
   },
   "Anthropic": {
-   "title": "Building Strong Safety Evaluations",
-   "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+   "title": "Coordinated Vulnerability Disclosure Timelines",
+   "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
    "exact": false
   },
   "Mistral": {
@@ -4275,8 +4295,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Teach Genie One your workflows: The ultimate guide for skills in Genie One",
-   "url": "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
+   "title": "Databricks is a Leader and positioned highest in execution in the 2026 Gartner® Magic Quadrant™ for Data Lakehouse Platforms",
+   "url": "https://www.databricks.com/blog/databricks-leader-and-positioned-highest-execution-2026-gartnerr-magic-quadranttm-data",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4310,13 +4330,13 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2315 from fametrano/bip375-valid-table-row",
-   "url": "https://github.com/bitcoin/bips/commit/b34d9f751791d4feb22feff4f2ed00bcac83961b",
+   "title": "Merge pull request #2351 from jonasnick/bip-0327-test-vectors",
+   "url": "https://github.com/bitcoin/bips/commit/c0614759ed8c878c7ff45a1d0326e88711bab13e",
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Silent Payments for Electrum",
-   "url": "https://delvingbitcoin.org/t/silent-payments-for-electrum/3078",
+   "title": "Toward Efficient Post-Quantum Bitcoin Bridges",
+   "url": "https://delvingbitcoin.org/t/toward-efficient-post-quantum-bitcoin-bridges/3079",
    "exact": true
   },
   "a16z crypto": {
@@ -4342,26 +4362,27 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 20,
-  "sent": 76,
+  "runs": 21,
+  "sent": 96,
   "by_source": {
-   "OpenAI": 13,
-   "Hugging Face (blog)": 7,
-   "Delving Bitcoin": 5,
-   "IBM Research": 5,
+   "OpenAI": 18,
+   "Hugging Face (blog)": 8,
+   "Delving Bitcoin": 6,
+   "IBM Research": 7,
    "Firedancer (releases)": 3,
    "Google DeepMind": 3,
    "Google Research": 2,
    "Apple ML Research": 4,
    "Amazon Science": 1,
-   "Databricks": 22,
+   "Databricks": 23,
    "SEC Speeches & Statements": 5,
-   "Microsoft Research": 1,
+   "Microsoft Research": 2,
    "Bitcoin Optech": 1,
-   "Anthropic": 1,
+   "Anthropic": 2,
    "Allen AI": 1,
    "a16z crypto": 1,
-   "SEC Press Releases": 1
+   "SEC Press Releases": 1,
+   "Bitcoin BIPs": 8
   }
  }
 }
