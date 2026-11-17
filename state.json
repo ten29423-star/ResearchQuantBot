@@ -1404,7 +1404,9 @@
    "https://openai.com/business/customer-stories/holiday-extras-dots",
    "https://openai.com/index/science-at-the-frontier",
    "https://openai.com/index/strengthening-online-child-safety",
-   "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+   "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "https://openai.com/business/customer-stories/revolut",
+   "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -4228,10 +4230,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 13,
+  "Thinking Machines": 14,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 77,
+  "Solana News": 78,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4245,8 +4247,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Broadening access to AI for scientists",
-   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
    "exact": true
   },
   "Google DeepMind": {
@@ -4377,10 +4379,10 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 22,
-  "sent": 111,
+  "runs": 23,
+  "sent": 113,
   "by_source": {
-   "OpenAI": 22,
+   "OpenAI": 24,
    "Hugging Face (blog)": 8,
    "Delving Bitcoin": 6,
    "IBM Research": 7,
