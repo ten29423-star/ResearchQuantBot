@@ -1400,7 +1400,11 @@
    "https://openai.com/index/the-kings-trust-and-openai",
    "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
    "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "https://openai.com/index/lvmh-media-division-partnership"
+   "https://openai.com/index/lvmh-media-division-partnership",
+   "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "https://openai.com/index/science-at-the-frontier",
+   "https://openai.com/index/strengthening-online-child-safety",
+   "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1699,7 +1703,9 @@
    "https://machinelearning.apple.com/research/weighted-state-souping",
    "https://machinelearning.apple.com/research/gating-memorization-in-context",
    "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
-   "https://machinelearning.apple.com/research/theoretical-limits-alignment"
+   "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+   "https://machinelearning.apple.com/research/theory-evaluability",
+   "https://machinelearning.apple.com/research/private-evolution-clustering"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -3504,7 +3510,13 @@
    "https://databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
    "https://databricks.com/blog/spark-vs-flink",
    "https://databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
-   "https://databricks.com/blog/databricks-leader-and-positioned-highest-execution-2026-gartnerr-magic-quadranttm-data"
+   "https://databricks.com/blog/databricks-leader-and-positioned-highest-execution-2026-gartnerr-magic-quadranttm-data",
+   "https://databricks.com/blog/what-is-real-time-mode",
+   "https://databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
+   "https://databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
+   "https://databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
+   "https://databricks.com/blog/talk-your-clinical-data-unlocking-aws-healthlake-opensharing-and-genie-one",
+   "https://databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3926,7 +3938,9 @@
    "https://github.com/bitcoin/bips/commit/7cdaa7a183dda530df2b338c5df6f24ec691657f",
    "https://github.com/bitcoin/bips/commit/83b770777a16f72de935e10bc535ec817a3ae43b",
    "https://github.com/bitcoin/bips/commit/61a775497f821b5e985c132c3d5a01f9272d9d60",
-   "https://github.com/bitcoin/bips/commit/c0614759ed8c878c7ff45a1d0326e88711bab13e"
+   "https://github.com/bitcoin/bips/commit/c0614759ed8c878c7ff45a1d0326e88711bab13e",
+   "https://github.com/bitcoin/bips/commit/91fdd5d3aa9e9131c4109cf84891241d8dce7f3a",
+   "https://github.com/bitcoin/bips/commit/c1a652c7c6b6a93ff2a06a295d27cfb767294a63"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4170,7 +4184,8 @@
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-2026-cfri-conference-111226-remarks-2026-corporate-financial-reporting-insights-cfri-conference",
    "https://sec.gov/newsroom/speeches-statements/selway-remarks-baruch-college-conference-111326",
    "https://sec.gov/newsroom/speeches-statements/uyeda-statement-executive-compensation-111326",
-   "https://sec.gov/newsroom/speeches-statements/atkins-statement-proposing-release-executive-compensation-disclosure-reform-111326"
+   "https://sec.gov/newsroom/speeches-statements/atkins-statement-proposing-release-executive-compensation-disclosure-reform-111326",
+   "https://sec.gov/newsroom/speeches-statements/sanchez-nabl-workshop-101426"
   ]
  },
  "feeds": {
@@ -4213,10 +4228,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 12,
+  "Thinking Machines": 13,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 76,
+  "Solana News": 77,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4230,8 +4245,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-   "url": "https://openai.com/index/lvmh-media-division-partnership",
+   "title": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
    "exact": true
   },
   "Google DeepMind": {
@@ -4255,8 +4270,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "Theoretical Limits of Language Model Alignment",
-   "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+   "title": "Understanding Private Evolution as Learning-Augmented Clustering",
+   "url": "https://machinelearning.apple.com/research/private-evolution-clustering",
    "exact": true
   },
   "Amazon Science": {
@@ -4295,8 +4310,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Databricks is a Leader and positioned highest in execution in the 2026 Gartner® Magic Quadrant™ for Data Lakehouse Platforms",
-   "url": "https://www.databricks.com/blog/databricks-leader-and-positioned-highest-execution-2026-gartnerr-magic-quadranttm-data",
+   "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
+   "url": "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4330,8 +4345,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2351 from jonasnick/bip-0327-test-vectors",
-   "url": "https://github.com/bitcoin/bips/commit/c0614759ed8c878c7ff45a1d0326e88711bab13e",
+   "title": "Merge pull request #2240 from guggero/bip379-test-vectors",
+   "url": "https://github.com/bitcoin/bips/commit/c1a652c7c6b6a93ff2a06a295d27cfb767294a63",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4355,34 +4370,34 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Statement on Proposing Release for Executive Compensation Disclosure Reform",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-proposing-release-executive-compensation-disclosure-reform-111326",
+   "title": "Considering the Materiality of Financial Information in Municipal Disclosure",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/sanchez-nabl-workshop-101426",
    "exact": true
   }
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 21,
-  "sent": 96,
+  "runs": 22,
+  "sent": 111,
   "by_source": {
-   "OpenAI": 18,
+   "OpenAI": 22,
    "Hugging Face (blog)": 8,
    "Delving Bitcoin": 6,
    "IBM Research": 7,
    "Firedancer (releases)": 3,
    "Google DeepMind": 3,
    "Google Research": 2,
-   "Apple ML Research": 4,
+   "Apple ML Research": 6,
    "Amazon Science": 1,
-   "Databricks": 23,
-   "SEC Speeches & Statements": 5,
+   "Databricks": 29,
+   "SEC Speeches & Statements": 6,
    "Microsoft Research": 2,
    "Bitcoin Optech": 1,
    "Anthropic": 2,
    "Allen AI": 1,
    "a16z crypto": 1,
    "SEC Press Releases": 1,
-   "Bitcoin BIPs": 8
+   "Bitcoin BIPs": 10
   }
  }
 }
