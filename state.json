@@ -1406,7 +1406,12 @@
    "https://openai.com/index/strengthening-online-child-safety",
    "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
    "https://openai.com/business/customer-stories/revolut",
-   "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+   "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "https://openai.com/ads/customers/vistaprint",
+   "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+   "https://openai.com/index/astra-law-6-2",
+   "https://openai.com/index/introducing-openai-for-chile",
+   "https://openai.com/index/introducing-gpt-6-2-astra-sol"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1659,7 +1664,8 @@
    "https://microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
    "https://microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
    "https://microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98",
-   "https://microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient"
+   "https://microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+   "https://microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future"
   ],
   "NVIDIA Research": [
    "https://blogs.nvidia.com/blog/open-models-icml-2026",
@@ -1784,7 +1790,8 @@
    "https://research.ibm.com/blog/path-to-starling",
    "https://research.ibm.com/blog/spin-qubits-explained",
    "https://research.ibm.com/blog/pelagos",
-   "https://research.ibm.com/blog/sc26"
+   "https://research.ibm.com/blog/sc26",
+   "https://research.ibm.com/blog/how-low-sWaP-radar-is-making-sensing-smarter"
   ],
   "Hugging Face (blog)": [
    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -3518,7 +3525,11 @@
    "https://databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
    "https://databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
    "https://databricks.com/blog/talk-your-clinical-data-unlocking-aws-healthlake-opensharing-and-genie-one",
-   "https://databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0"
+   "https://databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
+   "https://databricks.com/blog/built-object-storage-served-cache",
+   "https://databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms",
+   "https://databricks.com/blog/advancing-catalog-interoperability-unity-catalog-and-google-clouds-borderless-lakehouse",
+   "https://databricks.com/blog/new-azure-databricks-azure-government-now-beta"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3942,7 +3953,9 @@
    "https://github.com/bitcoin/bips/commit/61a775497f821b5e985c132c3d5a01f9272d9d60",
    "https://github.com/bitcoin/bips/commit/c0614759ed8c878c7ff45a1d0326e88711bab13e",
    "https://github.com/bitcoin/bips/commit/91fdd5d3aa9e9131c4109cf84891241d8dce7f3a",
-   "https://github.com/bitcoin/bips/commit/c1a652c7c6b6a93ff2a06a295d27cfb767294a63"
+   "https://github.com/bitcoin/bips/commit/c1a652c7c6b6a93ff2a06a295d27cfb767294a63",
+   "https://github.com/bitcoin/bips/commit/a53289ff9b544f4db5e0c0d32bff22b39fb90904",
+   "https://github.com/bitcoin/bips/commit/e373a69b96c03329cbf4196cb236a2dec4353154"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4077,7 +4090,8 @@
    "https://a16zfrontier.com/posts/article/reusable-networks-as-moat",
    "https://a16zfrontier.com/posts/article/prediction-markets-biggest-month-3-charts",
    "https://a16zfrontier.com/posts/article/building-networks-for-agents",
-   "https://a16zfrontier.com/posts/article/james-gleick-telephone"
+   "https://a16zfrontier.com/posts/article/james-gleick-telephone",
+   "https://a16zfrontier.com/posts/article/enterprises-need-more-than-payments"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -4230,10 +4244,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 14,
+  "Thinking Machines": 15,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 78,
+  "Solana News": 79,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4247,8 +4261,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Strengthening NATO and allied cyber defenses with AI",
-   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
    "exact": true
   },
   "Google DeepMind": {
@@ -4262,8 +4276,8 @@
    "exact": true
   },
   "Microsoft Research": {
-   "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-   "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+   "title": "Can AI help build a healthier future?",
+   "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
    "exact": true
   },
   "NVIDIA Research": {
@@ -4282,8 +4296,8 @@
    "exact": true
   },
   "IBM Research": {
-   "title": "SC26: IBM shows progress in bringing quantum & HPC together",
-   "url": "https://research.ibm.com/blog/sc26?utm_medium=rss&utm_source=rss",
+   "title": "How low-SWaP radar is making sophisticated sensing smarter",
+   "url": "https://research.ibm.com/blog/how-low-sWaP-radar-is-making-sensing-smarter?utm_medium=rss&utm_source=rss",
    "exact": true
   },
   "Hugging Face (blog)": {
@@ -4312,8 +4326,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
-   "url": "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
+   "title": "The new Azure Databricks on Azure Government is now in Beta",
+   "url": "https://www.databricks.com/blog/new-azure-databricks-azure-government-now-beta",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4347,8 +4361,8 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2240 from guggero/bip379-test-vectors",
-   "url": "https://github.com/bitcoin/bips/commit/c1a652c7c6b6a93ff2a06a295d27cfb767294a63",
+   "title": "Merge pull request #2356 from ajtowns/202611-bip95-genesis",
+   "url": "https://github.com/bitcoin/bips/commit/e373a69b96c03329cbf4196cb236a2dec4353154",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4357,8 +4371,8 @@
    "exact": true
   },
   "a16z crypto": {
-   "title": "James Gleick on The Telephone: A New History",
-   "url": "https://a16zfrontier.com/posts/article/james-gleick-telephone/",
+   "title": "Enterprises need more than payments to put agents to work",
+   "url": "https://a16zfrontier.com/posts/article/enterprises-need-more-than-payments/",
    "exact": true
   },
   "SEC Press Releases": {
@@ -4379,27 +4393,27 @@
  },
  "weekly": {
   "since": 1794355883.027225,
-  "runs": 23,
-  "sent": 113,
+  "runs": 24,
+  "sent": 127,
   "by_source": {
-   "OpenAI": 24,
+   "OpenAI": 29,
    "Hugging Face (blog)": 8,
    "Delving Bitcoin": 6,
-   "IBM Research": 7,
+   "IBM Research": 8,
    "Firedancer (releases)": 3,
    "Google DeepMind": 3,
    "Google Research": 2,
    "Apple ML Research": 6,
    "Amazon Science": 1,
-   "Databricks": 29,
+   "Databricks": 33,
    "SEC Speeches & Statements": 6,
-   "Microsoft Research": 2,
+   "Microsoft Research": 3,
    "Bitcoin Optech": 1,
    "Anthropic": 2,
    "Allen AI": 1,
-   "a16z crypto": 1,
+   "a16z crypto": 2,
    "SEC Press Releases": 1,
-   "Bitcoin BIPs": 10
+   "Bitcoin BIPs": 12
   }
  }
 }
