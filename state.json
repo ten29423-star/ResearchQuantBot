@@ -1412,7 +1412,9 @@
    "https://openai.com/index/astra-law-6-2",
    "https://openai.com/index/introducing-openai-for-chile",
    "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "https://openai.com/index/introducing-chatgpt-for-sales"
+   "https://openai.com/index/introducing-chatgpt-for-sales",
+   "https://openai.com/index/advancing-chip-design-with-our-models",
+   "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -2727,7 +2729,10 @@
    "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
    "https://huggingface.co/blog/allenai/xybench",
    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-   "https://huggingface.co/blog/openrouter"
+   "https://huggingface.co/blog/openrouter",
+   "https://huggingface.co/blog/rumble-2-flash",
+   "https://huggingface.co/blog/moe-expert-streaming",
+   "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3408,7 +3413,8 @@
    "https://allenai.org/blog/statebench",
    "https://allenai.org/blog/google-climate-partnership",
    "https://allenai.org/blog/toyblocks",
-   "https://allenai.org/blog/xybench"
+   "https://allenai.org/blog/xybench",
+   "https://allenai.org/blog/taylor-geospatial-partnership"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3534,7 +3540,10 @@
    "https://databricks.com/blog/new-azure-databricks-azure-government-now-beta",
    "https://databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase",
    "https://databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
-   "https://databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75"
+   "https://databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
+   "https://databricks.com/blog/how-aumovio-centralized-ai-access-databricks-unity-gateway",
+   "https://databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel",
+   "https://databricks.com/blog/introducing-unity-gateway-insights"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4253,25 +4262,25 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 17,
+  "Thinking Machines": 18,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 81,
+  "Solana News": 82,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
   "Bitcoin Optech": 0,
   "Bitcoin BIPs": 0,
   "Delving Bitcoin": 0,
-  "a16z crypto": 0,
+  "a16z crypto": 1,
   "SEC Press Releases": 0,
   "SEC Trading Suspensions": 0,
   "SEC Speeches & Statements": 0
  },
  "last": {
   "OpenAI": {
-   "title": "Introducing ChatGPT for Sales",
-   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
    "exact": true
   },
   "Google DeepMind": {
@@ -4310,8 +4319,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-   "url": "https://huggingface.co/blog/openrouter",
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
    "exact": true
   },
   "Anthropic": {
@@ -4325,8 +4334,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "XYBench: Helping with the problem behind the question",
-   "url": "https://allenai.org/blog/xybench",
+   "title": "Ai2 and Taylor Geospatial partner to make geospatial AI easier to compare, run, and build on",
+   "url": "https://allenai.org/blog/taylor-geospatial-partnership",
    "exact": true
   },
   "Thinking Machines": {
@@ -4335,8 +4344,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "How we raised Databricks cluster rate limits by 7.5×",
-   "url": "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
+   "title": "Introducing Unity Gateway Insights",
+   "url": "https://www.databricks.com/blog/introducing-unity-gateway-insights",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4402,11 +4411,14 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 1,
-  "sent": 2,
+  "runs": 2,
+  "sent": 11,
   "by_source": {
-   "Databricks": 1,
-   "Delving Bitcoin": 1
+   "Databricks": 4,
+   "Delving Bitcoin": 1,
+   "OpenAI": 2,
+   "Hugging Face (blog)": 3,
+   "Allen AI": 1
   }
  }
 }
