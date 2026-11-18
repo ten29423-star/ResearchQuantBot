@@ -3533,7 +3533,8 @@
    "https://databricks.com/blog/advancing-catalog-interoperability-unity-catalog-and-google-clouds-borderless-lakehouse",
    "https://databricks.com/blog/new-azure-databricks-azure-government-now-beta",
    "https://databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase",
-   "https://databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026"
+   "https://databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
+   "https://databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4027,7 +4028,8 @@
    "https://delvingbitcoin.org/t/a-stark-proof-of-bitcoins-utxo-set-at-block-972-500-with-circuits-proven-in-lean/3070",
    "https://delvingbitcoin.org/t/disclosure-dos-vulnerability-fixed-in-core-lightning-v26-06-8/3072",
    "https://delvingbitcoin.org/t/silent-payments-for-electrum/3078",
-   "https://delvingbitcoin.org/t/toward-efficient-post-quantum-bitcoin-bridges/3079"
+   "https://delvingbitcoin.org/t/toward-efficient-post-quantum-bitcoin-bridges/3079",
+   "https://delvingbitcoin.org/t/how-much-btc-sits-behind-keys-or-scripts-already-on-chain-block-975-019/3088"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4251,10 +4253,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 16,
+  "Thinking Machines": 17,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 80,
+  "Solana News": 81,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4333,8 +4335,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Azure Databricks sessions at Microsoft Ignite 2026",
-   "url": "https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
+   "title": "How we raised Databricks cluster rate limits by 7.5×",
+   "url": "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4373,8 +4375,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Toward Efficient Post-Quantum Bitcoin Bridges",
-   "url": "https://delvingbitcoin.org/t/toward-efficient-post-quantum-bitcoin-bridges/3079",
+   "title": "How much BTC sits behind keys or scripts already on chain (block 975,019)",
+   "url": "https://delvingbitcoin.org/t/how-much-btc-sits-behind-keys-or-scripts-already-on-chain-block-975-019/3088",
    "exact": true
   },
   "a16z crypto": {
@@ -4400,8 +4402,11 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 0,
-  "sent": 0,
-  "by_source": {}
+  "runs": 1,
+  "sent": 2,
+  "by_source": {
+   "Databricks": 1,
+   "Delving Bitcoin": 1
+  }
  }
 }
