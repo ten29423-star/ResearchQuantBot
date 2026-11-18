@@ -1411,7 +1411,8 @@
    "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
    "https://openai.com/index/astra-law-6-2",
    "https://openai.com/index/introducing-openai-for-chile",
-   "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+   "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "https://openai.com/index/introducing-chatgpt-for-sales"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1713,7 +1714,8 @@
    "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
    "https://machinelearning.apple.com/research/theoretical-limits-alignment",
    "https://machinelearning.apple.com/research/theory-evaluability",
-   "https://machinelearning.apple.com/research/private-evolution-clustering"
+   "https://machinelearning.apple.com/research/private-evolution-clustering",
+   "https://machinelearning.apple.com/research/split-scale-latent-3d"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -3529,7 +3531,9 @@
    "https://databricks.com/blog/built-object-storage-served-cache",
    "https://databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms",
    "https://databricks.com/blog/advancing-catalog-interoperability-unity-catalog-and-google-clouds-borderless-lakehouse",
-   "https://databricks.com/blog/new-azure-databricks-azure-government-now-beta"
+   "https://databricks.com/blog/new-azure-databricks-azure-government-now-beta",
+   "https://databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase",
+   "https://databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3855,7 +3859,8 @@
    "https://bitcoinops.org/en/podcast/2026/11/03",
    "https://bitcoinops.org/en/newsletters/2026/11/06",
    "https://bitcoinops.org/en/podcast/2026/11/10",
-   "https://bitcoinops.org/en/newsletters/2026/11/13"
+   "https://bitcoinops.org/en/newsletters/2026/11/13",
+   "https://bitcoinops.org/en/podcast/2026/11/17"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -3955,7 +3960,9 @@
    "https://github.com/bitcoin/bips/commit/91fdd5d3aa9e9131c4109cf84891241d8dce7f3a",
    "https://github.com/bitcoin/bips/commit/c1a652c7c6b6a93ff2a06a295d27cfb767294a63",
    "https://github.com/bitcoin/bips/commit/a53289ff9b544f4db5e0c0d32bff22b39fb90904",
-   "https://github.com/bitcoin/bips/commit/e373a69b96c03329cbf4196cb236a2dec4353154"
+   "https://github.com/bitcoin/bips/commit/e373a69b96c03329cbf4196cb236a2dec4353154",
+   "https://github.com/bitcoin/bips/commit/1672ae28e31f8600444a165363053de9dda8989e",
+   "https://github.com/bitcoin/bips/commit/a7f91321f25b5be8d93e901775621c21519e80b7"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4244,10 +4251,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 15,
+  "Thinking Machines": 16,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 79,
+  "Solana News": 80,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4261,8 +4268,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "title": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
    "exact": true
   },
   "Google DeepMind": {
@@ -4286,8 +4293,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "Understanding Private Evolution as Learning-Augmented Clustering",
-   "url": "https://machinelearning.apple.com/research/private-evolution-clustering",
+   "title": "Split-and-Scale Latent 3D Representations",
+   "url": "https://machinelearning.apple.com/research/split-scale-latent-3d",
    "exact": true
   },
   "Amazon Science": {
@@ -4326,8 +4333,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "The new Azure Databricks on Azure Government is now in Beta",
-   "url": "https://www.databricks.com/blog/new-azure-databricks-azure-government-now-beta",
+   "title": "Azure Databricks sessions at Microsoft Ignite 2026",
+   "url": "https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4356,13 +4363,13 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #431",
-   "url": "https://bitcoinops.org/en/newsletters/2026/11/13/",
+   "title": "Bitcoin Optech Newsletter #431 Recap Podcast",
+   "url": "https://bitcoinops.org/en/podcast/2026/11/17/",
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2356 from ajtowns/202611-bip95-genesis",
-   "url": "https://github.com/bitcoin/bips/commit/e373a69b96c03329cbf4196cb236a2dec4353154",
+   "title": "Merge pull request #2359 from murchandamus/2026-11-advance-miniscript",
+   "url": "https://github.com/bitcoin/bips/commit/a7f91321f25b5be8d93e901775621c21519e80b7",
    "exact": true
   },
   "Delving Bitcoin": {
@@ -4392,28 +4399,9 @@
   }
  },
  "weekly": {
-  "since": 1794355883.027225,
-  "runs": 24,
-  "sent": 127,
-  "by_source": {
-   "OpenAI": 29,
-   "Hugging Face (blog)": 8,
-   "Delving Bitcoin": 6,
-   "IBM Research": 8,
-   "Firedancer (releases)": 3,
-   "Google DeepMind": 3,
-   "Google Research": 2,
-   "Apple ML Research": 6,
-   "Amazon Science": 1,
-   "Databricks": 33,
-   "SEC Speeches & Statements": 6,
-   "Microsoft Research": 3,
-   "Bitcoin Optech": 1,
-   "Anthropic": 2,
-   "Allen AI": 1,
-   "a16z crypto": 2,
-   "SEC Press Releases": 1,
-   "Bitcoin BIPs": 12
-  }
+  "since": 1794964204.0087714,
+  "runs": 0,
+  "sent": 0,
+  "by_source": {}
  }
 }
