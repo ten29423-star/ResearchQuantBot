@@ -1419,7 +1419,8 @@
    "https://openai.com/index/inside-the-codex-sandbox",
    "https://openai.com/business/customer-stories/sumitomo-life",
    "https://openai.com/index/research-acceleration-jagged-frontier",
-   "https://openai.com/index/the-silent-consensus"
+   "https://openai.com/index/the-silent-consensus",
+   "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1651,7 +1652,8 @@
    "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
    "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer",
    "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
-   "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature"
+   "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+   "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -1724,7 +1726,8 @@
    "https://machinelearning.apple.com/research/theoretical-limits-alignment",
    "https://machinelearning.apple.com/research/theory-evaluability",
    "https://machinelearning.apple.com/research/private-evolution-clustering",
-   "https://machinelearning.apple.com/research/split-scale-latent-3d"
+   "https://machinelearning.apple.com/research/split-scale-latent-3d",
+   "https://machinelearning.apple.com/research/differentially-private-selection"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -3560,7 +3563,12 @@
    "https://databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
    "https://databricks.com/blog/customerlake-conversions",
    "https://databricks.com/blog/introducing-genie-migrate-serverless",
-   "https://databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code"
+   "https://databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
+   "https://databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment",
+   "https://databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks",
+   "https://databricks.com/blog/ai-architecture-patterns-regulated-industries",
+   "https://databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
+   "https://databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4163,7 +4171,8 @@
    "https://sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
    "https://sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
    "https://sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
-   "https://sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
+   "https://sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+   "https://sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -4237,7 +4246,9 @@
    "https://sec.gov/newsroom/speeches-statements/selway-remarks-baruch-college-conference-111326",
    "https://sec.gov/newsroom/speeches-statements/uyeda-statement-executive-compensation-111326",
    "https://sec.gov/newsroom/speeches-statements/atkins-statement-proposing-release-executive-compensation-disclosure-reform-111326",
-   "https://sec.gov/newsroom/speeches-statements/sanchez-nabl-workshop-101426"
+   "https://sec.gov/newsroom/speeches-statements/sanchez-nabl-workshop-101426",
+   "https://sec.gov/newsroom/speeches-statements/atkins-remarks-compliance-outreach-program-111926",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-american-bar-association-meeting-111926"
   ]
  },
  "feeds": {
@@ -4280,10 +4291,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 21,
+  "Thinking Machines": 22,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 85,
+  "Solana News": 86,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4297,8 +4308,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "The Silent Consensus",
-   "url": "https://openai.com/index/the-silent-consensus",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
    "exact": true
   },
   "Google DeepMind": {
@@ -4307,8 +4318,8 @@
    "exact": true
   },
   "Google Research": {
-   "title": "Advancing science & engineering with Antigravity’s /teamwork",
-   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "title": "A game you cannot win unless you have a quantum computer",
+   "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
    "exact": true
   },
   "Microsoft Research": {
@@ -4322,8 +4333,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "Split-and-Scale Latent 3D Representations",
-   "url": "https://machinelearning.apple.com/research/split-scale-latent-3d",
+   "title": "Complexity of Differentially Private Selection via Federated APIs",
+   "url": "https://machinelearning.apple.com/research/differentially-private-selection",
    "exact": true
   },
   "Amazon Science": {
@@ -4362,8 +4373,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Bulk migrate your dashboards to AI/BI with Genie Code",
-   "url": "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
+   "title": "Genie ZeroOps, now in public beta: An autonomous agent that fixes data pipelines, with lessons from 80,000 customer issues",
+   "url": "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4412,8 +4423,8 @@
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+   "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -4422,25 +4433,29 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Considering the Materiality of Financial Information in Municipal Disclosure",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/sanchez-nabl-workshop-101426",
+   "title": "Remarks to the American Bar Association Federal Regulation of Securities Winter Meeting",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-american-bar-association-meeting-111926",
    "exact": true
   }
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 5,
-  "sent": 29,
+  "runs": 6,
+  "sent": 40,
   "by_source": {
-   "Databricks": 8,
+   "Databricks": 13,
    "Delving Bitcoin": 1,
-   "OpenAI": 7,
+   "OpenAI": 8,
    "Hugging Face (blog)": 5,
    "Allen AI": 2,
    "Google DeepMind": 2,
    "Amazon Science": 1,
    "Anthropic": 2,
-   "a16z crypto": 1
+   "a16z crypto": 1,
+   "Google Research": 1,
+   "Apple ML Research": 1,
+   "SEC Press Releases": 1,
+   "SEC Speeches & Statements": 2
   }
  }
 }
