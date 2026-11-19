@@ -3555,7 +3555,8 @@
    "https://databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
    "https://databricks.com/blog/how-aumovio-centralized-ai-access-databricks-unity-gateway",
    "https://databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel",
-   "https://databricks.com/blog/introducing-unity-gateway-insights"
+   "https://databricks.com/blog/introducing-unity-gateway-insights",
+   "https://databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4275,10 +4276,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 19,
+  "Thinking Machines": 20,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 83,
+  "Solana News": 84,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4357,8 +4358,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Introducing Unity Gateway Insights",
-   "url": "https://www.databricks.com/blog/introducing-unity-gateway-insights",
+   "title": "Databricks Wins A-Team Award for AI in Capital Markets",
+   "url": "https://www.databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4424,10 +4425,10 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 3,
-  "sent": 24,
+  "runs": 4,
+  "sent": 25,
   "by_source": {
-   "Databricks": 4,
+   "Databricks": 5,
    "Delving Bitcoin": 1,
    "OpenAI": 7,
    "Hugging Face (blog)": 5,
