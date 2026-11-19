@@ -3426,7 +3426,8 @@
    "https://allenai.org/blog/google-climate-partnership",
    "https://allenai.org/blog/toyblocks",
    "https://allenai.org/blog/xybench",
-   "https://allenai.org/blog/taylor-geospatial-partnership"
+   "https://allenai.org/blog/taylor-geospatial-partnership",
+   "https://allenai.org/blog/theorizer-in-asta"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3556,7 +3557,10 @@
    "https://databricks.com/blog/how-aumovio-centralized-ai-access-databricks-unity-gateway",
    "https://databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel",
    "https://databricks.com/blog/introducing-unity-gateway-insights",
-   "https://databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0"
+   "https://databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
+   "https://databricks.com/blog/customerlake-conversions",
+   "https://databricks.com/blog/introducing-genie-migrate-serverless",
+   "https://databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4276,10 +4280,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 20,
+  "Thinking Machines": 21,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 84,
+  "Solana News": 85,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4348,8 +4352,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "Ai2 and Taylor Geospatial partner to make geospatial AI easier to compare, run, and build on",
-   "url": "https://allenai.org/blog/taylor-geospatial-partnership",
+   "title": "Theorizer comes to Asta",
+   "url": "https://allenai.org/blog/theorizer-in-asta",
    "exact": true
   },
   "Thinking Machines": {
@@ -4358,8 +4362,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Databricks Wins A-Team Award for AI in Capital Markets",
-   "url": "https://www.databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
+   "title": "Bulk migrate your dashboards to AI/BI with Genie Code",
+   "url": "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4425,14 +4429,14 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 4,
-  "sent": 25,
+  "runs": 5,
+  "sent": 29,
   "by_source": {
-   "Databricks": 5,
+   "Databricks": 8,
    "Delving Bitcoin": 1,
    "OpenAI": 7,
    "Hugging Face (blog)": 5,
-   "Allen AI": 1,
+   "Allen AI": 2,
    "Google DeepMind": 2,
    "Amazon Science": 1,
    "Anthropic": 2,
