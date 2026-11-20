@@ -3297,7 +3297,8 @@
    "https://anthropic.com/research/building-strong-safety-evaluations",
    "https://anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
    "https://anthropic.com/research/claude-black-hole-physics",
-   "https://anthropic.com/news/anthropic-prices-initial-public-offering"
+   "https://anthropic.com/news/anthropic-prices-initial-public-offering",
+   "https://anthropic.com/news/ipo-close"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3902,7 +3903,8 @@
    "https://bitcoinops.org/en/newsletters/2026/11/06",
    "https://bitcoinops.org/en/podcast/2026/11/10",
    "https://bitcoinops.org/en/newsletters/2026/11/13",
-   "https://bitcoinops.org/en/podcast/2026/11/17"
+   "https://bitcoinops.org/en/podcast/2026/11/17",
+   "https://bitcoinops.org/en/newsletters/2026/11/20"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -4298,10 +4300,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 23,
+  "Thinking Machines": 24,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 87,
+  "Solana News": 88,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4360,8 +4362,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Anthropic Prices Initial Public Offering",
-   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "title": "Ipo Close",
+   "url": "https://www.anthropic.com/news/ipo-close",
    "exact": false
   },
   "Mistral": {
@@ -4410,8 +4412,8 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #431 Recap Podcast",
-   "url": "https://bitcoinops.org/en/podcast/2026/11/17/",
+   "title": "Bitcoin Optech Newsletter #432",
+   "url": "https://bitcoinops.org/en/newsletters/2026/11/20/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -4447,8 +4449,8 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 7,
-  "sent": 47,
+  "runs": 8,
+  "sent": 49,
   "by_source": {
    "Databricks": 15,
    "Delving Bitcoin": 1,
@@ -4457,13 +4459,14 @@
    "Allen AI": 2,
    "Google DeepMind": 2,
    "Amazon Science": 1,
-   "Anthropic": 2,
+   "Anthropic": 3,
    "a16z crypto": 1,
    "Google Research": 1,
    "Apple ML Research": 1,
    "SEC Press Releases": 1,
    "SEC Speeches & Statements": 2,
-   "Solana SIMD": 1
+   "Solana SIMD": 1,
+   "Bitcoin Optech": 1
   }
  }
 }
