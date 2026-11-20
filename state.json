@@ -1424,7 +1424,10 @@
    "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
    "https://openai.com/business/learn/codex-security-plugin-demo",
    "https://openai.com/business/learn/pr-scans-demo",
-   "https://openai.com/business/learn/deploying-daybreak-red"
+   "https://openai.com/business/learn/deploying-daybreak-red",
+   "https://openai.com/index/introducing-medchembench",
+   "https://openai.com/business/customer-stories/hebbia",
+   "https://openai.com/index/combatting-adversarial-distillation"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -1731,7 +1734,8 @@
    "https://machinelearning.apple.com/research/theory-evaluability",
    "https://machinelearning.apple.com/research/private-evolution-clustering",
    "https://machinelearning.apple.com/research/split-scale-latent-3d",
-   "https://machinelearning.apple.com/research/differentially-private-selection"
+   "https://machinelearning.apple.com/research/differentially-private-selection",
+   "https://machinelearning.apple.com/research/depth-pro-2-monocular"
   ],
   "Amazon Science": [
    "https://amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
@@ -2749,7 +2753,9 @@
    "https://huggingface.co/blog/moe-expert-streaming",
    "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
    "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-   "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+   "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+   "https://huggingface.co/blog/harness-adapters-at-scale",
+   "https://huggingface.co/blog/inkling2mini"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3575,7 +3581,8 @@
    "https://databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
    "https://databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
    "https://databricks.com/blog/postgresql-19-available-lakebase",
-   "https://databricks.com/blog/why-postgresql-19-shipped-late"
+   "https://databricks.com/blog/why-postgresql-19-shipped-late",
+   "https://databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4006,7 +4013,8 @@
    "https://github.com/bitcoin/bips/commit/a53289ff9b544f4db5e0c0d32bff22b39fb90904",
    "https://github.com/bitcoin/bips/commit/e373a69b96c03329cbf4196cb236a2dec4353154",
    "https://github.com/bitcoin/bips/commit/1672ae28e31f8600444a165363053de9dda8989e",
-   "https://github.com/bitcoin/bips/commit/a7f91321f25b5be8d93e901775621c21519e80b7"
+   "https://github.com/bitcoin/bips/commit/a7f91321f25b5be8d93e901775621c21519e80b7",
+   "https://github.com/bitcoin/bips/commit/fdcd8024595bc1e97db73883e716dbb91627c371"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4072,7 +4080,8 @@
    "https://delvingbitcoin.org/t/disclosure-dos-vulnerability-fixed-in-core-lightning-v26-06-8/3072",
    "https://delvingbitcoin.org/t/silent-payments-for-electrum/3078",
    "https://delvingbitcoin.org/t/toward-efficient-post-quantum-bitcoin-bridges/3079",
-   "https://delvingbitcoin.org/t/how-much-btc-sits-behind-keys-or-scripts-already-on-chain-block-975-019/3088"
+   "https://delvingbitcoin.org/t/how-much-btc-sits-behind-keys-or-scripts-already-on-chain-block-975-019/3088",
+   "https://delvingbitcoin.org/t/post-quantum-recovery-framework/3099"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4144,7 +4153,8 @@
    "https://a16zfrontier.com/posts/article/building-networks-for-agents",
    "https://a16zfrontier.com/posts/article/james-gleick-telephone",
    "https://a16zfrontier.com/posts/article/enterprises-need-more-than-payments",
-   "https://a16zfrontier.com/posts/videos/ai-math-what-do-mathematicians-do"
+   "https://a16zfrontier.com/posts/videos/ai-math-what-do-mathematicians-do",
+   "https://a16zfrontier.com/posts/article/deceiving-ai-hacking-agents"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -4181,7 +4191,9 @@
    "https://sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
    "https://sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
    "https://sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
-   "https://sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
+   "https://sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+   "https://sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+   "https://sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -4257,7 +4269,9 @@
    "https://sec.gov/newsroom/speeches-statements/atkins-statement-proposing-release-executive-compensation-disclosure-reform-111326",
    "https://sec.gov/newsroom/speeches-statements/sanchez-nabl-workshop-101426",
    "https://sec.gov/newsroom/speeches-statements/atkins-remarks-compliance-outreach-program-111926",
-   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-american-bar-association-meeting-111926"
+   "https://sec.gov/newsroom/speeches-statements/uyeda-remarks-american-bar-association-meeting-111926",
+   "https://sec.gov/newsroom/speeches-statements/uyeda-statement-consolidated-audit-trail-112026",
+   "https://sec.gov/newsroom/speeches-statements/atkins-statement-proposal-restructure-consolidated-audit-trail-112026"
   ]
  },
  "feeds": {
@@ -4300,10 +4314,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 24,
+  "Thinking Machines": 25,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 88,
+  "Solana News": 89,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4317,8 +4331,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Deploying Daybreak Red",
-   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
    "exact": true
   },
   "Google DeepMind": {
@@ -4342,8 +4356,8 @@
    "exact": true
   },
   "Apple ML Research": {
-   "title": "Complexity of Differentially Private Selection via Federated APIs",
-   "url": "https://machinelearning.apple.com/research/differentially-private-selection",
+   "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+   "url": "https://machinelearning.apple.com/research/depth-pro-2-monocular",
    "exact": true
   },
   "Amazon Science": {
@@ -4357,8 +4371,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-   "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "url": "https://huggingface.co/blog/inkling2mini",
    "exact": true
   },
   "Anthropic": {
@@ -4382,8 +4396,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Why PostgreSQL 19 shipped late",
-   "url": "https://www.databricks.com/blog/why-postgresql-19-shipped-late",
+   "title": "Interactive Databricks Reference Architectures Across 70 Industries",
+   "url": "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4417,23 +4431,23 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2359 from murchandamus/2026-11-advance-miniscript",
-   "url": "https://github.com/bitcoin/bips/commit/a7f91321f25b5be8d93e901775621c21519e80b7",
+   "title": "Merge pull request #2301 from ajtowns/202609-set324id",
+   "url": "https://github.com/bitcoin/bips/commit/fdcd8024595bc1e97db73883e716dbb91627c371",
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "How much BTC sits behind keys or scripts already on chain (block 975,019)",
-   "url": "https://delvingbitcoin.org/t/how-much-btc-sits-behind-keys-or-scripts-already-on-chain-block-975-019/3088",
+   "title": "Post Quantum Recovery Framework",
+   "url": "https://delvingbitcoin.org/t/post-quantum-recovery-framework/3099",
    "exact": true
   },
   "a16z crypto": {
-   "title": "If AI can do the math, what do mathematicians do?",
-   "url": "https://a16zfrontier.com/posts/videos/ai-math-what-do-mathematicians-do/",
+   "title": "How I tricked a hacking agent into running my code",
+   "url": "https://a16zfrontier.com/posts/article/deceiving-ai-hacking-agents/",
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+   "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -4442,31 +4456,32 @@
    "exact": true
   },
   "SEC Speeches & Statements": {
-   "title": "Remarks to the American Bar Association Federal Regulation of Securities Winter Meeting",
-   "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-american-bar-association-meeting-111926",
+   "title": "Statement on Proposal to Restructure the Consolidated Audit Trail",
+   "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-proposal-restructure-consolidated-audit-trail-112026",
    "exact": true
   }
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 8,
-  "sent": 49,
+  "runs": 9,
+  "sent": 63,
   "by_source": {
-   "Databricks": 15,
-   "Delving Bitcoin": 1,
-   "OpenAI": 12,
-   "Hugging Face (blog)": 5,
+   "Databricks": 16,
+   "Delving Bitcoin": 2,
+   "OpenAI": 15,
+   "Hugging Face (blog)": 7,
    "Allen AI": 2,
    "Google DeepMind": 2,
    "Amazon Science": 1,
    "Anthropic": 3,
-   "a16z crypto": 1,
+   "a16z crypto": 2,
    "Google Research": 1,
-   "Apple ML Research": 1,
-   "SEC Press Releases": 1,
-   "SEC Speeches & Statements": 2,
+   "Apple ML Research": 2,
+   "SEC Press Releases": 3,
+   "SEC Speeches & Statements": 4,
    "Solana SIMD": 1,
-   "Bitcoin Optech": 1
+   "Bitcoin Optech": 1,
+   "Bitcoin BIPs": 1
   }
  }
 }
