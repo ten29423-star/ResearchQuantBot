@@ -1420,7 +1420,11 @@
    "https://openai.com/business/customer-stories/sumitomo-life",
    "https://openai.com/index/research-acceleration-jagged-frontier",
    "https://openai.com/index/the-silent-consensus",
-   "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+   "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "https://openai.com/business/learn/codex-security-plugin-demo",
+   "https://openai.com/business/learn/pr-scans-demo",
+   "https://openai.com/business/learn/deploying-daybreak-red"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3568,7 +3572,9 @@
    "https://databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks",
    "https://databricks.com/blog/ai-architecture-patterns-regulated-industries",
    "https://databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
-   "https://databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer"
+   "https://databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
+   "https://databricks.com/blog/postgresql-19-available-lakebase",
+   "https://databricks.com/blog/why-postgresql-19-shipped-late"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -3668,7 +3674,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/0434aab3b2c6b596f607194bee44e94088ff2591",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/540f6ab4b9b71b584eae4f00c156194308d6650e",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/809a97a0b0e0f2190fa5d494bcc5856a06907969",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/ae7b00f3287a614c5aa5d0a7ceb7bad0cdc4e022"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/ae7b00f3287a614c5aa5d0a7ceb7bad0cdc4e022",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/6cf17cb7138d3fac03f5b637c1fde91a00fb48fc"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -4291,10 +4298,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 22,
+  "Thinking Machines": 23,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 86,
+  "Solana News": 87,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4308,8 +4315,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "title": "Deploying Daybreak Red",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
    "exact": true
   },
   "Google DeepMind": {
@@ -4373,8 +4380,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Genie ZeroOps, now in public beta: An autonomous agent that fixes data pipelines, with lessons from 80,000 customer issues",
-   "url": "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
+   "title": "Why PostgreSQL 19 shipped late",
+   "url": "https://www.databricks.com/blog/why-postgresql-19-shipped-late",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4393,8 +4400,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0701: Vote Account v5 (#701)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/ae7b00f3287a614c5aa5d0a7ceb7bad0cdc4e022",
+   "title": "Amend 0529: charge a flat cu first before execution (#707)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/6cf17cb7138d3fac03f5b637c1fde91a00fb48fc",
    "exact": true
   },
   "Helius": {
@@ -4440,12 +4447,12 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 6,
-  "sent": 40,
+  "runs": 7,
+  "sent": 47,
   "by_source": {
-   "Databricks": 13,
+   "Databricks": 15,
    "Delving Bitcoin": 1,
-   "OpenAI": 8,
+   "OpenAI": 12,
    "Hugging Face (blog)": 5,
    "Allen AI": 2,
    "Google DeepMind": 2,
@@ -4455,7 +4462,8 @@
    "Google Research": 1,
    "Apple ML Research": 1,
    "SEC Press Releases": 1,
-   "SEC Speeches & Statements": 2
+   "SEC Speeches & Statements": 2,
+   "Solana SIMD": 1
   }
  }
 }
