@@ -1660,7 +1660,8 @@
    "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer",
    "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
-   "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer"
+   "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer",
+   "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -4081,7 +4082,8 @@
    "https://delvingbitcoin.org/t/silent-payments-for-electrum/3078",
    "https://delvingbitcoin.org/t/toward-efficient-post-quantum-bitcoin-bridges/3079",
    "https://delvingbitcoin.org/t/how-much-btc-sits-behind-keys-or-scripts-already-on-chain-block-975-019/3088",
-   "https://delvingbitcoin.org/t/post-quantum-recovery-framework/3099"
+   "https://delvingbitcoin.org/t/post-quantum-recovery-framework/3099",
+   "https://delvingbitcoin.org/t/node-attestation-protocol/3100"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4314,10 +4316,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 25,
+  "Thinking Machines": 26,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 89,
+  "Solana News": 90,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4341,8 +4343,8 @@
    "exact": true
   },
   "Google Research": {
-   "title": "A game you cannot win unless you have a quantum computer",
-   "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+   "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+   "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
    "exact": true
   },
   "Microsoft Research": {
@@ -4436,8 +4438,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Post Quantum Recovery Framework",
-   "url": "https://delvingbitcoin.org/t/post-quantum-recovery-framework/3099",
+   "title": "Node Attestation Protocol",
+   "url": "https://delvingbitcoin.org/t/node-attestation-protocol/3100",
    "exact": true
   },
   "a16z crypto": {
@@ -4463,11 +4465,11 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 9,
-  "sent": 63,
+  "runs": 10,
+  "sent": 65,
   "by_source": {
    "Databricks": 16,
-   "Delving Bitcoin": 2,
+   "Delving Bitcoin": 3,
    "OpenAI": 15,
    "Hugging Face (blog)": 7,
    "Allen AI": 2,
@@ -4475,7 +4477,7 @@
    "Amazon Science": 1,
    "Anthropic": 3,
    "a16z crypto": 2,
-   "Google Research": 1,
+   "Google Research": 2,
    "Apple ML Research": 2,
    "SEC Press Releases": 3,
    "SEC Speeches & Statements": 4,
