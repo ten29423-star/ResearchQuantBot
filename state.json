@@ -4084,7 +4084,8 @@
    "https://delvingbitcoin.org/t/how-much-btc-sits-behind-keys-or-scripts-already-on-chain-block-975-019/3088",
    "https://delvingbitcoin.org/t/post-quantum-recovery-framework/3099",
    "https://delvingbitcoin.org/t/node-attestation-protocol/3100",
-   "https://delvingbitcoin.org/t/open-question-on-a-hypothetical-minor-slow-sliding-mtp-attack-introduced-by-bip-54/3101"
+   "https://delvingbitcoin.org/t/open-question-on-a-hypothetical-minor-slow-sliding-mtp-attack-introduced-by-bip-54/3101",
+   "https://delvingbitcoin.org/t/multisig-session-protocol-draft-spec-for-remote-multisig-setup-and-signing-needs-review/3103"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4157,7 +4158,8 @@
    "https://a16zfrontier.com/posts/article/james-gleick-telephone",
    "https://a16zfrontier.com/posts/article/enterprises-need-more-than-payments",
    "https://a16zfrontier.com/posts/videos/ai-math-what-do-mathematicians-do",
-   "https://a16zfrontier.com/posts/article/deceiving-ai-hacking-agents"
+   "https://a16zfrontier.com/posts/article/deceiving-ai-hacking-agents",
+   "https://a16zfrontier.com/posts/article/ai-math-human-why"
   ],
   "SEC Press Releases": [
    "https://sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
@@ -4317,10 +4319,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 27,
+  "Thinking Machines": 28,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 91,
+  "Solana News": 92,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4439,13 +4441,13 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Open Question on a hypothetical minor \"slow-sliding MTP\" attack introduced by BIP 54",
-   "url": "https://delvingbitcoin.org/t/open-question-on-a-hypothetical-minor-slow-sliding-mtp-attack-introduced-by-bip-54/3101",
+   "title": "Multisig Session Protocol: draft spec for remote multisig setup and signing needs review",
+   "url": "https://delvingbitcoin.org/t/multisig-session-protocol-draft-spec-for-remote-multisig-setup-and-signing-needs-review/3103",
    "exact": true
   },
   "a16z crypto": {
-   "title": "How I tricked a hacking agent into running my code",
-   "url": "https://a16zfrontier.com/posts/article/deceiving-ai-hacking-agents/",
+   "title": "Why do math when AI can?",
+   "url": "https://a16zfrontier.com/posts/article/ai-math-human-why/",
    "exact": true
   },
   "SEC Press Releases": {
@@ -4466,18 +4468,18 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 11,
-  "sent": 66,
+  "runs": 12,
+  "sent": 68,
   "by_source": {
    "Databricks": 16,
-   "Delving Bitcoin": 4,
+   "Delving Bitcoin": 5,
    "OpenAI": 15,
    "Hugging Face (blog)": 7,
    "Allen AI": 2,
    "Google DeepMind": 2,
    "Amazon Science": 1,
    "Anthropic": 3,
-   "a16z crypto": 2,
+   "a16z crypto": 3,
    "Google Research": 2,
    "Apple ML Research": 2,
    "SEC Press Releases": 3,
