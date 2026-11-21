@@ -4083,7 +4083,8 @@
    "https://delvingbitcoin.org/t/toward-efficient-post-quantum-bitcoin-bridges/3079",
    "https://delvingbitcoin.org/t/how-much-btc-sits-behind-keys-or-scripts-already-on-chain-block-975-019/3088",
    "https://delvingbitcoin.org/t/post-quantum-recovery-framework/3099",
-   "https://delvingbitcoin.org/t/node-attestation-protocol/3100"
+   "https://delvingbitcoin.org/t/node-attestation-protocol/3100",
+   "https://delvingbitcoin.org/t/open-question-on-a-hypothetical-minor-slow-sliding-mtp-attack-introduced-by-bip-54/3101"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4316,10 +4317,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 26,
+  "Thinking Machines": 27,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 90,
+  "Solana News": 91,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4438,8 +4439,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Node Attestation Protocol",
-   "url": "https://delvingbitcoin.org/t/node-attestation-protocol/3100",
+   "title": "Open Question on a hypothetical minor \"slow-sliding MTP\" attack introduced by BIP 54",
+   "url": "https://delvingbitcoin.org/t/open-question-on-a-hypothetical-minor-slow-sliding-mtp-attack-introduced-by-bip-54/3101",
    "exact": true
   },
   "a16z crypto": {
@@ -4465,11 +4466,11 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 10,
-  "sent": 65,
+  "runs": 11,
+  "sent": 66,
   "by_source": {
    "Databricks": 16,
-   "Delving Bitcoin": 3,
+   "Delving Bitcoin": 4,
    "OpenAI": 15,
    "Hugging Face (blog)": 7,
    "Allen AI": 2,
