@@ -1427,7 +1427,8 @@
    "https://openai.com/business/learn/deploying-daybreak-red",
    "https://openai.com/index/introducing-medchembench",
    "https://openai.com/business/customer-stories/hebbia",
-   "https://openai.com/index/combatting-adversarial-distillation"
+   "https://openai.com/index/combatting-adversarial-distillation",
+   "https://openai.com/index/perplexity-and-intelligence"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -4319,10 +4320,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 31,
+  "Thinking Machines": 32,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 95,
+  "Solana News": 96,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4336,8 +4337,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Combatting adversarial distillation",
-   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "title": "Perplexity and Intelligence",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
    "exact": true
   },
   "Google DeepMind": {
@@ -4468,12 +4469,12 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 15,
-  "sent": 68,
+  "runs": 16,
+  "sent": 69,
   "by_source": {
    "Databricks": 16,
    "Delving Bitcoin": 5,
-   "OpenAI": 15,
+   "OpenAI": 16,
    "Hugging Face (blog)": 7,
    "Allen AI": 2,
    "Google DeepMind": 2,
