@@ -1546,7 +1546,8 @@
    "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
    "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
    "https://deepmind.google/blog/genie-4-is-now-available",
-   "https://deepmind.google/blog/introducing-gemini-4-neon"
+   "https://deepmind.google/blog/introducing-gemini-4-neon",
+   "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -1662,7 +1663,8 @@
    "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
    "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer",
-   "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini"
+   "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+   "https://research.google/blog/supercharging-transformer-residual-connections"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -2757,7 +2759,9 @@
    "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
    "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
    "https://huggingface.co/blog/harness-adapters-at-scale",
-   "https://huggingface.co/blog/inkling2mini"
+   "https://huggingface.co/blog/inkling2mini",
+   "https://huggingface.co/blog/agentic-evals",
+   "https://huggingface.co/blog/allenai/robotrack"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3443,7 +3447,8 @@
    "https://allenai.org/blog/toyblocks",
    "https://allenai.org/blog/xybench",
    "https://allenai.org/blog/taylor-geospatial-partnership",
-   "https://allenai.org/blog/theorizer-in-asta"
+   "https://allenai.org/blog/theorizer-in-asta",
+   "https://allenai.org/blog/robotrack"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3685,7 +3690,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/540f6ab4b9b71b584eae4f00c156194308d6650e",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/809a97a0b0e0f2190fa5d494bcc5856a06907969",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/ae7b00f3287a614c5aa5d0a7ceb7bad0cdc4e022",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/6cf17cb7138d3fac03f5b637c1fde91a00fb48fc"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/6cf17cb7138d3fac03f5b637c1fde91a00fb48fc",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/44a4406237de1597ce56c1d106161dda950cbc68"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -4086,7 +4092,9 @@
    "https://delvingbitcoin.org/t/post-quantum-recovery-framework/3099",
    "https://delvingbitcoin.org/t/node-attestation-protocol/3100",
    "https://delvingbitcoin.org/t/open-question-on-a-hypothetical-minor-slow-sliding-mtp-attack-introduced-by-bip-54/3101",
-   "https://delvingbitcoin.org/t/multisig-session-protocol-draft-spec-for-remote-multisig-setup-and-signing-needs-review/3103"
+   "https://delvingbitcoin.org/t/multisig-session-protocol-draft-spec-for-remote-multisig-setup-and-signing-needs-review/3103",
+   "https://delvingbitcoin.org/t/receive-screens-and-expiry-how-users-read-payment-request-expiry/3107",
+   "https://delvingbitcoin.org/t/bitcoin-core-v31-3-released/3110"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4320,10 +4328,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 34,
+  "Thinking Machines": 35,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 98,
+  "Solana News": 99,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4342,13 +4350,13 @@
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Introducing Gemini 4 Neon",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
    "exact": true
   },
   "Google Research": {
-   "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-   "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+   "title": "Supercharging transformer residual connections",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
    "exact": true
   },
   "Microsoft Research": {
@@ -4377,8 +4385,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-   "url": "https://huggingface.co/blog/inkling2mini",
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "url": "https://huggingface.co/blog/allenai/robotrack",
    "exact": true
   },
   "Anthropic": {
@@ -4392,8 +4400,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "Theorizer comes to Asta",
-   "url": "https://allenai.org/blog/theorizer-in-asta",
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "url": "https://allenai.org/blog/robotrack",
    "exact": true
   },
   "Thinking Machines": {
@@ -4422,8 +4430,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "Amend 0529: charge a flat cu first before execution (#707)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/6cf17cb7138d3fac03f5b637c1fde91a00fb48fc",
+   "title": "SIMD-0706: Reject unknown syscalls and `sol_alloc_free_` (#706)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/44a4406237de1597ce56c1d106161dda950cbc68",
    "exact": true
   },
   "Helius": {
@@ -4442,8 +4450,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Multisig Session Protocol: draft spec for remote multisig setup and signing needs review",
-   "url": "https://delvingbitcoin.org/t/multisig-session-protocol-draft-spec-for-remote-multisig-setup-and-signing-needs-review/3103",
+   "title": "Bitcoin Core v31.3 Released",
+   "url": "https://delvingbitcoin.org/t/bitcoin-core-v31-3-released/3110",
    "exact": true
   },
   "a16z crypto": {
@@ -4469,23 +4477,23 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 18,
-  "sent": 69,
+  "runs": 19,
+  "sent": 77,
   "by_source": {
    "Databricks": 16,
-   "Delving Bitcoin": 5,
+   "Delving Bitcoin": 7,
    "OpenAI": 16,
-   "Hugging Face (blog)": 7,
-   "Allen AI": 2,
-   "Google DeepMind": 2,
+   "Hugging Face (blog)": 9,
+   "Allen AI": 3,
+   "Google DeepMind": 3,
    "Amazon Science": 1,
    "Anthropic": 3,
    "a16z crypto": 3,
-   "Google Research": 2,
+   "Google Research": 3,
    "Apple ML Research": 2,
    "SEC Press Releases": 3,
    "SEC Speeches & Statements": 4,
-   "Solana SIMD": 1,
+   "Solana SIMD": 2,
    "Bitcoin Optech": 1,
    "Bitcoin BIPs": 1
   }
