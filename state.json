@@ -1428,7 +1428,10 @@
    "https://openai.com/index/introducing-medchembench",
    "https://openai.com/business/customer-stories/hebbia",
    "https://openai.com/index/combatting-adversarial-distillation",
-   "https://openai.com/index/perplexity-and-intelligence"
+   "https://openai.com/index/perplexity-and-intelligence",
+   "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "https://openai.com/index/introducing-shirudo"
   ],
   "Google DeepMind": [
    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
@@ -3310,7 +3313,8 @@
    "https://anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
    "https://anthropic.com/research/claude-black-hole-physics",
    "https://anthropic.com/news/anthropic-prices-initial-public-offering",
-   "https://anthropic.com/news/ipo-close"
+   "https://anthropic.com/news/ipo-close",
+   "https://anthropic.com/research/working-with-ai"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3589,7 +3593,10 @@
    "https://databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
    "https://databricks.com/blog/postgresql-19-available-lakebase",
    "https://databricks.com/blog/why-postgresql-19-shipped-late",
-   "https://databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries"
+   "https://databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
+   "https://databricks.com/blog/announcing-general-availability-native-lakebase-postgres-sink-spark-structured-streaming",
+   "https://databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
+   "https://databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4022,7 +4029,9 @@
    "https://github.com/bitcoin/bips/commit/e373a69b96c03329cbf4196cb236a2dec4353154",
    "https://github.com/bitcoin/bips/commit/1672ae28e31f8600444a165363053de9dda8989e",
    "https://github.com/bitcoin/bips/commit/a7f91321f25b5be8d93e901775621c21519e80b7",
-   "https://github.com/bitcoin/bips/commit/fdcd8024595bc1e97db73883e716dbb91627c371"
+   "https://github.com/bitcoin/bips/commit/fdcd8024595bc1e97db73883e716dbb91627c371",
+   "https://github.com/bitcoin/bips/commit/335eaac0e80751d382952ba78b4b1149f10876a1",
+   "https://github.com/bitcoin/bips/commit/0d99ffd39fdaf75209c43b1f8ec3fbbc23f10814"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4094,7 +4103,8 @@
    "https://delvingbitcoin.org/t/open-question-on-a-hypothetical-minor-slow-sliding-mtp-attack-introduced-by-bip-54/3101",
    "https://delvingbitcoin.org/t/multisig-session-protocol-draft-spec-for-remote-multisig-setup-and-signing-needs-review/3103",
    "https://delvingbitcoin.org/t/receive-screens-and-expiry-how-users-read-payment-request-expiry/3107",
-   "https://delvingbitcoin.org/t/bitcoin-core-v31-3-released/3110"
+   "https://delvingbitcoin.org/t/bitcoin-core-v31-3-released/3110",
+   "https://delvingbitcoin.org/t/checking-transaction-inclusion-against-an-untrusted-explorer-api-how-much-proof-of-work-is-enough/3113"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4328,10 +4338,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 35,
+  "Thinking Machines": 36,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 99,
+  "Solana News": 100,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4345,8 +4355,8 @@
  },
  "last": {
   "OpenAI": {
-   "title": "Perplexity and Intelligence",
-   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
    "exact": true
   },
   "Google DeepMind": {
@@ -4390,8 +4400,8 @@
    "exact": true
   },
   "Anthropic": {
-   "title": "Ipo Close",
-   "url": "https://www.anthropic.com/news/ipo-close",
+   "title": "Working With Ai",
+   "url": "https://www.anthropic.com/research/working-with-ai",
    "exact": false
   },
   "Mistral": {
@@ -4410,8 +4420,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Interactive Databricks Reference Architectures Across 70 Industries",
-   "url": "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
+   "title": "Sharing catalog metadata across data platforms, engines, and agents",
+   "url": "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4445,13 +4455,13 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2301 from ajtowns/202609-set324id",
-   "url": "https://github.com/bitcoin/bips/commit/fdcd8024595bc1e97db73883e716dbb91627c371",
+   "title": "Merge pull request #2344 from ariard/bip54-ruleout-forward-block",
+   "url": "https://github.com/bitcoin/bips/commit/0d99ffd39fdaf75209c43b1f8ec3fbbc23f10814",
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Bitcoin Core v31.3 Released",
-   "url": "https://delvingbitcoin.org/t/bitcoin-core-v31-3-released/3110",
+   "title": "Checking transaction inclusion against an untrusted explorer API: how much proof of work is enough?",
+   "url": "https://delvingbitcoin.org/t/checking-transaction-inclusion-against-an-untrusted-explorer-api-how-much-proof-of-work-is-enough/3113",
    "exact": true
   },
   "a16z crypto": {
@@ -4477,17 +4487,17 @@
  },
  "weekly": {
   "since": 1794964204.0087714,
-  "runs": 19,
-  "sent": 77,
+  "runs": 20,
+  "sent": 87,
   "by_source": {
-   "Databricks": 16,
-   "Delving Bitcoin": 7,
-   "OpenAI": 16,
+   "Databricks": 19,
+   "Delving Bitcoin": 8,
+   "OpenAI": 19,
    "Hugging Face (blog)": 9,
    "Allen AI": 3,
    "Google DeepMind": 3,
    "Amazon Science": 1,
-   "Anthropic": 3,
+   "Anthropic": 4,
    "a16z crypto": 3,
    "Google Research": 3,
    "Apple ML Research": 2,
@@ -4495,7 +4505,7 @@
    "SEC Speeches & Statements": 4,
    "Solana SIMD": 2,
    "Bitcoin Optech": 1,
-   "Bitcoin BIPs": 1
+   "Bitcoin BIPs": 3
   }
  }
 }
