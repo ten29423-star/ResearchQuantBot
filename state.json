@@ -1555,7 +1555,8 @@
    "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
    "https://deepmind.google/blog/genie-4-is-now-available",
    "https://deepmind.google/blog/introducing-gemini-4-neon",
-   "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification"
+   "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+   "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity"
   ],
   "Google Research": [
    "https://research.google/blog/does-better-work-always-mean-better-workers",
@@ -1672,7 +1673,8 @@
    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
    "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer",
    "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
-   "https://research.google/blog/supercharging-transformer-residual-connections"
+   "https://research.google/blog/supercharging-transformer-residual-connections",
+   "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants"
   ],
   "Microsoft Research": [
    "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
@@ -2772,7 +2774,9 @@
    "https://huggingface.co/blog/inkling2mini",
    "https://huggingface.co/blog/agentic-evals",
    "https://huggingface.co/blog/allenai/robotrack",
-   "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
+   "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3322,7 +3326,8 @@
    "https://anthropic.com/research/claude-black-hole-physics",
    "https://anthropic.com/news/anthropic-prices-initial-public-offering",
    "https://anthropic.com/news/ipo-close",
-   "https://anthropic.com/research/working-with-ai"
+   "https://anthropic.com/research/working-with-ai",
+   "https://anthropic.com/research/migrating-api-to-rust"
   ],
   "Mistral": [
    "https://mistral.ai/news/mistral-large-4",
@@ -3707,7 +3712,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/809a97a0b0e0f2190fa5d494bcc5856a06907969",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/ae7b00f3287a614c5aa5d0a7ceb7bad0cdc4e022",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/6cf17cb7138d3fac03f5b637c1fde91a00fb48fc",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/44a4406237de1597ce56c1d106161dda950cbc68"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/44a4406237de1597ce56c1d106161dda950cbc68",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/e4d2b0e1c035385a65a96b3875e5b92af5df868e"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -4042,7 +4048,9 @@
    "https://github.com/bitcoin/bips/commit/a7f91321f25b5be8d93e901775621c21519e80b7",
    "https://github.com/bitcoin/bips/commit/fdcd8024595bc1e97db73883e716dbb91627c371",
    "https://github.com/bitcoin/bips/commit/335eaac0e80751d382952ba78b4b1149f10876a1",
-   "https://github.com/bitcoin/bips/commit/0d99ffd39fdaf75209c43b1f8ec3fbbc23f10814"
+   "https://github.com/bitcoin/bips/commit/0d99ffd39fdaf75209c43b1f8ec3fbbc23f10814",
+   "https://github.com/bitcoin/bips/commit/4a0b997051395a85f2cd4e17b179181f8ddb2497",
+   "https://github.com/bitcoin/bips/commit/9f3d3bc6a60db16efbdc71ac8f7ea30217fc0c39"
   ],
   "Delving Bitcoin": [
    "https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957",
@@ -4116,7 +4124,9 @@
    "https://delvingbitcoin.org/t/receive-screens-and-expiry-how-users-read-payment-request-expiry/3107",
    "https://delvingbitcoin.org/t/bitcoin-core-v31-3-released/3110",
    "https://delvingbitcoin.org/t/checking-transaction-inclusion-against-an-untrusted-explorer-api-how-much-proof-of-work-is-enough/3113",
-   "https://delvingbitcoin.org/t/676-byte-knowledge-asymmetry-utxo-rescue-and-stateless-lattice-pq-mpc-for-legacy-supply-migration/3116"
+   "https://delvingbitcoin.org/t/676-byte-knowledge-asymmetry-utxo-rescue-and-stateless-lattice-pq-mpc-for-legacy-supply-migration/3116",
+   "https://delvingbitcoin.org/t/a-bitcoin-quantum-roadmap-combining-bip-361-and-pacts-to-preserve-ownership-rights/3122",
+   "https://delvingbitcoin.org/t/exploiting-wallet-rebroadcast-to-link-addresses-to-node-ips-and-more/3123"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4230,7 +4240,8 @@
    "https://sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
    "https://sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
    "https://sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
-   "https://sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail"
+   "https://sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+   "https://sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting"
   ],
   "SEC Trading Suspensions": [
    "https://sec.gov/files/litigation/suspensions/2026/34-105675.pdf",
@@ -4351,10 +4362,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 38,
+  "Thinking Machines": 39,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 102,
+  "Solana News": 103,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4373,13 +4384,13 @@
    "exact": true
   },
   "Google DeepMind": {
-   "title": "Finding faster quantum algorithms with agents and formal verification",
-   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
    "exact": true
   },
   "Google Research": {
-   "title": "Supercharging transformer residual connections",
-   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "title": "Verifiable Social Reasoning for LLM Assistants",
+   "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
    "exact": true
   },
   "Microsoft Research": {
@@ -4408,13 +4419,13 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "title": "An Indic Voice Agent with CUGA",
+   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
    "exact": true
   },
   "Anthropic": {
-   "title": "Working With Ai",
-   "url": "https://www.anthropic.com/research/working-with-ai",
+   "title": "Migrating Api To Rust",
+   "url": "https://www.anthropic.com/research/migrating-api-to-rust",
    "exact": false
   },
   "Mistral": {
@@ -4453,8 +4464,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "SIMD-0706: Reject unknown syscalls and `sol_alloc_free_` (#706)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/44a4406237de1597ce56c1d106161dda950cbc68",
+   "title": "100M CUs Pt2 (#698)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/e4d2b0e1c035385a65a96b3875e5b92af5df868e",
    "exact": true
   },
   "Helius": {
@@ -4468,13 +4479,13 @@
    "exact": true
   },
   "Bitcoin BIPs": {
-   "title": "Merge pull request #2344 from ariard/bip54-ruleout-forward-block",
-   "url": "https://github.com/bitcoin/bips/commit/0d99ffd39fdaf75209c43b1f8ec3fbbc23f10814",
+   "title": "Merge pull request #2364 from bitcoin/2026-11-update-BIP-325-status",
+   "url": "https://github.com/bitcoin/bips/commit/9f3d3bc6a60db16efbdc71ac8f7ea30217fc0c39",
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "676-Byte Knowledge-Asymmetry UTXO Rescue and Stateless Lattice PQ-MPC for Legacy Supply Migration",
-   "url": "https://delvingbitcoin.org/t/676-byte-knowledge-asymmetry-utxo-rescue-and-stateless-lattice-pq-mpc-for-legacy-supply-migration/3116",
+   "title": "Exploiting Wallet Rebroadcast to Link Addresses to Node IPs and More",
+   "url": "https://delvingbitcoin.org/t/exploiting-wallet-rebroadcast-to-link-addresses-to-node-ips-and-more/3123",
    "exact": true
   },
   "a16z crypto": {
@@ -4483,8 +4494,8 @@
    "exact": true
   },
   "SEC Press Releases": {
-   "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+   "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
    "exact": true
   },
   "SEC Trading Suspensions": {
@@ -4500,8 +4511,17 @@
  },
  "weekly": {
   "since": 1795594497.9299912,
-  "runs": 0,
-  "sent": 0,
-  "by_source": {}
+  "runs": 1,
+  "sent": 11,
+  "by_source": {
+   "Google DeepMind": 1,
+   "Google Research": 1,
+   "Hugging Face (blog)": 2,
+   "Anthropic": 1,
+   "Solana SIMD": 1,
+   "Bitcoin BIPs": 2,
+   "Delving Bitcoin": 2,
+   "SEC Press Releases": 1
+  }
  }
 }
