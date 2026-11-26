@@ -2777,7 +2777,8 @@
    "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-   "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+   "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -4366,10 +4367,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 40,
+  "Thinking Machines": 41,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 104,
+  "Solana News": 105,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4423,8 +4424,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Where scientists draw the line on AI agents",
-   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
    "exact": true
   },
   "Anthropic": {
@@ -4515,12 +4516,12 @@
  },
  "weekly": {
   "since": 1795594497.9299912,
-  "runs": 2,
-  "sent": 15,
+  "runs": 3,
+  "sent": 16,
   "by_source": {
    "Google DeepMind": 1,
    "Google Research": 1,
-   "Hugging Face (blog)": 3,
+   "Hugging Face (blog)": 4,
    "Anthropic": 1,
    "Solana SIMD": 2,
    "Bitcoin BIPs": 2,
