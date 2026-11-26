@@ -2778,7 +2778,9 @@
    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-   "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+   "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "https://huggingface.co/blog/training-swarms",
+   "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3613,7 +3615,8 @@
    "https://databricks.com/blog/announcing-general-availability-native-lakebase-postgres-sink-spark-structured-streaming",
    "https://databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
    "https://databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
-   "https://databricks.com/blog/agentic-cdp-data-modeling-data-foundation"
+   "https://databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
+   "https://databricks.com/blog/rethinking-read-replicas-lakebase-architecture"
   ],
   "BAIR (Berkeley)": [
    "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
@@ -4367,10 +4370,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 41,
+  "Thinking Machines": 42,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 105,
+  "Solana News": 106,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4424,8 +4427,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
    "exact": true
   },
   "Anthropic": {
@@ -4449,8 +4452,8 @@
    "exact": true
   },
   "Databricks": {
-   "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
-   "url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
+   "title": "Rethinking read replicas for the lakebase architecture",
+   "url": "https://www.databricks.com/blog/rethinking-read-replicas-lakebase-architecture",
    "exact": true
   },
   "BAIR (Berkeley)": {
@@ -4516,19 +4519,20 @@
  },
  "weekly": {
   "since": 1795594497.9299912,
-  "runs": 3,
-  "sent": 16,
+  "runs": 4,
+  "sent": 19,
   "by_source": {
    "Google DeepMind": 1,
    "Google Research": 1,
-   "Hugging Face (blog)": 4,
+   "Hugging Face (blog)": 6,
    "Anthropic": 1,
    "Solana SIMD": 2,
    "Bitcoin BIPs": 2,
    "Delving Bitcoin": 2,
    "SEC Press Releases": 1,
    "Allen AI": 1,
-   "Firedancer (releases)": 1
+   "Firedancer (releases)": 1,
+   "Databricks": 1
   }
  }
 }
