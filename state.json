@@ -2776,7 +2776,8 @@
    "https://huggingface.co/blog/allenai/robotrack",
    "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-   "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+   "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3465,7 +3466,8 @@
    "https://allenai.org/blog/xybench",
    "https://allenai.org/blog/taylor-geospatial-partnership",
    "https://allenai.org/blog/theorizer-in-asta",
-   "https://allenai.org/blog/robotrack"
+   "https://allenai.org/blog/robotrack",
+   "https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents"
   ],
   "Thinking Machines": [
    "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights",
@@ -3670,7 +3672,8 @@
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.6",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.7",
    "https://github.com/firedancer-io/firedancer/releases/tag/v26.10.8",
-   "https://github.com/firedancer-io/firedancer/releases/tag/v26.11.0"
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.11.0",
+   "https://github.com/firedancer-io/firedancer/releases/tag/v26.11.1"
   ],
   "Solana SIMD": [
    "https://github.com/solana-foundation/solana-improvement-documents/commit/f1f6c8b05dc205552d3c290a854a438392701107",
@@ -3713,7 +3716,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/ae7b00f3287a614c5aa5d0a7ceb7bad0cdc4e022",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/6cf17cb7138d3fac03f5b637c1fde91a00fb48fc",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/44a4406237de1597ce56c1d106161dda950cbc68",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/e4d2b0e1c035385a65a96b3875e5b92af5df868e"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/e4d2b0e1c035385a65a96b3875e5b92af5df868e",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/1536c3eceda1779de191453246f939e53d8d7c94"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -4362,10 +4366,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 39,
+  "Thinking Machines": 40,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 103,
+  "Solana News": 104,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4419,8 +4423,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "An Indic Voice Agent with CUGA",
-   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "title": "Where scientists draw the line on AI agents",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
    "exact": true
   },
   "Anthropic": {
@@ -4434,8 +4438,8 @@
    "exact": true
   },
   "Allen AI": {
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "url": "https://allenai.org/blog/robotrack",
+   "title": "Where scientists draw the line on AI agents",
+   "url": "https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents",
    "exact": true
   },
   "Thinking Machines": {
@@ -4459,13 +4463,13 @@
    "exact": true
   },
   "Firedancer (releases)": {
-   "title": "Firedancer Testnet Release v26.11.0",
-   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.11.0",
+   "title": "Firedancer Mainnet Release v26.11.1",
+   "url": "https://github.com/firedancer-io/firedancer/releases/tag/v26.11.1",
    "exact": true
   },
   "Solana SIMD": {
-   "title": "100M CUs Pt2 (#698)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/e4d2b0e1c035385a65a96b3875e5b92af5df868e",
+   "title": "Withdraw SIMD-0506 (#738)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/1536c3eceda1779de191453246f939e53d8d7c94",
    "exact": true
   },
   "Helius": {
@@ -4511,17 +4515,19 @@
  },
  "weekly": {
   "since": 1795594497.9299912,
-  "runs": 1,
-  "sent": 11,
+  "runs": 2,
+  "sent": 15,
   "by_source": {
    "Google DeepMind": 1,
    "Google Research": 1,
-   "Hugging Face (blog)": 2,
+   "Hugging Face (blog)": 3,
    "Anthropic": 1,
-   "Solana SIMD": 1,
+   "Solana SIMD": 2,
    "Bitcoin BIPs": 2,
    "Delving Bitcoin": 2,
-   "SEC Press Releases": 1
+   "SEC Press Releases": 1,
+   "Allen AI": 1,
+   "Firedancer (releases)": 1
   }
  }
 }
