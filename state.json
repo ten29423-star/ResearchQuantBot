@@ -2780,7 +2780,8 @@
    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
    "https://huggingface.co/blog/training-swarms",
-   "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+   "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "https://huggingface.co/blog/video-trainium3"
   ],
   "Anthropic": [
    "https://anthropic.com/engineering/a-postmortem-of-three-recent-issues",
@@ -3721,7 +3722,8 @@
    "https://github.com/solana-foundation/solana-improvement-documents/commit/6cf17cb7138d3fac03f5b637c1fde91a00fb48fc",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/44a4406237de1597ce56c1d106161dda950cbc68",
    "https://github.com/solana-foundation/solana-improvement-documents/commit/e4d2b0e1c035385a65a96b3875e5b92af5df868e",
-   "https://github.com/solana-foundation/solana-improvement-documents/commit/1536c3eceda1779de191453246f939e53d8d7c94"
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/1536c3eceda1779de191453246f939e53d8d7c94",
+   "https://github.com/solana-foundation/solana-improvement-documents/commit/7a56bc9241056930caa2312bf0c8790a6799bccf"
   ],
   "Helius": [
    "https://helius.dev/blog/agave-v4-3",
@@ -4371,10 +4373,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 43,
+  "Thinking Machines": 44,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 107,
+  "Solana News": 108,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4428,8 +4430,8 @@
    "exact": true
   },
   "Hugging Face (blog)": {
-   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "url": "https://huggingface.co/blog/video-trainium3",
    "exact": true
   },
   "Anthropic": {
@@ -4473,8 +4475,8 @@
    "exact": true
   },
   "Solana SIMD": {
-   "title": "Withdraw SIMD-0506 (#738)",
-   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/1536c3eceda1779de191453246f939e53d8d7c94",
+   "title": "SIMD-0579: Keccak-p1600 syscall (#579)",
+   "url": "https://github.com/solana-foundation/solana-improvement-documents/commit/7a56bc9241056930caa2312bf0c8790a6799bccf",
    "exact": true
   },
   "Helius": {
@@ -4520,14 +4522,14 @@
  },
  "weekly": {
   "since": 1795594497.9299912,
-  "runs": 5,
-  "sent": 20,
+  "runs": 6,
+  "sent": 22,
   "by_source": {
    "Google DeepMind": 1,
    "Google Research": 1,
-   "Hugging Face (blog)": 6,
+   "Hugging Face (blog)": 7,
    "Anthropic": 1,
-   "Solana SIMD": 2,
+   "Solana SIMD": 3,
    "Bitcoin BIPs": 2,
    "Delving Bitcoin": 3,
    "SEC Press Releases": 1,
