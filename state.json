@@ -4134,7 +4134,8 @@
    "https://delvingbitcoin.org/t/checking-transaction-inclusion-against-an-untrusted-explorer-api-how-much-proof-of-work-is-enough/3113",
    "https://delvingbitcoin.org/t/676-byte-knowledge-asymmetry-utxo-rescue-and-stateless-lattice-pq-mpc-for-legacy-supply-migration/3116",
    "https://delvingbitcoin.org/t/a-bitcoin-quantum-roadmap-combining-bip-361-and-pacts-to-preserve-ownership-rights/3122",
-   "https://delvingbitcoin.org/t/exploiting-wallet-rebroadcast-to-link-addresses-to-node-ips-and-more/3123"
+   "https://delvingbitcoin.org/t/exploiting-wallet-rebroadcast-to-link-addresses-to-node-ips-and-more/3123",
+   "https://delvingbitcoin.org/t/handling-pq-signatures-on-the-stack/3128"
   ],
   "a16z crypto": [
    "https://a16zcrypto.com/posts/article/rethinking-kyc",
@@ -4370,10 +4371,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 42,
+  "Thinking Machines": 43,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 106,
+  "Solana News": 107,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4492,8 +4493,8 @@
    "exact": true
   },
   "Delving Bitcoin": {
-   "title": "Exploiting Wallet Rebroadcast to Link Addresses to Node IPs and More",
-   "url": "https://delvingbitcoin.org/t/exploiting-wallet-rebroadcast-to-link-addresses-to-node-ips-and-more/3123",
+   "title": "Handling PQ signatures on the stack",
+   "url": "https://delvingbitcoin.org/t/handling-pq-signatures-on-the-stack/3128",
    "exact": true
   },
   "a16z crypto": {
@@ -4519,8 +4520,8 @@
  },
  "weekly": {
   "since": 1795594497.9299912,
-  "runs": 4,
-  "sent": 19,
+  "runs": 5,
+  "sent": 20,
   "by_source": {
    "Google DeepMind": 1,
    "Google Research": 1,
@@ -4528,7 +4529,7 @@
    "Anthropic": 1,
    "Solana SIMD": 2,
    "Bitcoin BIPs": 2,
-   "Delving Bitcoin": 2,
+   "Delving Bitcoin": 3,
    "SEC Press Releases": 1,
    "Allen AI": 1,
    "Firedancer (releases)": 1,
