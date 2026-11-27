@@ -3953,7 +3953,8 @@
    "https://bitcoinops.org/en/newsletters/2026/11/13",
    "https://bitcoinops.org/en/podcast/2026/11/17",
    "https://bitcoinops.org/en/newsletters/2026/11/20",
-   "https://bitcoinops.org/en/podcast/2026/11/24"
+   "https://bitcoinops.org/en/podcast/2026/11/24",
+   "https://bitcoinops.org/en/newsletters/2026/11/27"
   ],
   "Bitcoin BIPs": [
    "https://github.com/bitcoin/bips/commit/927b6de9915c9262615a6399de51b200f81e5aa4",
@@ -4373,10 +4374,10 @@
   "Anthropic": 0,
   "Mistral": 0,
   "Allen AI": 0,
-  "Thinking Machines": 44,
+  "Thinking Machines": 45,
   "Databricks": 0,
   "BAIR (Berkeley)": 0,
-  "Solana News": 108,
+  "Solana News": 109,
   "Firedancer (releases)": 0,
   "Solana SIMD": 0,
   "Helius": 0,
@@ -4485,8 +4486,8 @@
    "exact": true
   },
   "Bitcoin Optech": {
-   "title": "Bitcoin Optech Newsletter #432 Recap Podcast",
-   "url": "https://bitcoinops.org/en/podcast/2026/11/24/",
+   "title": "Bitcoin Optech Newsletter #433",
+   "url": "https://bitcoinops.org/en/newsletters/2026/11/27/",
    "exact": true
   },
   "Bitcoin BIPs": {
@@ -4522,8 +4523,8 @@
  },
  "weekly": {
   "since": 1795594497.9299912,
-  "runs": 6,
-  "sent": 22,
+  "runs": 7,
+  "sent": 23,
   "by_source": {
    "Google DeepMind": 1,
    "Google Research": 1,
@@ -4535,7 +4536,8 @@
    "SEC Press Releases": 1,
    "Allen AI": 1,
    "Firedancer (releases)": 1,
-   "Databricks": 1
+   "Databricks": 1,
+   "Bitcoin Optech": 1
   }
  }
 }
